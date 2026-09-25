@@ -30,15 +30,17 @@
     "candidate": "Manuel Barrantes Duarte",
     "run_date": "2026-09-23",
     "version": "v4-connect",
-    "connect_feed_count": 123,
-    "connect_named_recruiters": 1,
-    "connect_named_leaders": 13,
+    "connect_feed_count": 142,
+    "connect_named_recruiters": 16,
+    "connect_named_leaders": 17,
     "connect_named_peers": 31,
     "connect_seats": 78,
-    "connect_ready": 45,
+    "connect_ready": 64,
     "connect_walmart_people_excluded": 26,
     "connect_v4_merged": true,
-    "connect_built_at": "2026-09-25T23:04:08Z"
+    "connect_built_at": "2026-09-25T23:11:49Z",
+    "connect_alt_merged": true,
+    "connect_alt_count": 19
   },
   "people": [
     {
@@ -43987,6 +43989,468 @@
   },
   "connect_feed": [
     {
+      "id": "alt-012-andrew-kinnas",
+      "badge": "Recruiter",
+      "name": "Andrew Kinnas",
+      "company": "Cloudflare",
+      "title": "Senior Technical Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/andrewkinnas",
+      "job_refs": [
+        {
+          "jobId": "4468575915",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 72,
+          "link": "https://www.linkedin.com/jobs/view/4468575915"
+        },
+        {
+          "jobId": "4468578841",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4468578841"
+        }
+      ],
+      "why": "Public LinkedIn guest profile confirms Cloudflare affiliation; recent posts hiring Sr Data Scientist / PM / Security Architect at Cloudflare. Useful contact for",
+      "note_template": "Hi Andrew, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Cloudflare's trust work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-008-jessie-wolfe",
+      "badge": "Recruiter",
+      "name": "Jessie Wolfe",
+      "company": "TikTok",
+      "title": "Global Talent Acquisition Partner",
+      "linkedin_url": "https://www.linkedin.com/in/jessiewolfe",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "Public LinkedIn: Global Talent Acquisition Partner at TikTok (NYC) since Feb 2021. Additional US-based TA partner for TikTok roles.",
+      "note_template": "Hi Jessie, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-014-megan-jennings",
+      "badge": "Recruiter",
+      "name": "Megan Jennings",
+      "company": "Capital One",
+      "title": "Lead Technical Recruiter - Card Tech",
+      "linkedin_url": "https://www.linkedin.com/in/megankgreen",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Public LinkedIn: Lead Technical Recruiter - Card Tech at Capital One; hires Director/Senior Director tech roles. PHR credential listed on profile.",
+      "note_template": "Hi Megan, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-001-annie-minter",
+      "badge": "Recruiter",
+      "name": "Annie Minter",
+      "company": "DoorDash",
+      "title": "Recruiting Manager, Strategy & Operations",
+      "linkedin_url": "https://www.linkedin.com/in/anniewhit",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn profile + posts: currently leading Strategy & Operations hiring at DoorDash; recently posted seeking a contract sourcer for S&O recruiting. Stro",
+      "note_template": "Hi Annie, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-005-kelly-forcier",
+      "badge": "Recruiter",
+      "name": "Kelly Forcier",
+      "company": "DoorDash",
+      "title": "Recruiting Manager, CXI (Customer Experience & Integrity)",
+      "linkedin_url": "https://www.linkedin.com/in/kellyforcier",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn: Recruiting Manager, CXI — drives recruiting across Support, Customer Experience, Trust & Safety, and Fraud. Direct fit for Director, Customer E",
+      "note_template": "Hi Kelly, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-002-kelsey-lee",
+      "badge": "Recruiter",
+      "name": "Kelsey Lee",
+      "company": "DoorDash",
+      "title": "Senior Business Recruiter, Strategy and Operations",
+      "linkedin_url": "https://www.linkedin.com/in/kelseylee722",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn profile indexes current Senior Business Recruiter, Strategy and Operations at DoorDash. Peer/IC-level S&O recruiter under Annie's pod.",
+      "note_template": "Hi Kelsey, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-003-lauren-treleven",
+      "badge": "Recruiter",
+      "name": "Lauren Treleven",
+      "company": "DoorDash",
+      "title": "Leadership Recruiter (Director-level non-tech: G&A, Sales, S&O, CXI)",
+      "linkedin_url": "https://www.linkedin.com/in/lauren-treleven",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn: Leadership Recruiter at DoorDash since Mar 2026; leads Director-level searches across non-technical functions including G&A, Sales, Strategy & ",
+      "note_template": "Hi Lauren, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-006-lianna-falkenstein",
+      "badge": "Recruiter",
+      "name": "Lianna Falkenstein",
+      "company": "DoorDash",
+      "title": "Senior Recruiter (CXI / Customer Experience Strategy & Operations)",
+      "linkedin_url": "https://www.linkedin.com/in/liannafalkenstein",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn profile + active hiring posts (2026) for CX/S&O roles including Senior Manager CX Credit & Refunds, Senior Associate CX Safety, QA S&O. Actively",
+      "note_template": "Hi Lianna, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-010-sara-abdel-wahab",
+      "badge": "Recruiter",
+      "name": "Sara Abdel-Wahab",
+      "company": "OpenAI",
+      "title": "Recruiting Lead, Technical",
+      "linkedin_url": "https://www.linkedin.com/in/saraabdelwahab",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Public LinkedIn indexes Recruiting Lead, Technical at OpenAI (current). Leadership-level technical recruiting contact.",
+      "note_template": "Hi Sara, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-009-sharon-o'ryan",
+      "badge": "Recruiter",
+      "name": "Sharon O'Ryan",
+      "company": "OpenAI",
+      "title": "Lead Technical Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/sharon-o-ryan-a893101b9",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Public LinkedIn profile (OpenAI headline + Lead Technical Recruiter experience). Verified via WebFetch guest profile. Primarily technical hiring; still a named ",
+      "note_template": "Hi Sharon, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-011-sukie-emerson",
+      "badge": "Recruiter",
+      "name": "Sukie Emerson",
+      "company": "OpenAI",
+      "title": "Member of Recruiting Staff (Technical)",
+      "linkedin_url": "https://www.linkedin.com/in/sukieemerson",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Public LinkedIn: Recruiting @ OpenAI; Member of Recruiting Staff hiring for Engineering. Prior Stripe S&O recruiting experience noted on profile.",
+      "note_template": "Hi Sukie, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-015-brad-schiff",
+      "badge": "Recruiter",
+      "name": "Brad Schiff",
+      "company": "ezCater",
+      "title": "Senior Technology & Product Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/brad-schiff",
+      "job_refs": [
+        {
+          "jobId": "4465793301",
+          "title": "Director, Fulfillment Network Optimization (Remote)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4465793301"
+        },
+        {
+          "jobId": "4453376840",
+          "title": "Director of Product, Delivery and Fulfillment Intelligence (Remote)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4453376840"
+        }
+      ],
+      "why": "Public LinkedIn guest profile confirms ezCater; actively posting Staff/Senior engineering and product-adjacent roles (2026). Named tech/product recruiting conta",
+      "note_template": "Hi Brad, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by ezCater's Director, Fulfillment Network Optimization. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-019-kelsea-muskiewicz",
+      "badge": "Recruiter",
+      "name": "Kelsea Muskiewicz",
+      "company": "Veho",
+      "title": "Recruiting Manager",
+      "linkedin_url": "https://www.linkedin.com/in/kelseamuskiewicz",
+      "job_refs": [
+        {
+          "jobId": "4444120958",
+          "title": "VP Product, Last Mile",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4444120958"
+        },
+        {
+          "jobId": "4470258027",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4470258027"
+        },
+        {
+          "jobId": "4470247578",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4470247578"
+        }
+      ],
+      "why": "Public LinkedIn indexes Recruiting Manager at Veho (corporate + high-volume). Named Veho recruiting contact for VP/Senior Director product & marketplace roles.",
+      "note_template": "Hi Kelsea, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Veho's VP Product, Last Mile. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-016-will-burke",
+      "badge": "Recruiter",
+      "name": "Will Burke",
+      "company": "Instacart",
+      "title": "Senior Technical Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/will-burke-87214210b",
+      "job_refs": [
+        {
+          "jobId": "4468283028",
+          "title": "Director of Product, Logistics",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4468283028"
+        },
+        {
+          "jobId": "4469970215",
+          "title": "Director, Product Partnerships",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4469970215"
+        }
+      ],
+      "why": "Public LinkedIn indexes Senior Technical Recruiter at Instacart (current). Tech recruiting contact for product/logistics-adjacent hiring.",
+      "note_template": "Hi Will, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Instacart's logistics work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-017-esther-higashi",
+      "badge": "Recruiter",
+      "name": "Esther Higashi",
+      "company": "Reddit",
+      "title": "Lead Talent Acquisition Partner / Lead Business Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/estherhigashi",
+      "job_refs": [
+        {
+          "jobId": "4466335063",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4466335063"
+        },
+        {
+          "jobId": "4466321262",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466321262"
+        },
+        {
+          "jobId": "4466320292",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466320292"
+        }
+      ],
+      "why": "Public LinkedIn URL plus TheOrg Reddit TA org chart listing Esther Higashi as Lead Business Recruiter; public web indexes Lead Talent Acquisition Partner coveri",
+      "note_template": "Hi Esther, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Reddit's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
       "id": "li-030",
       "badge": "Recruiter",
       "name": "April Haines",
@@ -44019,6 +44483,70 @@
       "source": "overlay"
     },
     {
+      "id": "alt-007-jennifer-kim",
+      "badge": "Hiring leader",
+      "name": "Jennifer Kim",
+      "company": "TikTok",
+      "title": "Global Talent Acquisition Lead - Global Business Solutions",
+      "linkedin_url": "https://www.linkedin.com/in/jenniferhkim",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "Public LinkedIn: leads globally distributed TA for TikTok Global Business Solutions / monetization (Sales, Strategy, Business Marketing, SMB, Marketing Science,",
+      "note_template": "Hi Jennifer, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
+      "id": "alt-013-mike-mullally",
+      "badge": "Hiring leader",
+      "name": "Mike Mullally",
+      "company": "Capital One",
+      "title": "Senior Manager, Tech Talent Acquisition",
+      "linkedin_url": "https://www.linkedin.com/in/mike-mullally-a5b99451",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Public LinkedIn + hiring posts: Senior Manager, Tech Talent Acquisition; client lead for Card Technology / Director+ tech hiring. Recruiting leader for Capital ",
+      "note_template": "Hi Mike, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
+    },
+    {
       "id": "v4-001-aubrey-reynolds",
       "badge": "Hiring leader",
       "name": "Aubrey Reynolds",
@@ -44049,6 +44577,38 @@
       "note_template": "Hi Aubrey, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
       "ready": true,
       "source": "linkedin_connect_v4"
+    },
+    {
+      "id": "alt-004-joe-mcallister",
+      "badge": "Hiring leader",
+      "name": "Joe McAllister",
+      "company": "DoorDash",
+      "title": "Head of Global G&A Recruiting",
+      "linkedin_url": "https://www.linkedin.com/in/joemcallister1",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Public LinkedIn + announcement post: Head of Global G&A Recruiting across DoorDash/Wolt/Deliveroo (Finance, Legal, People, Policy & Comms). Recruiting leader fo",
+      "note_template": "Hi Joe, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
     },
     {
       "id": "v4-002-kevin-saunders",
@@ -44113,6 +44673,38 @@
       "note_template": "Hi Rhonda, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
       "ready": true,
       "source": "linkedin_connect_v4"
+    },
+    {
+      "id": "alt-018-natalie-newhouse",
+      "badge": "Hiring leader",
+      "name": "Natalie Newhouse",
+      "company": "Meta",
+      "title": "Global Recruiting Manager, Leadership",
+      "linkedin_url": "https://www.linkedin.com/in/nataliefederal",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Public LinkedIn indexes Global Recruiting Manager, Leadership at Meta (since ~Apr 2023); recruits business leaders and senior talent globally. Fit for Strategy ",
+      "note_template": "Hi Natalie, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "recruiters_alt_v4"
     },
     {
       "id": "li-044",
