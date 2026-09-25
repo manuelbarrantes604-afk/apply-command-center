@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ex-ov-001",
+    "first_name": "Alex",
+    "last_name": "Example",
+    "email": "",
+    "company": "Walmart",
+    "company_key": "Walmart",
+    "title": "Sr Director, Marketplace Ops",
+    "function": "marketplace",
+    "warmth": 4,
+    "type": "ex-employee",
+    "why_matters": "EXAMPLE ONLY — ex-Walmart marketplace ops peer; filter out of live scoring (example:true).",
+    "unlocks_job_ids": [],
+    "last_touch": "",
+    "draft_available": false,
+    "status": "skip",
+    "notes": "Template row. Replace with real contacts Manuel maintains. Never invent 1st-degree names.",
+    "linkedin_url": "",
+    "example": true
+  },
+  {
+    "id": "ex-ov-002",
+    "first_name": "Jordan",
+    "last_name": "Recruiter",
+    "email": "",
+    "company": "DoorDash",
+    "company_key": "DoorDash",
+    "title": "Technical Recruiter — Ops & Marketplace",
+    "function": "recruiting",
+    "warmth": 2,
+    "type": "recruiter",
+    "why_matters": "EXAMPLE ONLY — posting recruiter seat placeholder pattern.",
+    "unlocks_job_ids": [],
+    "last_touch": "",
+    "draft_available": false,
+    "status": "to_add",
+    "notes": "Mark example:true so live scorer ignores by default.",
+    "linkedin_url": "",
+    "example": true
+  }
+]
