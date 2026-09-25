@@ -1,12 +1,14 @@
 {
   "meta": {
-    "built_at": "2026-09-23T23:55:10Z",
+    "built_at": "2026-09-25T21:19:13Z",
     "jobs_count": 650,
-    "people_count": 0,
+    "people_count": 29,
     "connections_loaded": 0,
-    "overlay_loaded": 0,
+    "overlay_loaded": 29,
     "path_counts": {
-      "none": 650
+      "strong": 59,
+      "none": 579,
+      "warm": 12
     },
     "formula": "action_score = clamp(round(mid_pct * path_mult * recruiter_mult), 0, 100)",
     "path_strength_mult": {
@@ -23,7 +25,617 @@
     "candidate": "Manuel Barrantes Duarte",
     "run_date": "2026-09-23"
   },
-  "people": [],
+  "people": [
+    {
+      "id": "li-001",
+      "first_name": "Kyle",
+      "last_name": "Kinnard",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "EVP and Chief Operating Officer, Walmart U.S.",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. EVP and Chief Operating Officer, Walmart U.S.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet. Visible card also notes oversight of U.S. store operations, supply chain, distribution centers and last-mile delivery.",
+      "linkedin_url": "https://www.linkedin.com/in/kyle-kinnard/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-002",
+      "first_name": "Rebecca",
+      "last_name": "Durkee",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "SVP, Last Mile Delivery at Walmart",
+      "function": "ops",
+      "warmth": 5,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. SVP, Last Mile Delivery at Walmart — craft twin for Spark/last-mile board.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/rebecca-durkee-21512a5/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-003",
+      "first_name": "Paul",
+      "last_name": "Lewellen",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Chief Operating Officer at Walmart de Mexico",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Chief Operating Officer at Walmart de Mexico",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/paul-lewellen-b844116/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-004",
+      "first_name": "Kieran",
+      "last_name": "Shanahan",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Enterprise Operator, Retail, Consumer, Digital & Supply Chain, EVP & COO, Walmart",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Enterprise Operator, Retail, Consumer, Digital & Supply Chain, EVP & COO, Walmart",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet. Card references store operations, supply chain, transportation and last-mile delivery.",
+      "linkedin_url": "https://www.linkedin.com/in/kieran-shanahan/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-005",
+      "first_name": "Michael",
+      "last_name": "DiFiore",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Director - Last Mile at Walmart",
+      "function": "ops",
+      "warmth": 5,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Director - Last Mile at Walmart — craft twin for Spark/last-mile board.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/michael-difiore-61713566/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-006",
+      "first_name": "Oommen",
+      "last_name": "Thomas",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Senior Vice President - Head of Global Supply Chain Walmart | Walmart Supply Chain",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Senior Vice President - Head of Global Supply Chain Walmart | Walmart Supply Chain",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/otthomas/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-007",
+      "first_name": "Nick",
+      "last_name": "Berkeley",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "SVP Operations - Walmart US",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. SVP Operations - Walmart US",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/nick-berkeley-2b84128a/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-008",
+      "first_name": "Davin",
+      "last_name": "Biram",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Vice President, Global Operations- Walmart International",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Vice President, Global Operations- Walmart International",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/davin-biram-6347b450/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-009",
+      "first_name": "Gracie",
+      "last_name": "Sitton",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Senior Recruiter - Walmart Last Mile Delivery",
+      "function": "recruiting",
+      "warmth": 3,
+      "type": "recruiter",
+      "why_matters": "1st-degree at Walmart. Senior Recruiter - Walmart Last Mile Delivery — craft twin for Spark/last-mile board.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/gracie-sitton-60ba73177/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-010",
+      "first_name": "Billy",
+      "last_name": "Link Jr.",
+      "email": "",
+      "company": "Walmart",
+      "company_key": "Walmart",
+      "title": "Vice President | Regional General Manager | Operations & eCommerce",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Vice President | Regional General Manager | Operations & eCommerce",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart facet.",
+      "linkedin_url": "https://www.linkedin.com/in/billy-link-jr-93075732/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-011",
+      "first_name": "Claire",
+      "last_name": "MacIntyre",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Senior Vice President, Chief People Officer Sam's Club",
+      "function": "recruiting",
+      "warmth": 3,
+      "type": "recruiter",
+      "why_matters": "1st-degree at Walmart. Senior Vice President, Chief People Officer Sam's Club — posting/recruiter access.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/claire-macintyre/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-012",
+      "first_name": "Myron",
+      "last_name": "Frazier",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "EVP, Chief Merchant",
+      "function": "marketplace",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. EVP, Chief Merchant",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet; visible AI summary identifies Chief Merchandising Officer at Sam's Club.",
+      "linkedin_url": "https://www.linkedin.com/in/myron-frazier-8b0714140/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-013",
+      "first_name": "Jeff",
+      "last_name": "Jenkins",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "CMO, CDO, Advisor, Innovative Senior Executive Leader (Sam’s Club, Whole Foods, Taco Bell, Carter’s, NASA)",
+      "function": "other",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. CMO, CDO, Advisor, Innovative Senior Executive Leader (Sam’s Club, Whole Foods, Taco Bell, Carter’s, NASA)",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/jeffmjenkins/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-014",
+      "first_name": "Milagros",
+      "last_name": "Meléndez Rodríguez",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Senior Buyer for Puerto Rico Market, Sam’s Club Headquarters in Bentonville/Arkansas",
+      "function": "other",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Senior Buyer for Puerto Rico Market, Sam’s Club Headquarters in Bentonville/Arkansas",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/milagros-mel%C3%A9ndez-rodr%C3%ADguez-18773a5a/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-015",
+      "first_name": "Joe",
+      "last_name": "Tovi",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Vice President- Regional General Manager at Sam’s Club",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Vice President- Regional General Manager at Sam’s Club",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/joe-tovi-47785467/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-016",
+      "first_name": "Kyle",
+      "last_name": "Todd",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Club Manager @ Sam’s Club | Retail, Sales, People Development",
+      "function": "workforce",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Club Manager @ Sam’s Club | Retail, Sales, People Development",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/kyle-todd-3a97a1385/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-017",
+      "first_name": "Rina",
+      "last_name": "Hurst",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Strategy & Growth | Retail Technology I Board Director",
+      "function": "product",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Strategy & Growth | Retail Technology I Board Director",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet; visible AI summary identifies VP Digital Merchandising.",
+      "linkedin_url": "https://www.linkedin.com/in/rinahurst/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-018",
+      "first_name": "Nick",
+      "last_name": "Scheidler",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Vice President of Product Development & Packaging",
+      "function": "product",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Vice President of Product Development & Packaging",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/nick-scheidler-b4601731/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-019",
+      "first_name": "Carmen",
+      "last_name": "Kingston",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "Regional General Manager - Sam's Club at Sam's Club",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Regional General Manager - Sam's Club at Sam's Club",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet.",
+      "linkedin_url": "https://www.linkedin.com/in/carmen-kingston-7187a96/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-020",
+      "first_name": "Eric",
+      "last_name": "Rosenfeldt",
+      "email": "",
+      "company": "Sam's Club",
+      "company_key": "Walmart",
+      "title": "VP - Sam’s Club - Walmart",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. VP - Sam’s Club - Walmart",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Sam's Club facet; visible AI summary identifies VP - Sam's Club, Fuel.",
+      "linkedin_url": "https://www.linkedin.com/in/eric-rosenfeldt-b657012/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-021",
+      "first_name": "Brijesh",
+      "last_name": "Vellore Nagesh",
+      "email": "",
+      "company": "Walmart Global Tech",
+      "company_key": "Walmart",
+      "title": "Product Management at Walmart eCommerce",
+      "function": "cx",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Product Management at Walmart eCommerce",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Walmart Global Tech facet; visible AI summary identifies Senior Director of Product Management.",
+      "linkedin_url": "https://www.linkedin.com/in/brijeshvn/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-022",
+      "first_name": "Parvez",
+      "last_name": "Musani",
+      "email": "",
+      "company": "Walmart Global Tech",
+      "company_key": "Walmart",
+      "title": "SVP, U.S. Omni & Platforms Tech at Walmart Global Tech",
+      "function": "product",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. SVP, U.S. Omni & Platforms Tech at Walmart Global Tech",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart Global Tech facet; visible AI summary identifies Stores and Online Pickup & Delivery Tech.",
+      "linkedin_url": "https://www.linkedin.com/in/parvezmusani/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-023",
+      "first_name": "Sanjay",
+      "last_name": "Radhakrishnan",
+      "email": "",
+      "company": "Walmart Global Tech",
+      "company_key": "Walmart",
+      "title": "SVP & Tech Operating Partner, Walmart International",
+      "function": "ops",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. SVP & Tech Operating Partner, Walmart International",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart Global Tech facet; visible AI summary references technology strategy for Walmart and Sam's Club.",
+      "linkedin_url": "https://www.linkedin.com/in/sanjayradhakrishnan/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-024",
+      "first_name": "Katie",
+      "last_name": "Newman",
+      "email": "",
+      "company": "Walmart Global Tech",
+      "company_key": "Walmart",
+      "title": "Building communities where people, strategy, and purpose connect—because lasting organizational change is powered by trust.",
+      "function": "workforce",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. Building communities where people, strategy, and purpose connect—because lasting organizational change is powered by trust.",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart Global Tech facet; visible AI summary lists People Tech & Services roles.",
+      "linkedin_url": "https://www.linkedin.com/in/katiegcorley/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-025",
+      "first_name": "Apoorva",
+      "last_name": "Sharma",
+      "email": "",
+      "company": "Walmart Global Tech",
+      "company_key": "Walmart",
+      "title": "AI Product Leader | Fulfillment | Retail | AI, Data | Walmart, Ex-FedEx | Design Thinking| Strategic Thinking | User-Obsessed",
+      "function": "product",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Walmart. AI Product Leader | Fulfillment | Retail | AI, Data | Walmart, Ex-FedEx | Design Thinking| Strategic Thinking | User-Obsessed",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company Walmart Global Tech facet; visible AI summary identifies Senior Manager II - Product Management.",
+      "linkedin_url": "https://www.linkedin.com/in/apoorvaasharmaa/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-026",
+      "first_name": "Thomas",
+      "last_name": "de Noronha e Silva Tomei",
+      "email": "",
+      "company": "Google",
+      "company_key": "Google",
+      "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
+      "function": "other",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Google. Staff Software Engineer, Google Cloud Critical Systems UTL",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Google facet.",
+      "linkedin_url": "https://www.linkedin.com/in/royalsflush/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-027",
+      "first_name": "Daniel",
+      "last_name": "Roman",
+      "email": "",
+      "company": "Google",
+      "company_key": "Google",
+      "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
+      "function": "other",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Google. EMEA ISV Sales at Google - Nordics, CEE, DACH",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Google facet.",
+      "linkedin_url": "https://www.linkedin.com/in/danielwalterroman/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-028",
+      "first_name": "Brad",
+      "last_name": "Jakeman",
+      "email": "",
+      "company": "Google (current-company filter; headline shows Hevolution Foundation)",
+      "company_key": "Google",
+      "title": "Senior Advisor at Hevolution Foundation",
+      "function": "other",
+      "warmth": 3,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at Google. Senior Advisor at Hevolution Foundation",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "active",
+      "notes": "1st-degree; current-company Google facet; visible AI summary says Advisor/Marketer In Residence at Google since November 2025.",
+      "linkedin_url": "https://www.linkedin.com/in/bradjakeman/",
+      "example": false,
+      "source": "overlay"
+    },
+    {
+      "id": "li-029",
+      "first_name": "Nick",
+      "last_name": "Scutari-Dunn",
+      "email": "",
+      "company": "TikTok Shop",
+      "company_key": "TikTok",
+      "title": "Food and Beverages @ TikTok Shop | Walmart Alum",
+      "function": "marketplace",
+      "warmth": 4,
+      "type": "1st-degree",
+      "why_matters": "1st-degree at TikTok. Food and Beverages @ TikTok Shop | Walmart Alum",
+      "unlocks_job_ids": [],
+      "last_touch": "",
+      "draft_available": false,
+      "status": "to_contact",
+      "notes": "1st-degree; current-company TikTok Shop facet; visible AI summary identifies Business Development Lead, Food and Bev.",
+      "linkedin_url": "https://www.linkedin.com/in/nick-s-59682416a/",
+      "example": false,
+      "source": "overlay"
+    }
+  ],
   "jobs_enriched": [
     {
       "jobId": "4460408226",
@@ -60,12 +672,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 15,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 79,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -103,12 +756,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 15,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 79,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -144,12 +838,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 15,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 79,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -340,12 +1075,18 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 13,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 52,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -383,12 +1124,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 70,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -658,12 +1440,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -699,12 +1522,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -741,12 +1605,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -782,12 +1687,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -825,12 +1771,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -866,12 +1853,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -908,12 +1936,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 69,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -945,12 +2014,18 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 13,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 51,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -988,12 +2063,18 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 13,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 51,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1031,12 +2112,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 68,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -1112,12 +2234,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 13,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 67,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1151,12 +2314,28 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 42,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1228,12 +2407,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 50,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1269,12 +2454,18 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 50,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1312,12 +2503,18 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 50,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1349,12 +2546,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 50,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1660,12 +2863,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 41,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1849,12 +3068,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 49,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1886,12 +3111,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 49,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1923,12 +3154,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 49,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -1966,12 +3203,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 12,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 65,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -2738,12 +4016,28 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 12,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 40,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -3171,12 +4465,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 61,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -4113,12 +5448,28 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 11,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 38,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -4379,12 +5730,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 59,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -4950,12 +6342,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 58,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -4987,12 +6420,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 58,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -5722,12 +7196,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 11,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 36,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -6537,12 +8027,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6574,12 +8105,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6611,12 +8183,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6648,12 +8261,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6687,12 +8341,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6725,12 +8420,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6768,12 +8504,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6806,12 +8583,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6845,12 +8663,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6884,12 +8743,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6921,12 +8821,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -6961,12 +8902,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7004,12 +8986,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7041,12 +9064,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7082,12 +9146,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7125,12 +9230,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7162,12 +9308,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7205,12 +9392,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7242,12 +9470,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7279,12 +9548,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7316,12 +9626,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7358,12 +9709,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7401,12 +9793,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -7444,12 +9877,53 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 11,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 57,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -8039,12 +10513,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 35,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -8076,12 +10566,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 35,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -9261,12 +11767,28 @@
         "primary",
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 34,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -9298,12 +11820,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 34,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -9339,12 +11877,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 34,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -9380,12 +11934,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 34,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -11200,12 +13770,18 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "strong",
+      "path_label": "Strong · Nick Scutari-Dunn",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
+      "action_score": 39,
+      "unlocked_by": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -13311,12 +15887,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 10,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 51,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -16046,12 +18663,28 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
+      "path_strength": "warm",
+      "path_label": "Warm · Thomas de Noronha e Silva Tomei, Daniel Roman at Google",
       "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 9,
-      "unlocked_by": [],
+      "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+      "action_score": 31,
+      "unlocked_by": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -18377,12 +21010,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 9,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 48,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -18902,12 +21576,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 9,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 47,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -18940,12 +21655,53 @@
       "qtypes": [
         "company"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-      "action_score": 9,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+      "action_score": 47,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": true
     },
     {
@@ -24178,12 +26934,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 4,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 23,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -24402,12 +27199,53 @@
       "qtypes": [
         "primary"
       ],
-      "path_strength": "none",
-      "path_label": "No path — hold cold apply",
-      "recruiter_status": "unknown",
-      "next_action": "Hold — no path; skip cold apply",
-      "action_score": 4,
-      "unlocked_by": [],
+      "path_strength": "strong",
+      "path_label": "Strong · Kyle Kinnard, Rebecca Durkee",
+      "recruiter_status": "known",
+      "next_action": "Ask Kyle Kinnard for Ops intro",
+      "action_score": 22,
+      "unlocked_by": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "type": "1st-degree"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "type": "1st-degree"
+        }
+      ],
       "is_bentonville_internal": false
     },
     {
@@ -25061,9 +27899,9 @@
           "jobId": "4460408226",
           "title": "(USA) Director, Marketplace",
           "mid_pct": 79,
-          "action_score": 15,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 79,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4460408226",
           "location": "Bentonville, AR",
           "bucket": "75-100"
@@ -25072,9 +27910,9 @@
           "jobId": "4467176158",
           "title": "(USA) Senior Director, Data Analytics - Workforce Planning",
           "mid_pct": 79,
-          "action_score": 15,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 79,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4467176158",
           "location": "Bentonville, AR",
           "bucket": "75-100"
@@ -25083,9 +27921,9 @@
           "jobId": "4451269259",
           "title": "Director, Workforce Planning",
           "mid_pct": 79,
-          "action_score": 15,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 79,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4451269259",
           "location": "Bentonville, AR",
           "bucket": "75-100"
@@ -25094,9 +27932,9 @@
           "jobId": "4465245762",
           "title": "Group Director, Technology Operations - Global Governance Digital Strategy",
           "mid_pct": 70,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 70,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4465245762",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25105,9 +27943,9 @@
           "jobId": "4468975326",
           "title": "(USA) Director, Data Science - Operations Research",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4468975326",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25116,9 +27954,9 @@
           "jobId": "4463185368",
           "title": "(USA) Director, Technology Operations",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4463185368",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25127,9 +27965,9 @@
           "jobId": "4468973368",
           "title": "(USA) Director, Technology Operations",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4468973368",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25138,9 +27976,9 @@
           "jobId": "4420166055",
           "title": "(USA) Director, Technology Operations-Right Location",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4420166055",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25149,9 +27987,9 @@
           "jobId": "4469982552",
           "title": "Senior Director Walmart Energy - Operations and Support",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4469982552",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25160,9 +27998,9 @@
           "jobId": "4466923789",
           "title": "Senior Director, Technology Operations - Digital Innovation (Style & Trend)",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4466923789",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25171,9 +28009,9 @@
           "jobId": "4457709363",
           "title": "Senior Director, Technology Operations - Fraud Risk Analytics & Decisioning",
           "mid_pct": 69,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 69,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4457709363",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25182,9 +28020,9 @@
           "jobId": "4398619070",
           "title": "Senior Director, Technology Operations-Fraud and ID Verification, Trust and Safety",
           "mid_pct": 68,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 68,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4398619070",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25193,9 +28031,9 @@
           "jobId": "4441081605",
           "title": "(USA) Senior Director, Operations (Trust & Safety Operations)",
           "mid_pct": 67,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 67,
+          "path_strength": "strong",
+          "next_action": "Ask Kyle Kinnard for Ops intro",
           "link": "https://www.linkedin.com/jobs/view/4441081605",
           "location": "Hoboken, NJ",
           "bucket": "50-75"
@@ -25204,9 +28042,9 @@
           "jobId": "4462569040",
           "title": "Director, Fixed Base Operations",
           "mid_pct": 65,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 65,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4462569040",
           "location": "Rogers, AR",
           "bucket": "50-75"
@@ -25215,9 +28053,9 @@
           "jobId": "4465935134",
           "title": "Director, Marketplace Strategic Implementation",
           "mid_pct": 61,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 61,
+          "path_strength": "strong",
+          "next_action": "Ask Kyle Kinnard for Ops intro",
           "link": "https://www.linkedin.com/jobs/view/4465935134",
           "location": "Sunnyvale, CA",
           "bucket": "50-75"
@@ -25226,9 +28064,9 @@
           "jobId": "4350731040",
           "title": "Senior Director, Technology Operations- Emerging Threats",
           "mid_pct": 59,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 59,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4350731040",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25237,9 +28075,9 @@
           "jobId": "4450117126",
           "title": "Group Director, Category General Manager - Fashion",
           "mid_pct": 58,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 58,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4450117126",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25248,9 +28086,9 @@
           "jobId": "4413369320",
           "title": "Group Director, Product Management - Last Mile Optimization & AI",
           "mid_pct": 58,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 58,
+          "path_strength": "strong",
+          "next_action": "Ask Kyle Kinnard for Ops intro",
           "link": "https://www.linkedin.com/jobs/view/4413369320",
           "location": "Sunnyvale, CA",
           "bucket": "50-75"
@@ -25259,9 +28097,9 @@
           "jobId": "4465278933",
           "title": "(USA) Director, Automation Engineering",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4465278933",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25270,9 +28108,9 @@
           "jobId": "4459246869",
           "title": "(USA) Director, Automation Engineering",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4459246869",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25281,9 +28119,9 @@
           "jobId": "4465290070",
           "title": "(USA) Director, Automation Engineering",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4465290070",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25292,9 +28130,9 @@
           "jobId": "4453421657",
           "title": "(USA) Director, Data Science",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4453421657",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25303,9 +28141,9 @@
           "jobId": "4456515863",
           "title": "(USA) Director, Specialty Compliance and Ethics - Global User-Generated Content (UGC) Compliance",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4456515863",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25314,9 +28152,9 @@
           "jobId": "4463952175",
           "title": "(USA) Director, Supplier To Serve",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4463952175",
           "location": "Bentonville, AR",
           "bucket": "50-75"
@@ -25325,15 +28163,241 @@
           "jobId": "4466224706",
           "title": "(USA) Senior Director, Business Strategy",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+          "action_score": 57,
+          "path_strength": "strong",
+          "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
           "link": "https://www.linkedin.com/jobs/view/4466224706",
           "location": "Bentonville, AR",
           "bucket": "50-75"
         }
       ],
-      "people_there": [],
+      "people_there": [
+        {
+          "id": "li-001",
+          "name": "Kyle Kinnard",
+          "title": "EVP and Chief Operating Officer, Walmart U.S.",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-002",
+          "name": "Rebecca Durkee",
+          "title": "SVP, Last Mile Delivery at Walmart",
+          "function": "ops",
+          "warmth": 5,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-003",
+          "name": "Paul Lewellen",
+          "title": "Chief Operating Officer at Walmart de Mexico",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-004",
+          "name": "Kieran Shanahan",
+          "title": "Enterprise Operator, Retail, Consumer, Digital & Supply Chain, EVP & COO, Walmart",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-005",
+          "name": "Michael DiFiore",
+          "title": "Director - Last Mile at Walmart",
+          "function": "ops",
+          "warmth": 5,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-006",
+          "name": "Oommen Thomas",
+          "title": "Senior Vice President - Head of Global Supply Chain Walmart | Walmart Supply Chain",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-007",
+          "name": "Nick Berkeley",
+          "title": "SVP Operations - Walmart US",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-008",
+          "name": "Davin Biram",
+          "title": "Vice President, Global Operations- Walmart International",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-009",
+          "name": "Gracie Sitton",
+          "title": "Senior Recruiter - Walmart Last Mile Delivery",
+          "function": "recruiting",
+          "warmth": 3,
+          "type": "recruiter",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-010",
+          "name": "Billy Link Jr.",
+          "title": "Vice President | Regional General Manager | Operations & eCommerce",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-011",
+          "name": "Claire MacIntyre",
+          "title": "Senior Vice President, Chief People Officer Sam's Club",
+          "function": "recruiting",
+          "warmth": 3,
+          "type": "recruiter",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-012",
+          "name": "Myron Frazier",
+          "title": "EVP, Chief Merchant",
+          "function": "marketplace",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-013",
+          "name": "Jeff Jenkins",
+          "title": "CMO, CDO, Advisor, Innovative Senior Executive Leader (Sam’s Club, Whole Foods, Taco Bell, Carter’s, NASA)",
+          "function": "other",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        },
+        {
+          "id": "li-014",
+          "name": "Milagros Meléndez Rodríguez",
+          "title": "Senior Buyer for Puerto Rico Market, Sam’s Club Headquarters in Bentonville/Arkansas",
+          "function": "other",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        },
+        {
+          "id": "li-015",
+          "name": "Joe Tovi",
+          "title": "Vice President- Regional General Manager at Sam’s Club",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-016",
+          "name": "Kyle Todd",
+          "title": "Club Manager @ Sam’s Club | Retail, Sales, People Development",
+          "function": "workforce",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-017",
+          "name": "Rina Hurst",
+          "title": "Strategy & Growth | Retail Technology I Board Director",
+          "function": "product",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-018",
+          "name": "Nick Scheidler",
+          "title": "Vice President of Product Development & Packaging",
+          "function": "product",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-019",
+          "name": "Carmen Kingston",
+          "title": "Regional General Manager - Sam's Club at Sam's Club",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-020",
+          "name": "Eric Rosenfeldt",
+          "title": "VP - Sam’s Club - Walmart",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-021",
+          "name": "Brijesh Vellore Nagesh",
+          "title": "Product Management at Walmart eCommerce",
+          "function": "cx",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        },
+        {
+          "id": "li-022",
+          "name": "Parvez Musani",
+          "title": "SVP, U.S. Omni & Platforms Tech at Walmart Global Tech",
+          "function": "product",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-023",
+          "name": "Sanjay Radhakrishnan",
+          "title": "SVP & Tech Operating Partner, Walmart International",
+          "function": "ops",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-024",
+          "name": "Katie Newman",
+          "title": "Building communities where people, strategy, and purpose connect—because lasting organizational change is powered by trust.",
+          "function": "workforce",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        },
+        {
+          "id": "li-025",
+          "name": "Apoorva Sharma",
+          "title": "AI Product Leader | Fulfillment | Retail | AI, Data | Walmart, Ex-FedEx | Design Thinking| Strategic Thinking | User-Obsessed",
+          "function": "product",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        }
+      ],
       "missing_seats": [
         {
           "seat": "Hiring Manager — Marketplace Ops",
@@ -25398,24 +28462,42 @@
       "sequence_14d": [
         {
           "day": 1,
+          "who_or_seat": "Kyle Kinnard",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Walmart. EVP and Chief Operating Officer, Walmart U.S."
+        },
+        {
+          "day": 3,
+          "who_or_seat": "Rebecca Durkee",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Walmart. SVP, Last Mile Delivery at Walmart — craft twin for Spark/last-mile board."
+        },
+        {
+          "day": 5,
+          "who_or_seat": "Paul Lewellen",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Walmart. Chief Operating Officer at Walmart de Mexico"
+        },
+        {
+          "day": 7,
           "who_or_seat": "Hiring Manager — Marketplace Ops",
           "action": "Map and request intro — do not mass-connect",
           "why": "Owns Director Marketplace / seller ops lanes"
         },
         {
-          "day": 3,
+          "day": 9,
           "who_or_seat": "Spark / Gig Ops peer (ex or current)",
           "action": "Map and request intro — do not mass-connect",
           "why": "Bentonville internal playbook — warm internal path"
         },
         {
-          "day": 5,
+          "day": 11,
           "who_or_seat": "Posting Recruiter — Walmart Global Tech / Marketplace",
           "action": "Map and request intro — do not mass-connect",
           "why": "Unlocks recruiter_status=known"
         },
         {
-          "day": 7,
+          "day": 13,
           "who_or_seat": "Director+ Workforce / Labor Planning",
           "action": "Map and request intro — do not mass-connect",
           "why": "Craft twin for AI-workforce + capacity roles"
@@ -25970,9 +29052,9 @@
           "jobId": "4469465258",
           "title": "Head of Strategy and Operations, Search Partnerships",
           "mid_pct": 66,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 42,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4469465258",
           "location": "New York, NY",
           "bucket": "50-75"
@@ -25981,9 +29063,9 @@
           "jobId": "4467125193",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 65,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 41,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467125193",
           "location": "Washington, DC",
           "bucket": "50-75"
@@ -25992,9 +29074,9 @@
           "jobId": "4469454445",
           "title": "Head of Strategy and Operations, Search Partnerships",
           "mid_pct": 62,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 40,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4469454445",
           "location": "Mountain View, CA",
           "bucket": "50-75"
@@ -26003,9 +29085,9 @@
           "jobId": "4461904138",
           "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
           "mid_pct": 59,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 38,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4461904138",
           "location": "New York, NY",
           "bucket": "50-75"
@@ -26014,9 +29096,9 @@
           "jobId": "4467132094",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 57,
-          "action_score": 11,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 36,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467132094",
           "location": "New York, NY",
           "bucket": "50-75"
@@ -26025,9 +29107,9 @@
           "jobId": "4467135076",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 55,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 35,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467135076",
           "location": "Atlanta, GA",
           "bucket": "50-75"
@@ -26036,9 +29118,9 @@
           "jobId": "4467114363",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 55,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 35,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467114363",
           "location": "Seattle, WA",
           "bucket": "50-75"
@@ -26047,9 +29129,9 @@
           "jobId": "4463084338",
           "title": "Director, Strategy and Operations, Data Cloud",
           "mid_pct": 53,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 34,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4463084338",
           "location": "Sunnyvale, CA",
           "bucket": "50-75"
@@ -26058,9 +29140,9 @@
           "jobId": "4468025477",
           "title": "Director, TPM, Delivery Operations, Global Network Delivery",
           "mid_pct": 53,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 34,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4468025477",
           "location": "Sunnyvale, CA",
           "bucket": "50-75"
@@ -26069,9 +29151,9 @@
           "jobId": "4467128134",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 53,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 34,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467128134",
           "location": "Sunnyvale, CA",
           "bucket": "50-75"
@@ -26080,9 +29162,9 @@
           "jobId": "4467114362",
           "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
           "mid_pct": 53,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 34,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4467114362",
           "location": "San Francisco, CA",
           "bucket": "50-75"
@@ -26091,15 +29173,43 @@
           "jobId": "4465159534",
           "title": "Senior Director, Engineering, SecOps, Google Cloud Security",
           "mid_pct": 49,
-          "action_score": 9,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 31,
+          "path_strength": "warm",
+          "next_action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
           "link": "https://www.linkedin.com/jobs/view/4465159534",
           "location": "Washington, DC",
           "bucket": "25-50"
         }
       ],
-      "people_there": [],
+      "people_there": [
+        {
+          "id": "li-026",
+          "name": "Thomas de Noronha e Silva Tomei",
+          "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
+          "function": "other",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        },
+        {
+          "id": "li-027",
+          "name": "Daniel Roman",
+          "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
+          "function": "other",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        },
+        {
+          "id": "li-028",
+          "name": "Brad Jakeman",
+          "title": "Senior Advisor at Hevolution Foundation",
+          "function": "other",
+          "warmth": 3,
+          "type": "1st-degree",
+          "status": "active"
+        }
+      ],
       "missing_seats": [
         {
           "seat": "Hiring Manager — gTech / Ops / Workforce",
@@ -26160,21 +29270,45 @@
       "sequence_14d": [
         {
           "day": 1,
+          "who_or_seat": "Thomas de Noronha e Silva Tomei",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Google. Staff Software Engineer, Google Cloud Critical Systems UTL"
+        },
+        {
+          "day": 3,
+          "who_or_seat": "Daniel Roman",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Google. EMEA ISV Sales at Google - Nordics, CEE, DACH"
+        },
+        {
+          "day": 5,
+          "who_or_seat": "Brad Jakeman",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at Google. Senior Advisor at Hevolution Foundation"
+        },
+        {
+          "day": 7,
           "who_or_seat": "Hiring Manager — gTech / Ops / Workforce",
           "action": "Map and request intro — do not mass-connect",
           "why": "Ops-shaped Google seats"
         },
         {
-          "day": 3,
+          "day": 9,
           "who_or_seat": "Posting Recruiter — Google Ops/gTech",
           "action": "Map and request intro — do not mass-connect",
           "why": "Recruiter access"
         },
         {
-          "day": 5,
+          "day": 11,
           "who_or_seat": "Ex-Googler in marketplace or ops",
           "action": "Map and request intro — do not mass-connect",
           "why": "Alumni warm path"
+        },
+        {
+          "day": 13,
+          "who_or_seat": "Head of Strategy and Operations, Search Partnerships",
+          "action": "Warm note to Thomas de Noronha e Silva Tomei at Google",
+          "why": "Top action_score 42 · Apply% 66"
         }
       ]
     },
@@ -26189,9 +29323,9 @@
           "jobId": "4457972781",
           "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
           "mid_pct": 70,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 52,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4457972781",
           "location": "New York, United States",
           "bucket": "50-75"
@@ -26200,9 +29334,9 @@
           "jobId": "4460047875",
           "title": "Head of Regional Logistics Procurement - TikTok Shop",
           "mid_pct": 68,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 51,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4460047875",
           "location": "Seattle, WA",
           "bucket": "50-75"
@@ -26211,9 +29345,9 @@
           "jobId": "4462682825",
           "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
           "mid_pct": 68,
-          "action_score": 13,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 51,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4462682825",
           "location": "Seattle, WA",
           "bucket": "50-75"
@@ -26222,9 +29356,9 @@
           "jobId": "4460265018",
           "title": "Global Head of Long-Term Containment - Trust & Safety",
           "mid_pct": 66,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 50,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4460265018",
           "location": "San Jose, CA",
           "bucket": "50-75"
@@ -26233,9 +29367,9 @@
           "jobId": "4457991641",
           "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
           "mid_pct": 66,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 50,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4457991641",
           "location": "San Jose, CA",
           "bucket": "50-75"
@@ -26244,9 +29378,9 @@
           "jobId": "4460246213",
           "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
           "mid_pct": 66,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 50,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4460246213",
           "location": "San Jose, CA",
           "bucket": "50-75"
@@ -26255,9 +29389,9 @@
           "jobId": "4465367176",
           "title": "Head of Quality, Trust and Safety Regulatory Compliance Operations",
           "mid_pct": 66,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 50,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4465367176",
           "location": "San Jose, CA",
           "bucket": "50-75"
@@ -26266,9 +29400,9 @@
           "jobId": "4459449062",
           "title": "Global Head of Long-Term Containment - Trust & Safety",
           "mid_pct": 65,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 49,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4459449062",
           "location": "Dublin, County Dublin, Ireland",
           "bucket": "50-75"
@@ -26277,9 +29411,9 @@
           "jobId": "4460069707",
           "title": "Global Head of Long-Term Containment, Trust & Safety",
           "mid_pct": 65,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 49,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4460069707",
           "location": "Singapore, Singapore",
           "bucket": "50-75"
@@ -26288,9 +29422,9 @@
           "jobId": "4466893503",
           "title": "Global Head of Risk Intelligence, Trust & Safety",
           "mid_pct": 65,
-          "action_score": 12,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 49,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4466893503",
           "location": "Singapore, Singapore",
           "bucket": "50-75"
@@ -26299,15 +29433,25 @@
           "jobId": "4462667061",
           "title": "Global Head of Child Safety - Trust & Safety",
           "mid_pct": 52,
-          "action_score": 10,
-          "path_strength": "none",
-          "next_action": "Hold — no path; skip cold apply",
+          "action_score": 39,
+          "path_strength": "strong",
+          "next_action": "Ask Nick Scutari-Dunn for Marketplace intro",
           "link": "https://www.linkedin.com/jobs/view/4462667061",
           "location": "San Jose, CA",
           "bucket": "50-75"
         }
       ],
-      "people_there": [],
+      "people_there": [
+        {
+          "id": "li-029",
+          "name": "Nick Scutari-Dunn",
+          "title": "Food and Beverages @ TikTok Shop | Walmart Alum",
+          "function": "marketplace",
+          "warmth": 4,
+          "type": "1st-degree",
+          "status": "to_contact"
+        }
+      ],
       "missing_seats": [
         {
           "seat": "Hiring Manager — Ops / Trust & Safety Ops",
@@ -26368,21 +29512,33 @@
       "sequence_14d": [
         {
           "day": 1,
+          "who_or_seat": "Nick Scutari-Dunn",
+          "action": "Warm check-in / ask if open to intro on top role",
+          "why": "1st-degree at TikTok. Food and Beverages @ TikTok Shop | Walmart Alum"
+        },
+        {
+          "day": 3,
           "who_or_seat": "Hiring Manager — Ops / Trust & Safety Ops",
           "action": "Map and request intro — do not mass-connect",
           "why": "Ops-shaped TikTok roles"
         },
         {
-          "day": 3,
+          "day": 5,
           "who_or_seat": "Posting Recruiter — TikTok / ByteDance",
           "action": "Map and request intro — do not mass-connect",
           "why": "Recruiter access"
         },
         {
-          "day": 5,
+          "day": 7,
           "who_or_seat": "Ex-TikTok / ByteDance ops peer",
           "action": "Map and request intro — do not mass-connect",
           "why": "Warm without cold mass apply"
+        },
+        {
+          "day": 9,
+          "who_or_seat": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "action": "Ask Nick Scutari-Dunn for Marketplace intro",
+          "why": "Top action_score 52 · Apply% 70"
         }
       ]
     }
@@ -26390,121 +29546,13 @@
   "this_week": {
     "new_roles_50plus": [
       {
-        "jobId": "4467176158",
-        "title": "(USA) Senior Director, Data Analytics - Workforce Planning",
-        "company": "Walmart",
-        "mid_pct": 79,
-        "action_score": 15,
-        "path_strength": "none",
-        "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
-        "link": "https://www.linkedin.com/jobs/view/4467176158",
-        "bucket": "75-100",
-        "listedAt": "2026-09-17"
-      },
-      {
-        "jobId": "4444182132",
-        "title": "VP, Digital Commerce-Marketplace",
-        "company": "Careismatic Brands",
-        "mid_pct": 72,
-        "action_score": 14,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4444182132",
-        "bucket": "50-75",
-        "listedAt": "2026-09-23"
-      },
-      {
-        "jobId": "4468575915",
-        "title": "VP, Global Head of Trust & Safety",
-        "company": "Cloudflare",
-        "mid_pct": 72,
-        "action_score": 14,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4468575915",
-        "bucket": "50-75",
-        "listedAt": "2026-09-22"
-      },
-      {
-        "jobId": "4451863138",
-        "title": "VP, Marketplace Growth",
-        "company": "DonorsChoose",
-        "mid_pct": 72,
-        "action_score": 14,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4451863138",
-        "bucket": "50-75",
-        "listedAt": "2026-09-22"
-      },
-      {
-        "jobId": "4462142692",
-        "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
-        "company": "Capital One",
-        "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4462142692",
-        "bucket": "50-75",
-        "listedAt": "2026-09-23"
-      },
-      {
-        "jobId": "4459034058",
-        "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
-        "company": "Capital One",
-        "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4459034058",
-        "bucket": "50-75",
-        "listedAt": "2026-09-16"
-      },
-      {
-        "jobId": "4421136996",
-        "title": "Director, Customer Experience Strategy & Operations",
-        "company": "DoorDash",
-        "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4421136996",
-        "bucket": "50-75",
-        "listedAt": "2026-09-20"
-      },
-      {
-        "jobId": "4468572375",
-        "title": "Senior Director Business Development (Technology Partnerships & Marketplace)",
-        "company": "Jobgether",
-        "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4468572375",
-        "bucket": "50-75",
-        "listedAt": "2026-09-22"
-      },
-      {
-        "jobId": "4470208562",
-        "title": "Senior Director Business Development (Technology Partnerships & Marketplace)",
-        "company": "Paylocity",
-        "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Hold — no path; skip cold apply",
-        "link": "https://www.linkedin.com/jobs/view/4470208562",
-        "bucket": "50-75",
-        "listedAt": "2026-09-22"
-      },
-      {
         "jobId": "4468975326",
         "title": "(USA) Director, Data Science - Operations Research",
         "company": "Walmart",
         "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+        "action_score": 69,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
         "link": "https://www.linkedin.com/jobs/view/4468975326",
         "bucket": "50-75",
         "listedAt": "2026-09-23"
@@ -26514,9 +29562,9 @@
         "title": "(USA) Director, Technology Operations",
         "company": "Walmart",
         "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+        "action_score": 69,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
         "link": "https://www.linkedin.com/jobs/view/4468973368",
         "bucket": "50-75",
         "listedAt": "2026-09-23"
@@ -26526,19 +29574,295 @@
         "title": "(USA) Director, Technology Operations-Right Location",
         "company": "Walmart",
         "mid_pct": 69,
-        "action_score": 13,
-        "path_strength": "none",
-        "next_action": "Internal apply + find ex-Walmart / Spark ops peer — skip cold external",
+        "action_score": 69,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
         "link": "https://www.linkedin.com/jobs/view/4420166055",
         "bucket": "50-75",
         "listedAt": "2026-09-18"
+      },
+      {
+        "jobId": "4469982552",
+        "title": "Senior Director Walmart Energy - Operations and Support",
+        "company": "Walmart",
+        "mid_pct": 69,
+        "action_score": 69,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4469982552",
+        "bucket": "50-75",
+        "listedAt": "2026-09-21"
+      },
+      {
+        "jobId": "4466923789",
+        "title": "Senior Director, Technology Operations - Digital Innovation (Style & Trend)",
+        "company": "Walmart",
+        "mid_pct": 69,
+        "action_score": 69,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4466923789",
+        "bucket": "50-75",
+        "listedAt": "2026-09-18"
+      },
+      {
+        "jobId": "4459246869",
+        "title": "(USA) Director, Automation Engineering",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4459246869",
+        "bucket": "50-75",
+        "listedAt": "2026-09-22"
+      },
+      {
+        "jobId": "4468885884",
+        "title": "Director, Automation Engineering",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4468885884",
+        "bucket": "50-75",
+        "listedAt": "2026-09-18"
+      },
+      {
+        "jobId": "4429897258",
+        "title": "Director, Automation Engineering - Case Manipulation",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4429897258",
+        "bucket": "50-75",
+        "listedAt": "2026-09-19"
+      },
+      {
+        "jobId": "4458432196",
+        "title": "Director, Business Strategy - Digital Enablement & Low-Voltage Strategy",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4458432196",
+        "bucket": "50-75",
+        "listedAt": "2026-09-19"
+      },
+      {
+        "jobId": "4458437139",
+        "title": "Director, Business Strategy - Digital Twin & Asset Strategy",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4458437139",
+        "bucket": "50-75",
+        "listedAt": "2026-09-19"
+      },
+      {
+        "jobId": "4441007575",
+        "title": "Director, Specialty Compliance and Ethics - AI Governance",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4441007575",
+        "bucket": "50-75",
+        "listedAt": "2026-09-23"
+      },
+      {
+        "jobId": "4462559119",
+        "title": "Senior Director Walmart Energy",
+        "company": "Walmart",
+        "mid_pct": 57,
+        "action_score": 57,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4462559119",
+        "bucket": "50-75",
+        "listedAt": "2026-09-08"
       }
     ],
-    "path_improved": [],
-    "contact_5": [],
+    "path_improved": [
+      {
+        "jobId": "4460408226",
+        "title": "(USA) Director, Marketplace",
+        "company": "Walmart",
+        "action_score": 79,
+        "path_strength": "strong",
+        "mid_pct": 79,
+        "prior_score": 15
+      },
+      {
+        "jobId": "4467176158",
+        "title": "(USA) Senior Director, Data Analytics - Workforce Planning",
+        "company": "Walmart",
+        "action_score": 79,
+        "path_strength": "strong",
+        "mid_pct": 79,
+        "prior_score": 15
+      },
+      {
+        "jobId": "4451269259",
+        "title": "Director, Workforce Planning",
+        "company": "Walmart",
+        "action_score": 79,
+        "path_strength": "strong",
+        "mid_pct": 79,
+        "prior_score": 15
+      },
+      {
+        "jobId": "4465245762",
+        "title": "Group Director, Technology Operations - Global Governance Digital Strategy",
+        "company": "Walmart",
+        "action_score": 70,
+        "path_strength": "strong",
+        "mid_pct": 70,
+        "prior_score": 13
+      },
+      {
+        "jobId": "4468975326",
+        "title": "(USA) Director, Data Science - Operations Research",
+        "company": "Walmart",
+        "action_score": 69,
+        "path_strength": "strong",
+        "mid_pct": 69,
+        "prior_score": 13
+      },
+      {
+        "jobId": "4463185368",
+        "title": "(USA) Director, Technology Operations",
+        "company": "Walmart",
+        "action_score": 69,
+        "path_strength": "strong",
+        "mid_pct": 69,
+        "prior_score": 13
+      },
+      {
+        "jobId": "4468973368",
+        "title": "(USA) Director, Technology Operations",
+        "company": "Walmart",
+        "action_score": 69,
+        "path_strength": "strong",
+        "mid_pct": 69,
+        "prior_score": 13
+      },
+      {
+        "jobId": "4420166055",
+        "title": "(USA) Director, Technology Operations-Right Location",
+        "company": "Walmart",
+        "action_score": 69,
+        "path_strength": "strong",
+        "mid_pct": 69,
+        "prior_score": 13
+      }
+    ],
+    "contact_5": [
+      {
+        "id": "li-002",
+        "name": "Rebecca Durkee",
+        "company": "Walmart",
+        "title": "SVP, Last Mile Delivery at Walmart",
+        "warmth": 5,
+        "status": "to_contact",
+        "why": "1st-degree at Walmart. SVP, Last Mile Delivery at Walmart — craft twin for Spark/last-mile board.",
+        "draft_available": false
+      },
+      {
+        "id": "li-005",
+        "name": "Michael DiFiore",
+        "company": "Walmart",
+        "title": "Director - Last Mile at Walmart",
+        "warmth": 5,
+        "status": "to_contact",
+        "why": "1st-degree at Walmart. Director - Last Mile at Walmart — craft twin for Spark/last-mile board.",
+        "draft_available": false
+      },
+      {
+        "id": "li-001",
+        "name": "Kyle Kinnard",
+        "company": "Walmart",
+        "title": "EVP and Chief Operating Officer, Walmart U.S.",
+        "warmth": 4,
+        "status": "to_contact",
+        "why": "1st-degree at Walmart. EVP and Chief Operating Officer, Walmart U.S.",
+        "draft_available": false
+      },
+      {
+        "id": "li-003",
+        "name": "Paul Lewellen",
+        "company": "Walmart",
+        "title": "Chief Operating Officer at Walmart de Mexico",
+        "warmth": 4,
+        "status": "to_contact",
+        "why": "1st-degree at Walmart. Chief Operating Officer at Walmart de Mexico",
+        "draft_available": false
+      },
+      {
+        "id": "li-004",
+        "name": "Kieran Shanahan",
+        "company": "Walmart",
+        "title": "Enterprise Operator, Retail, Consumer, Digital & Supply Chain, EVP & COO, Walmart",
+        "warmth": 4,
+        "status": "to_contact",
+        "why": "1st-degree at Walmart. Enterprise Operator, Retail, Consumer, Digital & Supply Chain, EVP & COO, Walmart",
+        "draft_available": false
+      }
+    ],
     "add_5": [],
-    "recruiters_3": [],
-    "apply_now_3": [],
+    "recruiters_3": [
+      {
+        "id": "li-009",
+        "name": "Gracie Sitton",
+        "company": "Walmart",
+        "title": "Senior Recruiter - Walmart Last Mile Delivery"
+      },
+      {
+        "id": "li-011",
+        "name": "Claire MacIntyre",
+        "company": "Sam's Club",
+        "title": "Senior Vice President, Chief People Officer Sam's Club"
+      }
+    ],
+    "apply_now_3": [
+      {
+        "jobId": "4460408226",
+        "title": "(USA) Director, Marketplace",
+        "company": "Walmart",
+        "mid_pct": 79,
+        "action_score": 79,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4460408226"
+      },
+      {
+        "jobId": "4467176158",
+        "title": "(USA) Senior Director, Data Analytics - Workforce Planning",
+        "company": "Walmart",
+        "mid_pct": 79,
+        "action_score": 79,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4467176158"
+      },
+      {
+        "jobId": "4451269259",
+        "title": "Director, Workforce Planning",
+        "company": "Walmart",
+        "mid_pct": 79,
+        "action_score": 79,
+        "path_strength": "strong",
+        "next_action": "Internal apply + ping Kyle Kinnard (Spark / ops peer)",
+        "link": "https://www.linkedin.com/jobs/view/4451269259"
+      }
+    ],
     "skip_stretch_no_path": [
       {
         "jobId": "4455309959",
@@ -26621,6 +29945,6 @@
         "link": "https://www.linkedin.com/jobs/view/4463532996"
       }
     ],
-    "empty_network": true
+    "empty_network": false
   }
 }
