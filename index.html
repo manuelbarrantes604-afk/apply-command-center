@@ -4,14 +4,14 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>Apply Command Center · Manuel Barrantes Duarte</title>
-<meta name="description" content="Simple Jobs + Networking board across all companies for Manuel Barrantes Duarte." />
+<meta name="description" content="Jobs + Connect board — recruiters and seats for roles Manuel can place into." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
 <style>
 :root {
   --bg:#07090f; --bg2:#0d111a; --bg3:#141a26; --card:#111722;
-  --border:#243044; --border2:#2e3c55; --text:#eef2f8; --muted:#8b97ad; --muted2:#6b778f;
+  --border:#243044; --text:#eef2f8; --muted:#8b97ad; --muted2:#6b778f;
   --teal:#2dd4bf; --cyan:#22d3ee; --gold:#fbbf24; --red:#f87171; --purple:#a78bfa;
   --radius:14px; --shadow:0 12px 40px rgba(0,0,0,.45);
   --mono:"JetBrains Mono", ui-monospace, monospace;
@@ -27,168 +27,134 @@ body {
 a { color:var(--cyan); text-decoration:none; }
 a:hover { text-decoration:underline; }
 button, input, select { font-family:inherit; font-size:inherit; }
-.wrap { max-width:720px; margin:0 auto; padding:12px 14px 80px; }
+.wrap { max-width:720px; margin:0 auto; padding:10px 12px 72px; }
 
 .topnav {
-  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:10px;
-  padding:12px 14px; margin-bottom:14px;
+  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:8px;
+  padding:10px 12px; margin-bottom:10px;
   background:linear-gradient(135deg, rgba(20,26,38,.96), rgba(13,17,26,.94));
   border:1px solid var(--border); border-radius:16px; box-shadow:var(--shadow);
-  position:sticky; top:6px; z-index:80; backdrop-filter:blur(14px);
+  position:sticky; top:4px; z-index:80; backdrop-filter:blur(14px);
 }
 .brand { display:flex; align-items:center; gap:10px; min-width:0; }
 .brand-mark {
-  width:36px; height:36px; border-radius:10px; flex-shrink:0;
+  width:34px; height:34px; border-radius:10px; flex-shrink:0;
   background:linear-gradient(135deg, #0f766e, #0891b2);
-  display:grid; place-items:center; font-weight:800; font-size:.8rem; color:#fff;
+  display:grid; place-items:center; font-weight:800; font-size:.78rem; color:#fff;
 }
-.brand h1 { font-size:1rem; font-weight:750; letter-spacing:-.02em; }
+.brand h1 { font-size:.95rem; font-weight:750; letter-spacing:-.02em; }
 .brand h1 span { color:var(--teal); }
-.brand .sub { font-size:.68rem; color:var(--muted); margin-top:2px; }
+.brand .sub { font-size:.65rem; color:var(--muted); margin-top:1px; }
 .tabs { display:flex; gap:4px; background:var(--bg2); padding:4px; border-radius:12px; border:1px solid var(--border); }
 .tab {
   background:transparent; border:0; color:var(--muted);
-  font-weight:700; font-size:.88rem; padding:10px 18px; border-radius:9px; cursor:pointer;
+  font-weight:700; font-size:.88rem; padding:10px 16px; border-radius:9px; cursor:pointer;
   min-height:44px;
 }
 .tab.on { color:#042f2e; background:var(--teal); }
 
-.kpis { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:12px; }
+.kpis { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:10px; }
 .kpi {
-  background:var(--card); border:1px solid var(--border); border-radius:12px; padding:12px;
+  background:var(--card); border:1px solid var(--border); border-radius:12px; padding:10px 12px;
 }
-.kpi .label { font-size:.62rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); font-weight:700; }
-.kpi .num { font-family:var(--mono); font-size:1.35rem; font-weight:700; color:var(--teal); margin-top:4px; }
+.kpi .label { font-size:.6rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); font-weight:700; }
+.kpi .num { font-family:var(--mono); font-size:1.25rem; font-weight:700; color:var(--teal); margin-top:2px; }
 
 .filters {
   background:var(--card); border:1px solid var(--border); border-radius:var(--radius);
-  padding:12px; margin-bottom:12px; display:flex; flex-direction:column; gap:10px;
+  padding:10px; margin-bottom:10px; display:flex; flex-direction:column; gap:8px;
 }
 .search {
   width:100%; background:var(--bg2); border:1px solid var(--border); color:var(--text);
-  border-radius:12px; padding:14px 16px; font-size:1rem; min-height:48px;
+  border-radius:12px; padding:12px 14px; font-size:1rem; min-height:46px;
 }
 .search:focus { outline:none; border-color:var(--teal); box-shadow:0 0 0 3px rgba(45,212,191,.15); }
-.showme-label { font-size:.68rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); font-weight:700; }
+.showme-label { font-size:.65rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); font-weight:700; }
 .showme {
   width:100%; background:var(--bg2); border:1px solid var(--border); color:var(--text);
-  border-radius:12px; padding:14px 16px; font-size:.95rem; font-weight:600; min-height:48px;
+  border-radius:12px; padding:12px 14px; font-size:.92rem; font-weight:600; min-height:46px;
   appearance:none;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%238b97ad' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
-  background-repeat:no-repeat; background-position:right 16px center; padding-right:40px;
+  background-repeat:no-repeat; background-position:right 14px center; padding-right:38px;
 }
-.results-meta { font-size:.8rem; color:var(--muted); margin:2px 2px 10px; }
+.results-meta { font-size:.78rem; color:var(--muted); margin:0 2px 8px; }
 
 .card-list { display:flex; flex-direction:column; gap:10px; }
-.job-card, .person-card, .action-card, .lead-card, .seat-card {
-  background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:16px;
+.job-card, .connect-card {
+  background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:14px;
 }
-.job-top { display:flex; justify-content:space-between; gap:12px; align-items:flex-start; }
-.job-title { font-size:1.05rem; font-weight:750; letter-spacing:-.015em; line-height:1.3; }
-.job-meta { font-size:.82rem; color:var(--muted); margin-top:5px; }
+.job-top { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
+.job-title { font-size:1.02rem; font-weight:750; letter-spacing:-.015em; line-height:1.3; }
+.job-meta { font-size:.8rem; color:var(--muted); margin-top:4px; }
 .job-scores { display:flex; gap:8px; flex-shrink:0; }
 .score {
-  text-align:center; min-width:56px; padding:8px; border-radius:10px;
+  text-align:center; min-width:52px; padding:7px; border-radius:10px;
   background:var(--bg3); border:1px solid var(--border);
 }
-.score .v { font-family:var(--mono); font-size:1.15rem; font-weight:700; line-height:1; }
-.score .l { font-size:.55rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-top:4px; font-weight:700; }
+.score .v { font-family:var(--mono); font-size:1.1rem; font-weight:700; line-height:1; }
+.score .l { font-size:.52rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-top:3px; font-weight:700; }
 .score.apply .v { color:var(--cyan); }
 .score.action .v { color:var(--teal); }
 .path-line {
-  margin-top:12px; font-size:.88rem; padding:10px 12px; border-radius:10px;
+  margin-top:10px; font-size:.84rem; padding:9px 11px; border-radius:10px;
   background:rgba(45,212,191,.07); border-left:3px solid var(--teal);
 }
 .path-line.none { border-left-color:var(--muted2); background:rgba(107,119,143,.08); color:var(--muted); }
 .path-line.warm, .path-line.strong { border-left-color:var(--teal); }
 .path-line.weak { border-left-color:var(--gold); background:rgba(251,191,36,.06); }
-.job-actions { margin-top:12px; display:flex; flex-direction:column; gap:8px; }
+.job-actions { margin-top:10px; display:flex; flex-direction:column; gap:8px; }
 .next-action {
   display:block; background:rgba(45,212,191,.12); border:1px solid rgba(45,212,191,.35);
-  color:var(--teal); font-weight:650; font-size:.88rem; padding:12px 14px; border-radius:10px;
+  color:var(--teal); font-weight:650; font-size:.84rem; padding:10px 12px; border-radius:10px;
 }
-.btn-open {
-  display:flex; align-items:center; justify-content:center; gap:6px;
+.btn-row { display:flex; gap:8px; flex-wrap:wrap; }
+.btn-open, .btn-copy, .btn-filter {
+  display:flex; align-items:center; justify-content:center; gap:6px; flex:1;
   background:var(--bg3); border:1px solid var(--border); color:var(--text);
-  font-weight:700; font-size:.9rem; padding:14px 16px; border-radius:12px; min-height:48px;
-  text-decoration:none;
+  font-weight:700; font-size:.88rem; padding:12px 14px; border-radius:12px; min-height:46px;
+  text-decoration:none; cursor:pointer;
 }
-.btn-open:hover { border-color:var(--cyan); color:var(--cyan); text-decoration:none; }
-
-.section { margin-bottom:28px; }
-.section-head { display:flex; align-items:baseline; justify-content:space-between; gap:10px; margin-bottom:8px; padding:0 2px; }
-.section-head h2 { font-size:1.1rem; font-weight:800; letter-spacing:-.02em; }
-.section-head .hint { font-size:.75rem; color:var(--muted); }
-.section-intro { font-size:.88rem; color:var(--muted); margin:0 2px 14px; line-height:1.55; }
-
-.action-card { display:grid; grid-template-columns:40px 1fr; gap:12px; align-items:start; }
-.action-num {
-  width:40px; height:40px; border-radius:12px;
-  background:linear-gradient(135deg, #0f766e, #0891b2);
-  display:grid; place-items:center; font-family:var(--mono); font-weight:700; color:#fff;
-}
-.action-who { font-weight:750; font-size:1rem; }
-.action-co { font-size:.78rem; color:var(--muted); margin-top:2px; }
-.action-why { font-size:.82rem; color:var(--muted); margin-top:6px; }
-.action-do {
-  margin-top:10px; font-size:.88rem; font-weight:650; color:var(--teal);
-  display:inline-block; padding:10px 12px; border-radius:10px;
-  background:rgba(45,212,191,.1); border:1px solid rgba(45,212,191,.28);
+.btn-open { background:rgba(45,212,191,.14); border-color:rgba(45,212,191,.4); color:var(--teal); }
+.btn-open:hover { text-decoration:none; background:rgba(45,212,191,.22); }
+.btn-copy { background:rgba(34,211,238,.08); border-color:rgba(34,211,238,.3); color:var(--cyan); }
+.btn-copy:hover, .btn-copy.done { background:rgba(34,211,238,.18); }
+.btn-filter {
+  flex:0 0 auto; min-width:auto; padding:10px 12px; min-height:40px; font-size:.78rem;
+  color:var(--gold); border-color:rgba(251,191,36,.35); background:rgba(251,191,36,.08);
 }
 
-.co-header {
-  font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted);
-  font-weight:800; margin:16px 2px 8px; padding-bottom:4px; border-bottom:1px solid var(--border);
-}
-.co-header:first-child { margin-top:0; }
-.person-top { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
-.person-name { font-weight:750; font-size:1rem; }
-.person-title { font-size:.84rem; color:var(--muted); margin-top:3px; }
 .badge {
-  font-size:.68rem; font-weight:750; padding:5px 9px; border-radius:999px; white-space:nowrap;
+  font-size:.66rem; font-weight:750; padding:5px 9px; border-radius:999px; white-space:nowrap;
   background:rgba(45,212,191,.1); border:1px solid rgba(45,212,191,.35); color:var(--teal);
 }
-.badge.warn { background:rgba(251,191,36,.1); border-color:rgba(251,191,36,.35); color:var(--gold); }
-.badge.danger { background:rgba(248,113,113,.1); border-color:rgba(248,113,113,.35); color:var(--red); }
-.badge.purple { background:rgba(167,139,250,.1); border-color:rgba(167,139,250,.35); color:var(--purple); }
-.person-why { font-size:.84rem; margin-top:10px; color:var(--text); }
-.person-actions { margin-top:12px; }
+.badge.rec { background:rgba(251,191,36,.12); border-color:rgba(251,191,36,.4); color:var(--gold); }
+.badge.lead { background:rgba(167,139,250,.12); border-color:rgba(167,139,250,.4); color:var(--purple); }
+.badge.peer { background:rgba(34,211,238,.1); border-color:rgba(34,211,238,.35); color:var(--cyan); }
+.badge.seat { background:rgba(107,119,143,.12); border-color:rgba(107,119,143,.4); color:var(--muted); }
 
-.company-block {
-  background:var(--card); border:1px solid var(--border); border-radius:var(--radius);
-  padding:16px; margin-bottom:12px;
-}
-.company-block.priority { border-color:rgba(248,113,113,.4); }
-.company-head { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:6px; }
-.company-name { font-size:1.05rem; font-weight:800; }
-.company-note { font-size:.82rem; color:var(--muted); margin-bottom:12px; }
-.seat-card { margin-bottom:8px; background:var(--bg2); }
-.seat-card:last-child { margin-bottom:0; }
-.seat-title { font-weight:750; font-size:.95rem; }
-.seat-why { font-size:.8rem; color:var(--muted); margin-top:4px; }
-.seat-jobs { margin-top:8px; display:flex; flex-wrap:wrap; gap:6px; }
+.connect-top { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
+.connect-name { font-weight:780; font-size:1.05rem; letter-spacing:-.015em; }
+.connect-co { font-size:.82rem; color:var(--muted); margin-top:3px; }
+.connect-why { font-size:.84rem; margin-top:10px; color:var(--text); line-height:1.45; }
+.job-chips { margin-top:10px; display:flex; flex-wrap:wrap; gap:6px; }
 .job-chip {
-  font-size:.72rem; padding:5px 9px; border-radius:8px;
+  font-size:.7rem; padding:5px 9px; border-radius:8px;
   background:rgba(34,211,238,.08); border:1px solid rgba(34,211,238,.28); color:var(--cyan);
 }
 .job-chip:hover { text-decoration:none; background:rgba(34,211,238,.15); }
-.btn-search {
-  display:inline-flex; align-items:center; justify-content:center;
-  margin-top:10px; padding:12px 14px; min-height:44px; border-radius:10px;
-  background:rgba(251,191,36,.1); border:1px solid rgba(251,191,36,.35);
-  color:var(--gold); font-weight:700; font-size:.85rem; text-decoration:none;
-}
-.btn-search:hover { text-decoration:none; background:rgba(251,191,36,.18); }
+.connect-actions { margin-top:12px; display:flex; gap:8px; }
 
-.named-lead { margin-bottom:10px; }
-.footer { margin-top:28px; text-align:center; font-size:.72rem; color:var(--muted2); }
+.footer { margin-top:24px; text-align:center; font-size:.7rem; color:var(--muted2); }
 .footer a { color:var(--muted); }
 .hidden { display:none !important; }
 .empty {
-  text-align:center; padding:36px 16px; color:var(--muted); font-size:.9rem;
+  text-align:center; padding:32px 14px; color:var(--muted); font-size:.88rem;
   background:var(--card); border:1px dashed var(--border); border-radius:var(--radius);
 }
 .loading { text-align:center; padding:48px; color:var(--muted); }
+.connect-intro {
+  font-size:.82rem; color:var(--muted); margin:0 2px 10px; line-height:1.5;
+}
 
 @media (max-width:560px) {
   .job-top { flex-direction:column; }
@@ -196,8 +162,10 @@ button, input, select { font-family:inherit; font-size:inherit; }
   .score { flex:1; }
   .tabs { width:100%; }
   .tab { flex:1; text-align:center; }
-  .kpis { grid-template-columns:repeat(3,1fr); gap:6px; }
-  .kpi .num { font-size:1.1rem; }
+  .kpis { gap:6px; }
+  .kpi .num { font-size:1.05rem; }
+  .wrap { padding:8px 10px 64px; }
+  .topnav { margin-bottom:8px; }
 }
 </style>
 </head>
@@ -208,12 +176,12 @@ button, input, select { font-family:inherit; font-size:inherit; }
       <div class="brand-mark">MB</div>
       <div>
         <h1>Apply <span>Command Center</span></h1>
-        <div class="sub">Manuel Barrantes Duarte · all companies</div>
+        <div class="sub">Manuel Barrantes Duarte · place into 50%+</div>
       </div>
     </div>
     <nav class="tabs" role="tablist">
       <button class="tab on" id="tab-jobs" data-tab="jobs" type="button">Jobs</button>
-      <button class="tab" id="tab-networking" data-tab="networking" type="button">Networking</button>
+      <button class="tab" id="tab-connect" data-tab="connect" type="button">Connect</button>
     </nav>
   </header>
 
@@ -237,50 +205,37 @@ button, input, select { font-family:inherit; font-size:inherit; }
     <div class="card-list" id="job-list"></div>
   </section>
 
-  <section id="view-networking" class="hidden">
-    <div class="section">
-      <div class="section-head">
-        <h2>This week</h2>
-        <span class="hint">Max 7 · across companies</span>
+  <section id="view-connect" class="hidden">
+    <div class="kpis" id="connect-kpis"></div>
+    <p class="connect-intro">One ranked feed — recruiters &amp; seats for jobs you can place into. No Walmart friends wall. Notes copy only; nothing sends.</p>
+    <div class="filters">
+      <div>
+        <div class="showme-label">Show me</div>
+        <select class="showme" id="connect-showme" aria-label="Show me">
+          <option value="ready">Ready to connect</option>
+          <option value="recruiters" selected>Recruiters first</option>
+          <option value="leaders">Leaders to meet</option>
+          <option value="seats">Seats to find</option>
+          <option value="all">All targets</option>
+        </select>
       </div>
-      <p class="section-intro">One checklist spanning the whole board — not just Walmart.</p>
-      <div class="card-list" id="week-list"></div>
+      <input class="search" id="connect-search" type="search" placeholder="Filter by company or name…" autocomplete="off" />
     </div>
-
-    <div class="section">
-      <div class="section-head">
-        <h2>People you know</h2>
-        <span class="hint" id="people-count"></span>
-      </div>
-      <p class="section-intro">Your LinkedIn 1st-degree. Grouped by company. Use them for intros.</p>
-      <div class="filters" style="margin-bottom:12px">
-        <input class="search" id="people-search" type="search" placeholder="Search name, title, company…" autocomplete="off" />
-      </div>
-      <div id="people-list"></div>
-    </div>
-
-    <div class="section" id="future-section">
-      <div class="section-head">
-        <h2>Future connections</h2>
-        <span class="hint" id="future-count"></span>
-      </div>
-      <p class="section-intro">
-        These are people and seats for larger leadership roles — not your current LinkedIn friends.
-        Named leads first (if we found them), then seats to find — companies with strong open jobs but zero friends first.
-      </p>
-      <div id="named-leads"></div>
-      <div id="future-seats" style="margin-top:18px"></div>
-    </div>
-
+    <div class="results-meta" id="connect-count"></div>
+    <div class="card-list" id="connect-list"></div>
     <div class="footer">
-      Sorted by Action score · Apply% secondary ·
+      Named people from real LinkedIn pulls · seats are search links ·
       <a href="jobs.json">jobs.json</a> · <a href="network.json">network.json</a>
     </div>
   </section>
 </div>
 
 <script>
-const state = { jobsData:null, net:null, tab:"jobs", jobQ:"", showMe:"best", peopleQ:"" };
+const state = {
+  jobsData:null, net:null, tab:"jobs",
+  jobQ:"", showMe:"best",
+  connectShow:"recruiters", connectQ:"", connectCompany:""
+};
 
 function $(id){ return document.getElementById(id); }
 function esc(s){
@@ -300,7 +255,11 @@ async function boot(){
     state.jobsData = jobs;
     state.net = net;
     $("loading").classList.add("hidden");
-    showTab("jobs");
+    // Deep-link: #connect or ?tab=connect
+    const hash = (location.hash||"").replace("#","");
+    const params = new URLSearchParams(location.search);
+    const start = params.get("tab") || hash || "jobs";
+    showTab(start === "connect" ? "connect" : "jobs");
     wire();
     renderAll();
   } catch(e){
@@ -310,18 +269,24 @@ async function boot(){
 
 function wire(){
   $("tab-jobs").onclick = () => showTab("jobs");
-  $("tab-networking").onclick = () => showTab("networking");
+  $("tab-connect").onclick = () => showTab("connect");
   $("job-search").oninput = e => { state.jobQ = e.target.value.trim().toLowerCase(); renderJobs(); };
   $("job-showme").onchange = e => { state.showMe = e.target.value; renderJobs(); };
-  $("people-search").oninput = e => { state.peopleQ = e.target.value.trim().toLowerCase(); renderPeople(); };
+  $("connect-showme").onchange = e => { state.connectShow = e.target.value; renderConnect(); };
+  $("connect-search").oninput = e => {
+    state.connectQ = e.target.value.trim().toLowerCase();
+    state.connectCompany = "";
+    renderConnect();
+  };
 }
 
 function showTab(tab){
   state.tab = tab;
   $("tab-jobs").classList.toggle("on", tab==="jobs");
-  $("tab-networking").classList.toggle("on", tab==="networking");
+  $("tab-connect").classList.toggle("on", tab==="connect");
   $("view-jobs").classList.toggle("hidden", tab!=="jobs");
-  $("view-networking").classList.toggle("hidden", tab!=="networking");
+  $("view-connect").classList.toggle("hidden", tab!=="connect");
+  try { history.replaceState(null, "", tab==="connect" ? "#connect" : "#jobs"); } catch(_){}
 }
 
 function enrichedJobs(){
@@ -335,9 +300,18 @@ function enrichedJobs(){
 
 function renderAll(){
   renderJobs();
-  renderWeek();
-  renderPeople();
-  renderFuture();
+  renderConnect();
+}
+
+function jumpConnectCompany(company){
+  state.connectCompany = company || "";
+  state.connectQ = "";
+  state.connectShow = "all";
+  $("connect-showme").value = "all";
+  $("connect-search").value = company || "";
+  showTab("connect");
+  renderConnect();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function renderJobs(){
@@ -355,7 +329,7 @@ function renderJobs(){
   const sm = state.showMe;
   if(sm==="ready") list = list.filter(j => j.path_strength==="warm" || j.path_strength==="strong");
   else if(sm==="best") list = list.filter(j => (j.mid_pct||0) >= 50);
-  else if(sm==="needs") list = list.filter(j => j.path_strength==="none");
+  else if(sm==="needs") list = list.filter(j => j.path_strength==="none" && (j.mid_pct||0) >= 50);
 
   if(state.jobQ){
     const q = state.jobQ;
@@ -376,11 +350,12 @@ function renderJobs(){
   $("job-list").innerHTML = list.map(j => {
     const ps = j.path_strength || "none";
     const sal = (j.salary_mid) ? `<span style="color:var(--muted2);font-size:.78rem;margin-left:6px">${esc(money(j.salary_mid))}</span>` : "";
+    const co = j.company || "";
     return `<article class="job-card">
       <div class="job-top">
         <div>
           <div class="job-title">${esc(j.title)}</div>
-          <div class="job-meta">${esc(j.company)} · ${esc(j.location||"")}${sal}</div>
+          <div class="job-meta">${esc(co)} · ${esc(j.location||"")}${sal}</div>
         </div>
         <div class="job-scores">
           <div class="score apply"><div class="v">${j.mid_pct??"—"}</div><div class="l">Apply%</div></div>
@@ -390,165 +365,121 @@ function renderJobs(){
       <div class="path-line ${esc(ps)}">${esc(j.path_label||"No path yet")}</div>
       <div class="job-actions">
         <div class="next-action">${esc(j.next_action||"")}</div>
-        <a class="btn-open" href="${esc(j.link)}" target="_blank" rel="noopener">Open role ↗</a>
+        <div class="btn-row">
+          <a class="btn-open" href="${esc(j.link)}" target="_blank" rel="noopener">Open role ↗</a>
+          <button class="btn-filter" type="button" data-co="${esc(co)}">Find contacts</button>
+        </div>
       </div>
     </article>`;
   }).join("");
+
+  $("job-list").querySelectorAll("[data-co]").forEach(btn => {
+    btn.onclick = () => jumpConnectCompany(btn.getAttribute("data-co"));
+  });
 }
 
-function renderWeek(){
-  const tw = state.net.this_week || {};
-  let actions = tw.actions || [];
-  if(!actions.length){
-    // fallback from legacy buckets
-    (tw.contact_5||[]).forEach(p => actions.push({kind:"contact", who:p.name, company:p.company, action:`Warm note to ${p.name}`, why:p.why, linkedin_url:p.linkedin_url}));
-    (tw.apply_now_3||[]).forEach(j => actions.push({kind:"apply", who:j.title, company:j.company, action:j.next_action, why:`Apply% ${j.mid_pct}`, link:j.link}));
-    (tw.add_5||[]).forEach(p => actions.push({kind:"add", who:p.name, company:p.company, action:`Find ${p.name}`, why:p.why, linkedin_url:p.linkedin_url}));
-    actions = actions.slice(0,7);
+function badgeClass(b){
+  if(b==="Recruiter") return "rec";
+  if(b==="Hiring leader") return "lead";
+  if(b==="Peer") return "peer";
+  return "seat";
+}
+
+function maxMid(card){
+  const refs = card.job_refs || [];
+  return refs.reduce((m,j) => Math.max(m, j.mid_pct||0), 0);
+}
+
+function filterConnect(feed){
+  let list = feed.slice();
+  const sm = state.connectShow;
+  if(sm==="ready") list = list.filter(c => c.ready);
+  else if(sm==="recruiters") {
+    // Recruiters first view: all recruiters (named + seats), then others still sorted behind via data order
+    const rec = list.filter(c => c.badge === "Recruiter");
+    const rest = list.filter(c => c.badge !== "Recruiter");
+    list = rec.concat(rest);
   }
-  if(!actions.length){
-    $("week-list").innerHTML = `<div class="empty">No actions yet — add connections to build a path.</div>`;
+  else if(sm==="leaders") list = list.filter(c => c.badge === "Hiring leader");
+  else if(sm==="seats") list = list.filter(c => c.name === "Find this seat" || c.badge === "Seat");
+
+  const q = (state.connectCompany || state.connectQ || "").toLowerCase();
+  if(q){
+    list = list.filter(c =>
+      (c.company||"").toLowerCase().includes(q) ||
+      (c.name||"").toLowerCase().includes(q) ||
+      (c.title||"").toLowerCase().includes(q)
+    );
+  }
+  return list;
+}
+
+function renderConnect(){
+  const feed = state.net.connect_feed || [];
+  const named = feed.filter(c => c.name && c.name !== "Find this seat").length;
+  const ready = feed.filter(c => c.ready).length;
+  const seats = feed.filter(c => c.name === "Find this seat").length;
+  $("connect-kpis").innerHTML = `
+    <div class="kpi"><div class="label">Targets</div><div class="num">${feed.length}</div></div>
+    <div class="kpi"><div class="label">Ready</div><div class="num" style="color:var(--cyan)">${ready}</div></div>
+    <div class="kpi"><div class="label">Seats</div><div class="num" style="color:var(--gold)">${seats}</div></div>
+  `;
+
+  const list = filterConnect(feed);
+  const label = state.connectShow === "recruiters" ? "recruiters first" :
+    state.connectShow === "ready" ? "with profile URL" :
+    state.connectShow === "leaders" ? "leaders" :
+    state.connectShow === "seats" ? "seats to find" : "all";
+  $("connect-count").textContent = `${list.length} · ${label}` + (named ? ` · ${named} named in feed` : "");
+
+  if(!list.length){
+    $("connect-list").innerHTML = `<div class="empty">No targets match. Try All targets or clear the filter.</div>`;
     return;
   }
-  $("week-list").innerHTML = actions.map((a,i) => {
-    const link = a.linkedin_url || a.link || a.linkedin_search_url || "";
-    const btn = link ? `<div style="margin-top:10px"><a class="btn-open" href="${esc(link)}" target="_blank" rel="noopener">${a.kind==="apply"?"Open role":"Open LinkedIn"} ↗</a></div>` : "";
-    return `<article class="action-card">
-      <div class="action-num">${i+1}</div>
-      <div>
-        <div class="action-who">${esc(a.who||a.title||"")}</div>
-        <div class="action-co">${esc(a.company||"")} · ${esc(a.kind||"")}</div>
-        <div class="action-why">${esc(a.why||"")}</div>
-        <div class="action-do">${esc(a.action||"")}</div>
-        ${btn}
+
+  $("connect-list").innerHTML = list.map((c, idx) => {
+    const b = c.badge || "Seat";
+    const chips = (c.job_refs||[]).slice(0,3).map(j =>
+      `<a class="job-chip" href="${esc(j.link||'#')}" target="_blank" rel="noopener">${esc((j.title||"").slice(0,42))}${(j.title||"").length>42?"…":""} · ${j.mid_pct}%</a>`
+    ).join("");
+    const url = c.linkedin_url || "";
+    const note = c.note_template || "";
+    const openLabel = c.ready ? "Open LinkedIn" : "Search LinkedIn";
+    return `<article class="connect-card" data-idx="${idx}">
+      <div class="connect-top">
+        <div>
+          <div class="connect-name">${esc(c.name || "Find this seat")}</div>
+          <div class="connect-co">${esc(c.company||"")} · ${esc(c.title||"")}</div>
+        </div>
+        <span class="badge ${badgeClass(b)}">${esc(b)}</span>
+      </div>
+      <div class="connect-why">${esc(c.why||"")}</div>
+      <div class="job-chips">${chips}</div>
+      <div class="connect-actions btn-row">
+        <a class="btn-open" href="${esc(url)}" target="_blank" rel="noopener">${openLabel} ↗</a>
+        <button class="btn-copy" type="button" data-note="${esc(note)}">Copy note</button>
       </div>
     </article>`;
   }).join("");
-}
 
-function renderPeople(){
-  const people = (state.net.people||[]).filter(p =>
-    !p.is_seat && (p.type==="1st-degree" || p.type==="recruiter") && !p.example
-  );
-  $("people-count").textContent = `${people.length} people`;
-
-  let list = people.slice();
-  if(state.peopleQ){
-    const q = state.peopleQ;
-    list = list.filter(p => {
-      const name = `${p.first_name||""} ${p.last_name||""}`.toLowerCase();
-      return name.includes(q) || (p.title||"").toLowerCase().includes(q) ||
-        (p.company||"").toLowerCase().includes(q) || (p.company_key||"").toLowerCase().includes(q);
-    });
-  }
-
-  // group by company
-  const groups = {};
-  list.forEach(p => {
-    const ck = p.company_key || p.company || "Other";
-    (groups[ck] = groups[ck] || []).push(p);
+  $("connect-list").querySelectorAll(".btn-copy").forEach(btn => {
+    btn.onclick = async () => {
+      const note = btn.getAttribute("data-note") || "";
+      try {
+        await navigator.clipboard.writeText(note);
+        btn.textContent = "Copied ✓";
+        btn.classList.add("done");
+        setTimeout(() => { btn.textContent = "Copy note"; btn.classList.remove("done"); }, 1600);
+      } catch(_){
+        // fallback
+        const ta = document.createElement("textarea");
+        ta.value = note; document.body.appendChild(ta); ta.select();
+        try { document.execCommand("copy"); btn.textContent = "Copied ✓"; } catch(e){ btn.textContent = "Copy failed"; }
+        document.body.removeChild(ta);
+        setTimeout(() => { btn.textContent = "Copy note"; }, 1600);
+      }
+    };
   });
-  const order = Object.keys(groups).sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
-
-  if(!order.length){
-    $("people-list").innerHTML = `<div class="empty">No 1st-degree matches.</div>`;
-    return;
-  }
-
-  let html = "";
-  order.forEach(ck => {
-    html += `<div class="co-header">${esc(ck)} · ${groups[ck].length}</div>`;
-    groups[ck].forEach(p => {
-      const name = `${p.first_name||""} ${p.last_name||""}`.trim();
-      const badge = p.type==="recruiter"
-        ? `<span class="badge warn">Recruiter</span>`
-        : `<span class="badge">1st-degree</span>`;
-      const link = p.linkedin_url
-        ? `<a class="btn-open" href="${esc(p.linkedin_url)}" target="_blank" rel="noopener">Open profile ↗</a>`
-        : "";
-      html += `<article class="person-card" style="margin-bottom:8px">
-        <div class="person-top">
-          <div>
-            <div class="person-name">${esc(name)}</div>
-            <div class="person-title">${esc(p.title||"")}</div>
-          </div>
-          ${badge}
-        </div>
-        <div class="person-why">${esc(p.why_matters||"")}</div>
-        <div class="person-actions">${link}</div>
-      </article>`;
-    });
-  });
-  $("people-list").innerHTML = html;
-}
-
-function renderFuture(){
-  const people = state.net.people||[];
-  const named = people.filter(p =>
-    !p.is_seat && p.type==="target" && (p.first_name || p.last_name) && !p.example
-  );
-  const future = state.net.future_leads || [];
-
-  $("future-count").textContent = `${named.length} named · ${future.length} companies`;
-
-  // Named leadership leads
-  if(named.length){
-    let html = `<div class="co-header">Ideal leadership leads</div>`;
-    named.forEach(p => {
-      const name = `${p.first_name||""} ${p.last_name||""}`.trim();
-      const link = p.linkedin_url
-        ? `<a class="btn-open" href="${esc(p.linkedin_url)}" target="_blank" rel="noopener">Open profile ↗</a>`
-        : "";
-      html += `<article class="person-card named-lead">
-        <div class="person-top">
-          <div>
-            <div class="person-name">${esc(name)}</div>
-            <div class="person-title">${esc(p.company_key||p.company||"")} · ${esc(p.title||"")}</div>
-          </div>
-          <span class="badge purple">Not connected yet</span>
-        </div>
-        <div class="person-why">${esc(p.why_matters||"")}</div>
-        <div class="person-actions">${link}</div>
-      </article>`;
-    });
-    $("named-leads").innerHTML = html;
-  } else {
-    $("named-leads").innerHTML = `<div class="co-header">Ideal leadership leads</div>
-      <div class="empty" style="padding:20px">Named leads will appear when the LinkedIn future-leaders pull lands. Seats below are ready now.</div>`;
-  }
-
-  // Seats by company — already ordered zero-friends first
-  if(!future.length){
-    $("future-seats").innerHTML = `<div class="empty">No seat recommendations yet.</div>`;
-    return;
-  }
-  let html = `<div class="co-header">Seats to find by company</div>`;
-  future.forEach(co => {
-    const pri = co.zero_friends ? "priority" : "";
-    const pill = co.zero_friends
-      ? `<span class="badge danger">0 friends · strong jobs open</span>`
-      : `<span class="badge">${co.friend_count} friend${co.friend_count===1?"":"s"}</span>`;
-    html += `<div class="company-block ${pri}">
-      <div class="company-head">
-        <div class="company-name">${esc(co.company)}</div>
-        ${pill}
-        <span class="badge warn">${co.strong_role_count} roles ≥50%</span>
-      </div>
-      <div class="company-note">Level focus: ${esc(co.level||"Director")} · map these seats before cold applying.</div>`;
-    (co.seats||[]).forEach(s => {
-      const jobs = (s.job_links||[]).map(j =>
-        `<a class="job-chip" href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)} · ${j.mid_pct}%</a>`
-      ).join("");
-      html += `<div class="seat-card">
-        <div class="seat-title">${esc(s.title)}</div>
-        <div class="seat-why">${esc(s.why)}</div>
-        <div class="seat-jobs">${jobs}</div>
-        <a class="btn-search" href="${esc(s.linkedin_search_url)}" target="_blank" rel="noopener">Search LinkedIn for this seat ↗</a>
-      </div>`;
-    });
-    html += `</div>`;
-  });
-  $("future-seats").innerHTML = html;
 }
 
 boot();

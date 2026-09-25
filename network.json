@@ -26,10 +26,19 @@
       "known": 1.0,
       "unknown": 0.75
     },
-    "honesty": "Only 1st-degree/ex-employee/alumni/recruiter affect path_strength. Targets & seats never fake warmth.",
+    "honesty": "connect_feed: named people only from real LinkedIn pulls / overlay; seats are search URLs never fake names; Walmart/Sam's friends excluded from default feed.",
     "candidate": "Manuel Barrantes Duarte",
     "run_date": "2026-09-23",
-    "version": "v3-wide"
+    "version": "v4-connect",
+    "connect_feed_count": 123,
+    "connect_named_recruiters": 1,
+    "connect_named_leaders": 13,
+    "connect_named_peers": 31,
+    "connect_seats": 78,
+    "connect_ready": 45,
+    "connect_walmart_people_excluded": 26,
+    "connect_v4_merged": true,
+    "connect_built_at": "2026-09-25T23:04:08Z"
   },
   "people": [
     {
@@ -43975,5 +43984,3751 @@
     ],
     "skip_stretch_no_path": [],
     "empty_network": false
-  }
+  },
+  "connect_feed": [
+    {
+      "id": "li-030",
+      "badge": "Recruiter",
+      "name": "April Haines",
+      "company": "Amazon",
+      "title": "Sr. Executive Workplace Health and Safety Recruiter at Amazon",
+      "linkedin_url": "https://www.linkedin.com/in/april-h-4b55a3149/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Current Amazon recruiter; workplace health and safety recruiting.",
+      "note_template": "Hi April, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "v4-001-aubrey-reynolds",
+      "badge": "Hiring leader",
+      "name": "Aubrey Reynolds",
+      "company": "DoorDash",
+      "title": "Senior Manager, Marketplace Live Operations at DoorDash",
+      "linkedin_url": "https://www.linkedin.com/in/aubreyreynolds/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Captured from DoorDash Marketplace Operations people search; manager-level marketplace operations profile. Hiring-manager status not explicit.",
+      "note_template": "Hi Aubrey, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "linkedin_connect_v4"
+    },
+    {
+      "id": "v4-002-kevin-saunders",
+      "badge": "Hiring leader",
+      "name": "Kevin Saunders",
+      "company": "DoorDash",
+      "title": "Manager, Marketplace Live Operations at DoorDash",
+      "linkedin_url": "https://www.linkedin.com/in/kevin-saunders-5145a9110/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Captured from DoorDash Marketplace Operations people search; manager-level marketplace operations profile. Hiring-manager status not explicit.",
+      "note_template": "Hi Kevin, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "linkedin_connect_v4"
+    },
+    {
+      "id": "v4-003-rhonda-bowen",
+      "badge": "Hiring leader",
+      "name": "Rhonda Bowen",
+      "company": "DoorDash",
+      "title": "Supervisor, Marketplace Live Operations at Doordash",
+      "linkedin_url": "https://www.linkedin.com/in/rhonda-rhonnie-bowen-88751513a/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Profile displays name as Rhonda “Rhonnie” Bowen; captured from DoorDash Marketplace Operations people search. Supervisor-level operations profile; hiring-manage",
+      "note_template": "Hi Rhonda, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "linkedin_connect_v4"
+    },
+    {
+      "id": "li-044",
+      "badge": "Hiring leader",
+      "name": "Sarah Friar",
+      "company": "OpenAI",
+      "title": "CFO OpenAI",
+      "linkedin_url": "https://www.linkedin.com/in/sarah-friar/",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Current OpenAI CFO; senior operator surfaced in 1st-degree search.",
+      "note_template": "Hi Sarah, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-054",
+      "badge": "Hiring leader",
+      "name": "Rashid Ali",
+      "company": "Alvarez & Marsal",
+      "title": "Co-Founder, CEO at Chomps",
+      "linkedin_url": "https://www.linkedin.com/in/rashid-ali-9b436b5/",
+      "job_refs": [
+        {
+          "jobId": "4440999180",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4440999180"
+        },
+        {
+          "jobId": "4440990548",
+          "title": "Director, Supply Chain - Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4440990548"
+        },
+        {
+          "jobId": "4440983832",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4440983832"
+        }
+      ],
+      "why": "Former Alvarez & Marsal Senior Director; current CEO.",
+      "note_template": "Hi Rashid, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Alvarez & Marsal's logistics work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-037",
+      "badge": "Hiring leader",
+      "name": "Gary Singh",
+      "company": "Amazon",
+      "title": "Senior Manager at Walmart | E-Commerce Expert",
+      "linkedin_url": "https://www.linkedin.com/in/gary-singh1/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Former Amazon Program Manager; current Walmart e-commerce strategy/operations.",
+      "note_template": "Hi Gary, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-034",
+      "badge": "Hiring leader",
+      "name": "Murzuka Afrida",
+      "company": "Amazon",
+      "title": "Sr. Manager, operational excellence leader",
+      "linkedin_url": "https://www.linkedin.com/in/murzuka-afrida/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Amazon history across area, program, senior program manager and site lead roles.",
+      "note_template": "Hi Murzuka, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-061",
+      "badge": "Hiring leader",
+      "name": "Piyush Pallav Das",
+      "company": "Oracle",
+      "title": "Director of Product Management @ Walmart | Identity & Fraud | Last Mile Delivery",
+      "linkedin_url": "https://www.linkedin.com/in/piyush-pallav-das-81111717/",
+      "job_refs": [
+        {
+          "jobId": "4469332749",
+          "title": "Senior Director, Data Center Operations",
+          "mid_pct": 63,
+          "link": "https://www.linkedin.com/jobs/view/4469332749"
+        }
+      ],
+      "why": "Product leader with Oracle/Oracle WMS skills and last-mile/fraud scope.",
+      "note_template": "Hi Piyush, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Oracle's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-038",
+      "badge": "Hiring leader",
+      "name": "Sri Thirumalai",
+      "company": "Oracle",
+      "title": "Director, Last Mile Delivery @ Walmart",
+      "linkedin_url": "https://www.linkedin.com/in/sridharthirumalai/",
+      "job_refs": [
+        {
+          "jobId": "4469332749",
+          "title": "Senior Director, Data Center Operations",
+          "mid_pct": 63,
+          "link": "https://www.linkedin.com/jobs/view/4469332749"
+        }
+      ],
+      "why": "Profile cites Oracle E-Business Suite value-chain integration work.",
+      "note_template": "Hi Sri, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Oracle's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-055",
+      "badge": "Hiring leader",
+      "name": "Jenifer (Haynes) Innis",
+      "company": "Workday",
+      "title": "Senior Manager, Program Management - Core HR",
+      "linkedin_url": "https://www.linkedin.com/in/jenifer-haynes-innis-289a9559/",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Core HR program management profile surfaced in Workday search.",
+      "note_template": "Hi Jenifer, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-057",
+      "badge": "Hiring leader",
+      "name": "Sydney DeVor",
+      "company": "Workday",
+      "title": "Senior Manager, Total Rewards Core People",
+      "linkedin_url": "https://www.linkedin.com/in/sydneydevor/",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Total rewards/core people leadership profile.",
+      "note_template": "Hi Sydney, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-045",
+      "badge": "Hiring leader",
+      "name": "Juston Michealson",
+      "company": "Salesforce",
+      "title": "Enterprise Sales Engineering Director",
+      "linkedin_url": "https://www.linkedin.com/in/justonmichealson/",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Enterprise data/solutions leader with retail focus; Salesforce search result.",
+      "note_template": "Hi Juston, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-047",
+      "badge": "Hiring leader",
+      "name": "Mark Hawkins",
+      "company": "Salesforce",
+      "title": "Chairman & Lead Director | Former President & CFO Emeritus, Salesforce",
+      "linkedin_url": "https://www.linkedin.com/in/markjhawkins/",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Senior Salesforce leadership/board operator.",
+      "note_template": "Hi Mark, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-029",
+      "badge": "Peer",
+      "name": "Nick Scutari-Dunn",
+      "company": "TikTok",
+      "title": "Food and Beverages @ TikTok Shop | Walmart Alum",
+      "linkedin_url": "https://www.linkedin.com/in/nick-s-59682416a/",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "1st-degree; current-company TikTok Shop facet; visible AI summary identifies Business Development Lead, Food and Bev.",
+      "note_template": "Hi Nick, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-068",
+      "badge": "Peer",
+      "name": "Jennifer R. Jackson",
+      "company": "Capital One",
+      "title": "Senior Executive and Business Leader | P&L Ownership, Digital Transformation, Operations",
+      "linkedin_url": "https://www.linkedin.com/in/jennifer-r-jackson-15546810/",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Profile explicitly lists Capital One, Walmart and McKinsey; senior operations/transformation leader.",
+      "note_template": "Hi Jennifer, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-067",
+      "badge": "Peer",
+      "name": "Pravallika Balachander",
+      "company": "Capital One",
+      "title": "Strategy & Operations at Walmart | Credit Strategy at Capital One",
+      "linkedin_url": "https://www.linkedin.com/in/pravallika-balachander/",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Former Capital One credit strategy; current Walmart strategy and operations.",
+      "note_template": "Hi Pravallika, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-065",
+      "badge": "Peer",
+      "name": "Melissa Koch",
+      "company": "DoorDash",
+      "title": "Senior Operational Growth Executive | Strategic Planning | P&L Ownership",
+      "linkedin_url": "https://www.linkedin.com/in/melissaisabelkoch/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Former DoorDash Regional General Manager covering FL and TX territories.",
+      "note_template": "Hi Melissa, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-064",
+      "badge": "Peer",
+      "name": "Naveed Zafar",
+      "company": "DoorDash",
+      "title": "Last Mile Delivery Growth Strategy @ Walmart",
+      "linkedin_url": "https://www.linkedin.com/in/zafarnaveed/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Former DoorDash Director, Platform Product Ops - Drive; current Walmart last-mile strategy.",
+      "note_template": "Hi Naveed, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-066",
+      "badge": "Peer",
+      "name": "William Cloud Sr, MBA",
+      "company": "DoorDash",
+      "title": "Senior Operations Executive | Multi-Unit Retail Hospitality",
+      "linkedin_url": "https://www.linkedin.com/in/willcloudsr/",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Walmart ecommerce operations leader with Spark Delivery and DoorDash partnership experience.",
+      "note_template": "Hi William, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-040",
+      "badge": "Peer",
+      "name": "Blair Ethington",
+      "company": "Meta",
+      "title": "Product Management Executive",
+      "linkedin_url": "https://www.linkedin.com/in/blairethington/",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Former Meta Sr Director, Product Management for Commerce/Shops Ads; now VP Buyer Experience at eBay.",
+      "note_template": "Hi Blair, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-039",
+      "badge": "Peer",
+      "name": "Ramon Portilla",
+      "company": "Meta",
+      "title": "Top Retail Expert | Founder HumanX Insights | CX Passionate | AI/Tech-led",
+      "linkedin_url": "https://www.linkedin.com/in/ramon-portilla-627b064/",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Former Meta Director, UX Research for Instagram commerce/business.",
+      "note_template": "Hi Ramon, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-041",
+      "badge": "Peer",
+      "name": "Rick Ton",
+      "company": "Meta",
+      "title": "Growth, GTM & Demand Generation Leader",
+      "linkedin_url": "https://www.linkedin.com/in/rickton/",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Former Meta senior director leading growth marketing teams for advertisers, developers and AI.",
+      "note_template": "Hi Rick, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-042",
+      "badge": "Peer",
+      "name": "Sébastien Dubuisson",
+      "company": "Meta",
+      "title": "Unlocking Cross-Border Revenue for Brands | Product × Partnerships | ex-Meta",
+      "linkedin_url": "https://www.linkedin.com/in/sebastiendubuisson/",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Former Meta senior strategic platform product partnerships lead and head of new platform ecosystem partnerships.",
+      "note_template": "Hi Sébastien, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-028",
+      "badge": "Peer",
+      "name": "Brad Jakeman",
+      "company": "Google",
+      "title": "Senior Advisor at Hevolution Foundation",
+      "linkedin_url": "https://www.linkedin.com/in/bradjakeman/",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "1st-degree; current-company Google facet; visible AI summary says Advisor/Marketer In Residence at Google since November 2025.",
+      "note_template": "Hi Brad, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-027",
+      "badge": "Peer",
+      "name": "Daniel Roman",
+      "company": "Google",
+      "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
+      "linkedin_url": "https://www.linkedin.com/in/danielwalterroman/",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "1st-degree; current-company Google facet.",
+      "note_template": "Hi Daniel, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-026",
+      "badge": "Peer",
+      "name": "Thomas de Noronha e Silva Tomei",
+      "company": "Google",
+      "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
+      "linkedin_url": "https://www.linkedin.com/in/royalsflush/",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "1st-degree; current-company Google facet.",
+      "note_template": "Hi Thomas, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-036",
+      "badge": "Peer",
+      "name": "Akinori Takeyasu",
+      "company": "Amazon",
+      "title": "Global Operations, Supply Chain & Sourcing Executive",
+      "linkedin_url": "https://www.linkedin.com/in/takeyasu/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Head of Ops and Product, Amazon Business Japan; supply chain and sourcing.",
+      "note_template": "Hi Akinori, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-032",
+      "badge": "Peer",
+      "name": "Alanda Waller, MBA, SHRM-CP",
+      "company": "Amazon",
+      "title": "Senior PXT Leader | Data-Driven People Strategy | Leadership Development | Scalable Operational Impact",
+      "linkedin_url": "https://www.linkedin.com/in/alandawaller/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Amazon HR/operations leadership in fulfillment environments and scalable labor models.",
+      "note_template": "Hi Alanda, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-033",
+      "badge": "Peer",
+      "name": "Corey Martin, MBA",
+      "company": "Amazon",
+      "title": "Area Manager II @ Amazon",
+      "linkedin_url": "https://www.linkedin.com/in/clbmartin87/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Current Amazon area manager; team management and process optimization.",
+      "note_template": "Hi Corey, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-035",
+      "badge": "Peer",
+      "name": "Garrard Taylor, MBA",
+      "company": "Amazon",
+      "title": "Strategic & Innovative Leader / Ex-Amazon, Disney, Boeing, Target",
+      "linkedin_url": "https://www.linkedin.com/in/garrard-taylor-mba-27b97a115/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Amazon senior program, product and business development experience.",
+      "note_template": "Hi Garrard, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-031",
+      "badge": "Peer",
+      "name": "Lujain Rawwagah",
+      "company": "Amazon",
+      "title": "Senior Program Manager, Last Mile Delivery at Amazon",
+      "linkedin_url": "https://www.linkedin.com/in/lujainrawwagah/",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Current Amazon last-mile program manager.",
+      "note_template": "Hi Lujain, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-060",
+      "badge": "Peer",
+      "name": "Courtney Lincoln",
+      "company": "Oracle",
+      "title": "Sales Commissions Analyst at Q2",
+      "linkedin_url": "https://www.linkedin.com/in/courtney-lincoln-52457246/",
+      "job_refs": [
+        {
+          "jobId": "4469332749",
+          "title": "Senior Director, Data Center Operations",
+          "mid_pct": 63,
+          "link": "https://www.linkedin.com/jobs/view/4469332749"
+        }
+      ],
+      "why": "Former Oracle sales compensation analyst; compensation audits and policy investigations.",
+      "note_template": "Hi Courtney, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Oracle's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-062",
+      "badge": "Peer",
+      "name": "Sriram Samu",
+      "company": "Oracle",
+      "title": "Retail and e-commerce Technology | Technology Strategy | AI, Data, Cloud",
+      "linkedin_url": "https://www.linkedin.com/in/sriramsamu/",
+      "job_refs": [
+        {
+          "jobId": "4469332749",
+          "title": "Senior Director, Data Center Operations",
+          "mid_pct": 63,
+          "link": "https://www.linkedin.com/jobs/view/4469332749"
+        }
+      ],
+      "why": "Former Oracle Sr. Development Manager; current retail technology strategy advisor.",
+      "note_template": "Hi Sriram, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Oracle's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-051",
+      "badge": "Peer",
+      "name": "Hannah Sumrall (Reynolds)",
+      "company": "Instacart",
+      "title": "Retail Partnerships at Instacart",
+      "linkedin_url": "https://www.linkedin.com/in/hannahreynoldstufts/",
+      "job_refs": [
+        {
+          "jobId": "4468283028",
+          "title": "Director of Product, Logistics",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4468283028"
+        },
+        {
+          "jobId": "4469970215",
+          "title": "Director, Product Partnerships",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4469970215"
+        }
+      ],
+      "why": "Current Instacart retail partnerships.",
+      "note_template": "Hi Hannah, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Instacart's logistics work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-049",
+      "badge": "Peer",
+      "name": "Dan Olsen",
+      "company": "Intuit",
+      "title": "Product Management & AI Trainer, Consultant & Speaker",
+      "linkedin_url": "https://www.linkedin.com/in/danolsen98/",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Former Intuit Group Product Manager for Quicken product strategy and UI redesign.",
+      "note_template": "Hi Dan, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-048",
+      "badge": "Peer",
+      "name": "Devin Skolnick",
+      "company": "Intuit",
+      "title": "AI PM @ LinkedIn",
+      "linkedin_url": "https://www.linkedin.com/in/devskolnick/",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Former Intuit Product Manager leading QuickBooks UK payments strategy and bank API integrations.",
+      "note_template": "Hi Devin, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-050",
+      "badge": "Peer",
+      "name": "Virginia Whitlock",
+      "company": "Intuit",
+      "title": "Adjunct Professor in Economics with expertise in Business and Operations Management",
+      "linkedin_url": "https://www.linkedin.com/in/dr-virginia-l-whitlock-80b20a24/en/",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Search profile describes Intuit Group Customer Success leadership and call-center strategy.",
+      "note_template": "Hi Virginia, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-058",
+      "badge": "Peer",
+      "name": "Katherine Villacis",
+      "company": "Workday",
+      "title": "People Partner- Global Tech Walmart",
+      "linkedin_url": "https://www.linkedin.com/in/katherine-villacis-312163b8/",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Global-tech people partner profile surfaced in Workday search.",
+      "note_template": "Hi Katherine, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-056",
+      "badge": "Peer",
+      "name": "Michael McClain",
+      "company": "Workday",
+      "title": "Divisional People Partner - Supply Chain",
+      "linkedin_url": "https://www.linkedin.com/in/michael-mcclain-17ba4150/",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Supply-chain people partner profile surfaced in Workday search.",
+      "note_template": "Hi Michael, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-059",
+      "badge": "Peer",
+      "name": "Namrata Collins",
+      "company": "Workday",
+      "title": "Biztech leader transforming business through technology-based disruption",
+      "linkedin_url": "https://www.linkedin.com/in/namrata-collins-66a3574/",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Business technology and operational-efficiency leadership profile.",
+      "note_template": "Hi Namrata, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-053",
+      "badge": "Peer",
+      "name": "Andrew Cause",
+      "company": "JPMorgan",
+      "title": "BI Developer @ JPMorganChase | People Analytics for C-Suite Recruiting Decisions",
+      "linkedin_url": "https://www.linkedin.com/in/abcause25/",
+      "job_refs": [
+        {
+          "jobId": "4436709104",
+          "title": "AI Transformation & Strategic Execution - Executive Director",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4436709104"
+        },
+        {
+          "jobId": "4459677668",
+          "title": "Data Owner Lead, Vice President - Connected Commerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4459677668"
+        },
+        {
+          "jobId": "4468500272",
+          "title": "Vice President - Lounge Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4468500272"
+        }
+      ],
+      "why": "Current JPMorganChase BI and people analytics profile.",
+      "note_template": "Hi Andrew, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by JPMorgan's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-052",
+      "badge": "Peer",
+      "name": "Lee Carney, PHR",
+      "company": "JPMorgan",
+      "title": "Americas Employee Relations Partner at JPMorganChase",
+      "linkedin_url": "https://www.linkedin.com/in/leecarney/",
+      "job_refs": [
+        {
+          "jobId": "4436709104",
+          "title": "AI Transformation & Strategic Execution - Executive Director",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4436709104"
+        },
+        {
+          "jobId": "4459677668",
+          "title": "Data Owner Lead, Vice President - Connected Commerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4459677668"
+        },
+        {
+          "jobId": "4468500272",
+          "title": "Vice President - Lounge Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4468500272"
+        }
+      ],
+      "why": "Current JPMorganChase employee relations partner.",
+      "note_template": "Hi Lee, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by JPMorgan's ai work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-043",
+      "badge": "Peer",
+      "name": "Rahul Meena",
+      "company": "Salesforce",
+      "title": "Ops & CRM Specialist | Salesforce · SQL · Python",
+      "linkedin_url": "https://www.linkedin.com/in/rahul-meena-b03693183/",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Operations and CRM workflow profile tied to Salesforce.",
+      "note_template": "Hi Rahul, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "li-046",
+      "badge": "Peer",
+      "name": "Ramya Badakanda Subbaiah",
+      "company": "Salesforce",
+      "title": "Data Analytics | Last Mile Delivery Operation",
+      "linkedin_url": "https://www.linkedin.com/in/ramyasubbaiah/",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Last-mile operations analytics profile surfaced in Salesforce search.",
+      "note_template": "Hi Ramya, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": true,
+      "source": "overlay"
+    },
+    {
+      "id": "seat-0023",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Cloudflare",
+      "title": "Recruiter · Cloudflare",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Cloudflare%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4468575915",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 72,
+          "link": "https://www.linkedin.com/jobs/view/4468575915"
+        },
+        {
+          "jobId": "4468578841",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4468578841"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Cloudflare Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Cloudflare's trust work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-tiktok-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "TikTok",
+      "title": "Recruiter · TikTok",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=TikTok%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks TikTok Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-capital-one-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Capital One",
+      "title": "Recruiter · Capital One",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Capital%20One%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Capital One Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-doordash-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "DoorDash",
+      "title": "Recruiter · DoorDash",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DoorDash%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks DoorDash Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-jobgether-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Jobgether",
+      "title": "Recruiter · Jobgether",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Jobgether+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4468572375",
+          "title": "Senior Director Business Development (Technology Partnerships & Marketplace)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4468572375"
+        },
+        {
+          "jobId": "4467852038",
+          "title": "Strategy & Operations - Director of HB/PB HIM/Coding",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467852038"
+        },
+        {
+          "jobId": "4468488938",
+          "title": "Global Head of Analytical Editorial Operations",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4468488938"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Jobgether Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Jobgether's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-meta-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Meta",
+      "title": "Recruiter · Meta",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Meta%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Meta Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-google-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Google",
+      "title": "Recruiter · Google",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Google%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Google Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-openai-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "OpenAI",
+      "title": "Recruiter · OpenAI",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=OpenAI%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks OpenAI Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-alvarez-&-marsal-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Alvarez & Marsal",
+      "title": "Recruiter · Alvarez & Marsal",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Alvarez%20%26%20Marsal%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4440999180",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4440999180"
+        },
+        {
+          "jobId": "4440990548",
+          "title": "Director, Supply Chain - Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4440990548"
+        },
+        {
+          "jobId": "4440983832",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4440983832"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Alvarez & Marsal Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Alvarez & Marsal's logistics work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-amazon-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Amazon",
+      "title": "Recruiter · Amazon",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Amazon%20Web%20Services%20%28AWS%29%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Amazon Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0003",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Grant Thornton (US)",
+      "title": "Recruiter · Grant Thornton (US)",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Grant%20Thornton%20%28US%29%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4465216285",
+          "title": "Senior Director, Delivery Center Strategy & Integration",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4465216285"
+        },
+        {
+          "jobId": "4459229877",
+          "title": "Sr. Director, Head of Delivery Center Operations and Performance Management",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4459229877"
+        },
+        {
+          "jobId": "4459248490",
+          "title": "Sr. Director, Head of Delivery Center Operations and Performance Management",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4459248490"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Grant Thornton (US) Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Grant Thornton (US)'s strategy work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0027",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "ezCater",
+      "title": "Recruiter · ezCater",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=ezCater%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4465793301",
+          "title": "Director, Fulfillment Network Optimization (Remote)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4465793301"
+        },
+        {
+          "jobId": "4453376840",
+          "title": "Director of Product, Delivery and Fulfillment Intelligence (Remote)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4453376840"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks ezCater Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by ezCater's Director, Fulfillment Network Optimization. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0031",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "BNY",
+      "title": "Recruiter · BNY",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=BNY%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4422664014",
+          "title": "Senior Vice President, Commercial Strategy & Operations",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4422664014"
+        },
+        {
+          "jobId": "4463100511",
+          "title": "Senior Vice President, Global Operations Strategic Execution & Business Management",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4463100511"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks BNY Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by BNY's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0015",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Veho",
+      "title": "Recruiter · Veho",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Veho%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4444120958",
+          "title": "VP Product, Last Mile",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4444120958"
+        },
+        {
+          "jobId": "4470258027",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4470258027"
+        },
+        {
+          "jobId": "4470247578",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4470247578"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Veho Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Veho's VP Product, Last Mile. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-swooped-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Swooped",
+      "title": "Recruiter · Swooped",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Swooped+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4470631866",
+          "title": "VP of Operations",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4470631866"
+        },
+        {
+          "jobId": "4470630992",
+          "title": "Director of Customer Experience Operations",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4470630992"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Swooped Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Swooped's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-instacart-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Instacart",
+      "title": "Recruiter · Instacart",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Instacart+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4468283028",
+          "title": "Director of Product, Logistics",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4468283028"
+        },
+        {
+          "jobId": "4469970215",
+          "title": "Director, Product Partnerships",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4469970215"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Instacart Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Instacart's logistics work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-intuit-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Intuit",
+      "title": "Recruiter · Intuit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Intuit%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Intuit Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-r2-global-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "R2 Global",
+      "title": "Recruiter · R2 Global",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=R2+Global+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4463502746",
+          "title": "Vice President of eCommerce Marketplaces",
+          "mid_pct": 59,
+          "link": "https://www.linkedin.com/jobs/view/4463502746"
+        },
+        {
+          "jobId": "4466893409",
+          "title": "VP of Ecommerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4466893409"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks R2 Global Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by R2 Global's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0035",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Acosta",
+      "title": "Recruiter · Acosta",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Acosta+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4458917551",
+          "title": "Senior Director National Retail",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4458917551"
+        },
+        {
+          "jobId": "4443202251",
+          "title": "Director, Commerce Media",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4443202251"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Acosta Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Acosta's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0039",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Freshworks",
+      "title": "Recruiter · Freshworks",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Freshworks+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4448343110",
+          "title": "Global Head of Partner Strategy & Operations",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4448343110"
+        },
+        {
+          "jobId": "4466014370",
+          "title": "Senior Director, People Analytics and Workforce Planning",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4466014370"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Freshworks Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Freshworks's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-fynde-global-recruitment-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Fynde Global Recruitment",
+      "title": "Recruiter · Fynde Global Recruitment",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Fynde%20Global%20Recruitment%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4467543714",
+          "title": "Head of Marketplaces",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4467543714"
+        },
+        {
+          "jobId": "4467544797",
+          "title": "Head of Marketplaces",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4467544797"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Fynde Global Recruitment Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Fynde Global Recruitment's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0043",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Ironclad",
+      "title": "Recruiter · Ironclad",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Ironclad+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4461247738",
+          "title": "Senior Director, Global Sales Strategy and Operations",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4461247738"
+        },
+        {
+          "jobId": "4461251783",
+          "title": "Senior Director, Global Sales Strategy and Operations",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4461251783"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Ironclad Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Ironclad's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0007",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Reddit",
+      "title": "Recruiter · Reddit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Reddit%2C%20Inc.%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4466335063",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4466335063"
+        },
+        {
+          "jobId": "4466321262",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466321262"
+        },
+        {
+          "jobId": "4466320292",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466320292"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Reddit Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Reddit's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0047",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Smartly",
+      "title": "Recruiter · Smartly",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Smartly+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4457012573",
+          "title": "Senior Director, Organizational Transformation & Workforce Design",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4457012573"
+        },
+        {
+          "jobId": "4464643011",
+          "title": "Senior Director, Organizational Transformation & Workforce Design",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4464643011"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Smartly Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Smartly's workforce work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0051",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Aramark",
+      "title": "Recruiter · Aramark",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Aramark+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4454700075",
+          "title": "Senior Director Government Affairs",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4454700075"
+        },
+        {
+          "jobId": "4454974050",
+          "title": "Logistics Director I",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4454974050"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Aramark Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Aramark's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0055",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Courtyard",
+      "title": "Recruiter · Courtyard",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Courtyard+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4466615834",
+          "title": "Director of Operations Strategy",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466615834"
+        },
+        {
+          "jobId": "4449972476",
+          "title": "Director of Payments & Fraud Operations",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4449972476"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Courtyard Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Courtyard's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-ladders-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Ladders",
+      "title": "Recruiter · Ladders",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Ladders+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4467387053",
+          "title": "Digital Operations Program Director",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4467387053"
+        },
+        {
+          "jobId": "4467367981",
+          "title": "Senior Vice President, Business Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4467367981"
+        },
+        {
+          "jobId": "4467377738",
+          "title": "VP, Product, Retail",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4467377738"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Ladders Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Ladders's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-workday-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Workday",
+      "title": "Recruiter · Workday",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Workday+Recruiter+Operations+OR+Marketplace+OR+Logistics",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Workday Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0059",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Zazu Digital Talent",
+      "title": "Recruiter · Zazu Digital Talent",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Zazu+Digital+Talent+Recruiter+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4466230676",
+          "title": "Director of Social Commerce",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466230676"
+        },
+        {
+          "jobId": "4461876151",
+          "title": "VP Amazon",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4461876151"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Zazu Digital Talent Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Zazu Digital Talent's Director of Social Commerce. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-jpmorgan-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "JPMorgan",
+      "title": "Recruiter · JPMorgan",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=JPMorganChase%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4436709104",
+          "title": "AI Transformation & Strategic Execution - Executive Director",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4436709104"
+        },
+        {
+          "jobId": "4459677668",
+          "title": "Data Owner Lead, Vice President - Connected Commerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4459677668"
+        },
+        {
+          "jobId": "4468500272",
+          "title": "Vice President - Lounge Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4468500272"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks JPMorgan Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by JPMorgan's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-salesforce-recruiter",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "Salesforce",
+      "title": "Recruiter · Salesforce",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Salesforce%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks Salesforce Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0019",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "West Monroe",
+      "title": "Recruiter · West Monroe",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=West%20Monroe%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4426564569",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4426564569"
+        },
+        {
+          "jobId": "4426553699",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4426553699"
+        },
+        {
+          "jobId": "4410903290",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4410903290"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks West Monroe Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by West Monroe's workforce work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0011",
+      "badge": "Recruiter",
+      "name": "Find this seat",
+      "company": "UPS",
+      "title": "Recruiter · UPS",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=UPS%20Technical%20Recruiter%20OR%20Talent%20Acquisition%20Operations%20OR%20Marketplace%20OR%20Logistics",
+      "job_refs": [
+        {
+          "jobId": "4452148219",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452148219"
+        },
+        {
+          "jobId": "4452139360",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452139360"
+        },
+        {
+          "jobId": "4467586828",
+          "title": "Vice President, RoadieXD - Operations & Engineering (Flex)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4467586828"
+        }
+      ],
+      "why": "Ops/marketplace recruiter seat — unlocks UPS Apply% ≥50 roles.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by UPS's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "recruiter"
+    },
+    {
+      "id": "seat-0021",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Cloudflare",
+      "title": "Hiring Manager · Cloudflare",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Cloudflare%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4468575915",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 72,
+          "link": "https://www.linkedin.com/jobs/view/4468575915"
+        },
+        {
+          "jobId": "4468578841",
+          "title": "VP, Global Head of Trust & Safety",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4468578841"
+        }
+      ],
+      "why": "Hiring leader seat for Cloudflare roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Cloudflare's trust work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-tiktok-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "TikTok",
+      "title": "Hiring Manager · TikTok",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=TikTok%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "Hiring leader seat for TikTok roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-capital-one-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Capital One",
+      "title": "Hiring Manager · Capital One",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Capital%20One%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Hiring leader seat for Capital One roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-doordash-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "DoorDash",
+      "title": "Hiring Manager · DoorDash",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DoorDash%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Hiring leader seat for DoorDash roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-jobgether-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Jobgether",
+      "title": "Hiring Manager · Jobgether",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Jobgether+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4468572375",
+          "title": "Senior Director Business Development (Technology Partnerships & Marketplace)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4468572375"
+        },
+        {
+          "jobId": "4467852038",
+          "title": "Strategy & Operations - Director of HB/PB HIM/Coding",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467852038"
+        },
+        {
+          "jobId": "4468488938",
+          "title": "Global Head of Analytical Editorial Operations",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4468488938"
+        }
+      ],
+      "why": "Hiring leader seat for Jobgether roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Jobgether's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-meta-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Meta",
+      "title": "Hiring Manager · Meta",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Meta%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Hiring leader seat for Meta roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-google-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Google",
+      "title": "Hiring Manager · Google",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Google%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "Hiring leader seat for Google roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-openai-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "OpenAI",
+      "title": "Hiring Manager · OpenAI",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=OpenAI%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Hiring leader seat for OpenAI roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-alvarez-&-marsal-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Alvarez & Marsal",
+      "title": "Hiring Manager · Alvarez & Marsal",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Alvarez%20%26%20Marsal%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4440999180",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4440999180"
+        },
+        {
+          "jobId": "4440990548",
+          "title": "Director, Supply Chain - Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4440990548"
+        },
+        {
+          "jobId": "4440983832",
+          "title": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4440983832"
+        }
+      ],
+      "why": "Hiring leader seat for Alvarez & Marsal roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Alvarez & Marsal's logistics work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-amazon-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Amazon",
+      "title": "Hiring Manager · Amazon",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Amazon%20Web%20Services%20%28AWS%29%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Hiring leader seat for Amazon roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0001",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Grant Thornton (US)",
+      "title": "Hiring Manager · Grant Thornton (US)",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Grant%20Thornton%20%28US%29%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4465216285",
+          "title": "Senior Director, Delivery Center Strategy & Integration",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4465216285"
+        },
+        {
+          "jobId": "4459229877",
+          "title": "Sr. Director, Head of Delivery Center Operations and Performance Management",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4459229877"
+        },
+        {
+          "jobId": "4459248490",
+          "title": "Sr. Director, Head of Delivery Center Operations and Performance Management",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4459248490"
+        }
+      ],
+      "why": "Hiring leader seat for Grant Thornton (US) roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Grant Thornton (US)'s strategy work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0025",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "ezCater",
+      "title": "Hiring Manager · ezCater",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=ezCater%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4465793301",
+          "title": "Director, Fulfillment Network Optimization (Remote)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4465793301"
+        },
+        {
+          "jobId": "4453376840",
+          "title": "Director of Product, Delivery and Fulfillment Intelligence (Remote)",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4453376840"
+        }
+      ],
+      "why": "Hiring leader seat for ezCater roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by ezCater's Director, Fulfillment Network Optimization. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0029",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "BNY",
+      "title": "Hiring Manager · BNY",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=BNY%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4422664014",
+          "title": "Senior Vice President, Commercial Strategy & Operations",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4422664014"
+        },
+        {
+          "jobId": "4463100511",
+          "title": "Senior Vice President, Global Operations Strategic Execution & Business Management",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4463100511"
+        }
+      ],
+      "why": "Hiring leader seat for BNY roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by BNY's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0013",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Veho",
+      "title": "Hiring Manager · Veho",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Veho%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4444120958",
+          "title": "VP Product, Last Mile",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4444120958"
+        },
+        {
+          "jobId": "4470258027",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4470258027"
+        },
+        {
+          "jobId": "4470247578",
+          "title": "Senior Director, Driver and Marketplace Product",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4470247578"
+        }
+      ],
+      "why": "Hiring leader seat for Veho roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Veho's VP Product, Last Mile. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-swooped-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Swooped",
+      "title": "Hiring Manager · Swooped",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Swooped+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4470631866",
+          "title": "VP of Operations",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4470631866"
+        },
+        {
+          "jobId": "4470630992",
+          "title": "Director of Customer Experience Operations",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4470630992"
+        }
+      ],
+      "why": "Hiring leader seat for Swooped roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Swooped's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-instacart-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Instacart",
+      "title": "Hiring Manager · Instacart",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Instacart+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4468283028",
+          "title": "Director of Product, Logistics",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4468283028"
+        },
+        {
+          "jobId": "4469970215",
+          "title": "Director, Product Partnerships",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4469970215"
+        }
+      ],
+      "why": "Hiring leader seat for Instacart roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Instacart's logistics work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-intuit-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Intuit",
+      "title": "Hiring Manager · Intuit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Intuit%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Hiring leader seat for Intuit roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-r2-global-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "R2 Global",
+      "title": "Hiring Manager · R2 Global",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=R2+Global+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4463502746",
+          "title": "Vice President of eCommerce Marketplaces",
+          "mid_pct": 59,
+          "link": "https://www.linkedin.com/jobs/view/4463502746"
+        },
+        {
+          "jobId": "4466893409",
+          "title": "VP of Ecommerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4466893409"
+        }
+      ],
+      "why": "Hiring leader seat for R2 Global roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by R2 Global's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0033",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Acosta",
+      "title": "Hiring Manager · Acosta",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Acosta+Sr+Dir+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4458917551",
+          "title": "Senior Director National Retail",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4458917551"
+        },
+        {
+          "jobId": "4443202251",
+          "title": "Director, Commerce Media",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4443202251"
+        }
+      ],
+      "why": "Hiring leader seat for Acosta roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Acosta's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0037",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Freshworks",
+      "title": "Hiring Manager · Freshworks",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Freshworks+Head+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4448343110",
+          "title": "Global Head of Partner Strategy & Operations",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4448343110"
+        },
+        {
+          "jobId": "4466014370",
+          "title": "Senior Director, People Analytics and Workforce Planning",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4466014370"
+        }
+      ],
+      "why": "Hiring leader seat for Freshworks roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Freshworks's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-fynde-global-recruitment-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Fynde Global Recruitment",
+      "title": "Hiring Manager · Fynde Global Recruitment",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Fynde%20Global%20Recruitment%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4467543714",
+          "title": "Head of Marketplaces",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4467543714"
+        },
+        {
+          "jobId": "4467544797",
+          "title": "Head of Marketplaces",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4467544797"
+        }
+      ],
+      "why": "Hiring leader seat for Fynde Global Recruitment roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Fynde Global Recruitment's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0041",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Ironclad",
+      "title": "Hiring Manager · Ironclad",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Ironclad+Sr+Dir+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4461247738",
+          "title": "Senior Director, Global Sales Strategy and Operations",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4461247738"
+        },
+        {
+          "jobId": "4461251783",
+          "title": "Senior Director, Global Sales Strategy and Operations",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4461251783"
+        }
+      ],
+      "why": "Hiring leader seat for Ironclad roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Ironclad's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0005",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Reddit",
+      "title": "Hiring Manager · Reddit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Reddit%2C%20Inc.%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4466335063",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4466335063"
+        },
+        {
+          "jobId": "4466321262",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466321262"
+        },
+        {
+          "jobId": "4466320292",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466320292"
+        }
+      ],
+      "why": "Hiring leader seat for Reddit roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Reddit's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0045",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Smartly",
+      "title": "Hiring Manager · Smartly",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Smartly+Sr+Dir+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4457012573",
+          "title": "Senior Director, Organizational Transformation & Workforce Design",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4457012573"
+        },
+        {
+          "jobId": "4464643011",
+          "title": "Senior Director, Organizational Transformation & Workforce Design",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4464643011"
+        }
+      ],
+      "why": "Hiring leader seat for Smartly roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Smartly's workforce work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0049",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Aramark",
+      "title": "Hiring Manager · Aramark",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Aramark+Sr+Dir+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4454700075",
+          "title": "Senior Director Government Affairs",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4454700075"
+        },
+        {
+          "jobId": "4454974050",
+          "title": "Logistics Director I",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4454974050"
+        }
+      ],
+      "why": "Hiring leader seat for Aramark roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Aramark's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0053",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Courtyard",
+      "title": "Hiring Manager · Courtyard",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Courtyard+Director+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4466615834",
+          "title": "Director of Operations Strategy",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466615834"
+        },
+        {
+          "jobId": "4449972476",
+          "title": "Director of Payments & Fraud Operations",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4449972476"
+        }
+      ],
+      "why": "Hiring leader seat for Courtyard roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Courtyard's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-ladders-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Ladders",
+      "title": "Hiring Manager · Ladders",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Ladders+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4467387053",
+          "title": "Digital Operations Program Director",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4467387053"
+        },
+        {
+          "jobId": "4467367981",
+          "title": "Senior Vice President, Business Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4467367981"
+        },
+        {
+          "jobId": "4467377738",
+          "title": "VP, Product, Retail",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4467377738"
+        }
+      ],
+      "why": "Hiring leader seat for Ladders roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Ladders's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-workday-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Workday",
+      "title": "Hiring Manager · Workday",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Workday+%28Director+OR+VP+OR+Head%29+%28Operations+OR+Marketplace+OR+Logistics%29",
+      "job_refs": [
+        {
+          "jobId": "4440187167",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4440187167"
+        },
+        {
+          "jobId": "4440184312",
+          "title": "Director, Strategy and Operations - Data Cloud (Chief of Staff)",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4440184312"
+        }
+      ],
+      "why": "Hiring leader seat for Workday roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Workday's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0057",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Zazu Digital Talent",
+      "title": "Hiring Manager · Zazu Digital Talent",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Zazu+Digital+Talent+Director+Operations+Marketplace&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4466230676",
+          "title": "Director of Social Commerce",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466230676"
+        },
+        {
+          "jobId": "4461876151",
+          "title": "VP Amazon",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4461876151"
+        }
+      ],
+      "why": "Hiring leader seat for Zazu Digital Talent roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Zazu Digital Talent's Director of Social Commerce. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-jpmorgan-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "JPMorgan",
+      "title": "Hiring Manager · JPMorgan",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=JPMorganChase%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4436709104",
+          "title": "AI Transformation & Strategic Execution - Executive Director",
+          "mid_pct": 54,
+          "link": "https://www.linkedin.com/jobs/view/4436709104"
+        },
+        {
+          "jobId": "4459677668",
+          "title": "Data Owner Lead, Vice President - Connected Commerce",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4459677668"
+        },
+        {
+          "jobId": "4468500272",
+          "title": "Vice President - Lounge Operations",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4468500272"
+        }
+      ],
+      "why": "Hiring leader seat for JPMorgan roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by JPMorgan's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-salesforce-hiring_manager",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "Salesforce",
+      "title": "Hiring Manager · Salesforce",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Salesforce%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Hiring leader seat for Salesforce roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0017",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "West Monroe",
+      "title": "Hiring Manager · West Monroe",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=West%20Monroe%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4426564569",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4426564569"
+        },
+        {
+          "jobId": "4426553699",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4426553699"
+        },
+        {
+          "jobId": "4410903290",
+          "title": "Director, Productivity & Workforce Transformation",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4410903290"
+        }
+      ],
+      "why": "Hiring leader seat for West Monroe roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by West Monroe's workforce work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-0009",
+      "badge": "Hiring leader",
+      "name": "Find this seat",
+      "company": "UPS",
+      "title": "Hiring Manager · UPS",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=UPS%20%28Director%20OR%20VP%20OR%20Head%29%20%28Operations%20OR%20Marketplace%20OR%20Logistics%20OR%20AI%20OR%20Workforce%29",
+      "job_refs": [
+        {
+          "jobId": "4452148219",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452148219"
+        },
+        {
+          "jobId": "4452139360",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452139360"
+        },
+        {
+          "jobId": "4467586828",
+          "title": "Vice President, RoadieXD - Operations & Engineering (Flex)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4467586828"
+        }
+      ],
+      "why": "Hiring leader seat for UPS roles at Apply% ≥50 — find who owns the lane.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by UPS's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "hiring_manager"
+    },
+    {
+      "id": "seat-tiktok-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "TikTok",
+      "title": "Peer · TikTok",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=TikTok+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4457972781",
+          "title": "Head of North America Product Strategy & Operations - Global Business Solutions",
+          "mid_pct": 70,
+          "link": "https://www.linkedin.com/jobs/view/4457972781"
+        },
+        {
+          "jobId": "4460047875",
+          "title": "Head of Regional Logistics Procurement - TikTok Shop",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4460047875"
+        },
+        {
+          "jobId": "4462682825",
+          "title": "TikTok Shop - Head of Aftersales Strategy and Operations",
+          "mid_pct": 68,
+          "link": "https://www.linkedin.com/jobs/view/4462682825"
+        }
+      ],
+      "why": "Same-level craft peer at TikTok — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by TikTok's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-capital-one-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Capital One",
+      "title": "Peer · Capital One",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Capital+One+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4462142692",
+          "title": "Senior Director, Business Analysis and Strategy (Marketing & Messaging Delivery)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4462142692"
+        },
+        {
+          "jobId": "4459034058",
+          "title": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid)",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4459034058"
+        },
+        {
+          "jobId": "4461543190",
+          "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4461543190"
+        }
+      ],
+      "why": "Same-level craft peer at Capital One — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Capital One's strategy work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-doordash-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "DoorDash",
+      "title": "Peer · DoorDash",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DoorDash+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4421136996",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4421136996"
+        },
+        {
+          "jobId": "4400477099",
+          "title": "Director Strategy & Operations, Local Markets",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4400477099"
+        },
+        {
+          "jobId": "4421146999",
+          "title": "Director, Customer Experience Strategy & Operations",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4421146999"
+        }
+      ],
+      "why": "Same-level craft peer at DoorDash — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by DoorDash's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-meta-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Meta",
+      "title": "Peer · Meta",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Meta+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4464707344",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 69,
+          "link": "https://www.linkedin.com/jobs/view/4464707344"
+        },
+        {
+          "jobId": "4463003588",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4463003588"
+        },
+        {
+          "jobId": "4463003586",
+          "title": "Strategy & Operations Director, Video",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4463003586"
+        }
+      ],
+      "why": "Same-level craft peer at Meta — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Meta's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-google-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Google",
+      "title": "Peer · Google",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Google+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4469465258",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4469465258"
+        },
+        {
+          "jobId": "4467125193",
+          "title": "Director, Trust and Safety, Trusted Experiences, Google DeepMind",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4467125193"
+        },
+        {
+          "jobId": "4469454445",
+          "title": "Head of Strategy and Operations, Search Partnerships",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469454445"
+        }
+      ],
+      "why": "Same-level craft peer at Google — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Google's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-openai-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "OpenAI",
+      "title": "Peer · OpenAI",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=OpenAI+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4456262341",
+          "title": "Head of Marketplace",
+          "mid_pct": 66,
+          "link": "https://www.linkedin.com/jobs/view/4456262341"
+        },
+        {
+          "jobId": "4456253373",
+          "title": "Head of Marketplace",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4456253373"
+        },
+        {
+          "jobId": "4469490201",
+          "title": "Head of Sourcing Enablement & Delivery",
+          "mid_pct": 62,
+          "link": "https://www.linkedin.com/jobs/view/4469490201"
+        }
+      ],
+      "why": "Same-level craft peer at OpenAI — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by OpenAI's marketplace work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-amazon-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Amazon",
+      "title": "Peer · Amazon",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Amazon+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4455924209",
+          "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4455924209"
+        },
+        {
+          "jobId": "4459621328",
+          "title": "Head of APJC Tech Strategy and Operations, Global Sales Operations",
+          "mid_pct": 65,
+          "link": "https://www.linkedin.com/jobs/view/4459621328"
+        },
+        {
+          "jobId": "4468852158",
+          "title": "Head of Partner Sales, AWS Industries, Retail and Consumer Goods, AWS Industries Partner Sales",
+          "mid_pct": 64,
+          "link": "https://www.linkedin.com/jobs/view/4468852158"
+        }
+      ],
+      "why": "Same-level craft peer at Amazon — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Amazon's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-instacart-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Instacart",
+      "title": "Peer · Instacart",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Instacart+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4468283028",
+          "title": "Director of Product, Logistics",
+          "mid_pct": 61,
+          "link": "https://www.linkedin.com/jobs/view/4468283028"
+        },
+        {
+          "jobId": "4469970215",
+          "title": "Director, Product Partnerships",
+          "mid_pct": 51,
+          "link": "https://www.linkedin.com/jobs/view/4469970215"
+        }
+      ],
+      "why": "Same-level craft peer at Instacart — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Instacart's logistics work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-intuit-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Intuit",
+      "title": "Peer · Intuit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Intuit+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4440971033",
+          "title": "Director Head of Global Public Affairs",
+          "mid_pct": 60,
+          "link": "https://www.linkedin.com/jobs/view/4440971033"
+        },
+        {
+          "jobId": "4439539754",
+          "title": "Director, Local Service Delivery - Consumer Group",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4439539754"
+        },
+        {
+          "jobId": "4439367548",
+          "title": "Director, Service Delivery — Money Services & Workforce Solutions",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4439367548"
+        }
+      ],
+      "why": "Same-level craft peer at Intuit — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Intuit's ai work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-0006",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Reddit",
+      "title": "Peer · Reddit",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Reddit+Director+Marketplace+Ops&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4466335063",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 57,
+          "link": "https://www.linkedin.com/jobs/view/4466335063"
+        },
+        {
+          "jobId": "4466321262",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466321262"
+        },
+        {
+          "jobId": "4466320292",
+          "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
+          "mid_pct": 55,
+          "link": "https://www.linkedin.com/jobs/view/4466320292"
+        }
+      ],
+      "why": "Same-level craft peer at Reddit — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Reddit's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-salesforce-peer",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "Salesforce",
+      "title": "Peer · Salesforce",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Salesforce+Director+Operations+Marketplace",
+      "job_refs": [
+        {
+          "jobId": "4422183197",
+          "title": "Director, Workforce Operations, Data Solutions",
+          "mid_pct": 53,
+          "link": "https://www.linkedin.com/jobs/view/4422183197"
+        },
+        {
+          "jobId": "4429508957",
+          "title": "Director, Future of Work & Organizational Transformation - Japan (JPKT)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4429508957"
+        },
+        {
+          "jobId": "4460192946",
+          "title": "SVP, General Manager OU Lead - TMT/CBS (Professional Services)",
+          "mid_pct": 50,
+          "link": "https://www.linkedin.com/jobs/view/4460192946"
+        }
+      ],
+      "why": "Same-level craft peer at Salesforce — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by Salesforce's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    },
+    {
+      "id": "seat-0010",
+      "badge": "Peer",
+      "name": "Find this seat",
+      "company": "UPS",
+      "title": "Peer · UPS",
+      "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=UPS+Director+Marketplace+Ops&network=%5B%22S%22%2C%22O%22%5D",
+      "job_refs": [
+        {
+          "jobId": "4452148219",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452148219"
+        },
+        {
+          "jobId": "4452139360",
+          "title": "Healthcare Logistics Distribution Operations Director - Relo Offered",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4452139360"
+        },
+        {
+          "jobId": "4467586828",
+          "title": "Vice President, RoadieXD - Operations & Engineering (Flex)",
+          "mid_pct": 52,
+          "link": "https://www.linkedin.com/jobs/view/4467586828"
+        }
+      ],
+      "why": "Same-level craft peer at UPS — warm intro path for top fits.",
+      "note_template": "Hi there, I'm Manuel Barrantes — Walmart Last Mile/Spark Director and White House Fellow (DOL, AI workplace). Impressed by UPS's operations work. Would value a brief chat about how I might help.",
+      "ready": false,
+      "source": "seat_search",
+      "seat_kind": "peer"
+    }
+  ]
 }
