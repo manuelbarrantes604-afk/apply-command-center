@@ -1188,15 +1188,28 @@ function renderThisWeek() {
       <span class="s">${esc(s.company || s.why || s.reason || "Map this seat — not a fabricated person")}</span>
     </li>`;
   const emptyNet = state.people.length === 0;
+  let addSeats = tw.add_5 || [];
+  if (!add.length && !addSeats.length) {
+    // pull missing seats from war rooms as role targets (not fake names)
+    const rooms = (state.network && state.network.war_rooms) || [];
+    addSeats = [];
+    for (const r of rooms) {
+      for (const s of (r.missing_seats || [])) {
+        addSeats.push({ seat: s.seat, company: (r.company_keys||[])[0]||r.title, why: s.why, kind: "seat" });
+        if (addSeats.length >= 5) break;
+      }
+      if (addSeats.length >= 5) break;
+    }
+  }
   const addBlock = add.length
     ? add.map(personLi).join("")
-    : ((tw.add_5||[]).length ? (tw.add_5||[]).map(seatLi).join("")
+    : (addSeats.length ? addSeats.map(seatLi).join("")
       : `<li><span class="t">No adds queued</span><span class="s">Use War Room missing seats as targets.</span></li>`);
   document.getElementById("weekGrid").innerHTML = `
     <div class="panel"><h3>New 50+ roles <em>${newRoles.length}</em></h3><ul class="week-list">${newRoles.length?newRoles.map(jobLi).join(""):'<li><span class="s">None this week</span></li>'}</ul></div>
     <div class="panel"><h3>Path improved <em>${pathImproved.length}</em></h3><ul class="week-list">${pathImproved.length?pathImproved.map(j=>`<li><span class="t">${esc(j.title)}</span><span class="s">${esc(j.company)} · ${j.prior_score}→${j.action_score} · ${pathChip(j.path_strength)}</span></li>`).join(""):'<li><span class="s">No deltas vs prior sweep</span></li>'}</ul></div>
     <div class="panel"><h3>5 to contact <em>${contact.length}</em></h3><ul class="week-list">${contact.length?contact.map(personLi).join(""):`<li><span class="t">${emptyNet?"Network empty":"Nobody queued"}</span><span class="s">Upload CSV or mark overlay status=to_contact. Cap: 5 real touches.</span></li>`}</ul></div>
-    <div class="panel"><h3>5 to add <em>${add.length || (tw.add_5||[]).length}</em></h3><ul class="week-list">${addBlock}</ul></div>
+    <div class="panel"><h3>5 to add <em>${add.length || addSeats.length}</em></h3><ul class="week-list">${addBlock}</ul></div>
     <div class="panel"><h3>3 recruiters <em>${recruiters.length}</em></h3><ul class="week-list">${recruiters.length?recruiters.map(personLi).join(""):'<li><span class="s">No recruiters in local network — map posting recruiter seats in War Rooms.</span></li>'}</ul></div>
     <div class="panel"><h3>3 warm apps <em>${warmApps.length}</em></h3><ul class="week-list">${warmApps.length?warmApps.map(jobLi).join(""):'<li><span class="s">No warm/strong paths yet — unlock via Connections CSV.</span></li>'}</ul></div>
     <div class="panel" style="grid-column:1/-1"><h3>Skip list · stretch + path none <em>${skipList.length}</em></h3><ul class="week-list">${skipList.length?skipList.map(j=>jobLi(j)).join(""):'<li><span class="s">Clear</span></li>'}</ul></div>`;
