@@ -1,0 +1,2194 @@
+{
+ "meta": {
+  "named_recruiters": 48,
+  "named_employees": 30,
+  "seats": 79,
+  "companies_named": [
+   "Adobe",
+   "Affirm",
+   "Alvarez & Marsal",
+   "Anthropic",
+   "Capital One",
+   "Citi",
+   "Cloudflare",
+   "DoorDash",
+   "Google",
+   "Grant Thornton (US)",
+   "Intuit",
+   "Merck",
+   "Meta",
+   "Northrop Grumman",
+   "OpenAI",
+   "Oracle",
+   "Palo Alto Networks",
+   "Salesforce",
+   "T. Rowe Price",
+   "TikTok",
+   "Uber",
+   "Waymo",
+   "West Monroe",
+   "Workday"
+  ],
+  "companies_on_board": 103
+ },
+ "leads": [
+  {
+   "company": "Walmart",
+   "seat": true,
+   "best_prob": 80,
+   "jobs_label": "(USA) Senior Director, Operations (Trust & Safety Operations) (80%)",
+   "job_ids": [
+    "4441081605"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Walmart%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Walmart"
+  },
+  {
+   "company": "DoorDash",
+   "name": "Annie Minter",
+   "title": "Recruiting Manager, Strategy & Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/anniewhit",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Annie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Kelsey Lee",
+   "title": "Senior Business Recruiter, Strategy and Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/kelseylee722",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Kelsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Lauren Treleven",
+   "title": "Leadership Recruiter (Director-level non-tech: G&A, Sales, S&O, CXI)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/lauren-treleven",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Lauren, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Joe McAllister",
+   "title": "Head of Global G&A Recruiting",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/joemcallister1",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Kelly Forcier",
+   "title": "Recruiting Manager, CXI (Customer Experience & Integrity)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/kellyforcier",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Kelly, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Lianna Falkenstein",
+   "title": "Senior Recruiter (CXI / Customer Experience Strategy & Operations)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/liannafalkenstein",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Lianna, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Aubrey Reynolds",
+   "title": "Senior Manager, Marketplace Live Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/aubreyreynolds/",
+   "source": "linkedin_connect_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Aubrey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "DoorDash",
+   "name": "Kevin Saunders",
+   "title": "Manager, Marketplace Live Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/kevin-saunders-5145a9110/",
+   "source": "linkedin_connect_v4",
+   "best_prob": 80,
+   "jobs_label": "Director Strategy & Operations, Local Markets (80%) +1 more",
+   "job_ids": [
+    "4400477099",
+    "4416838669"
+   ],
+   "note": "Hi Kevin, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Mike Mullally",
+   "title": "Senior Manager, Tech Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/mike-mullally-a5b99451",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Megan Jennings",
+   "title": "Lead Technical Recruiter - Card Tech",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/megankgreen",
+   "source": "recruiters_alt_v4",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Megan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Lucy Wills",
+   "title": "Recruiter, Corporate Strategy",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/lucywills96",
+   "source": "WebSearch site:linkedin.com/in (Capital One business recruiter)",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Lucy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Sarah Ettinger",
+   "title": "Executive Recruiter",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/sarah-ettinger-36359110",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Sarah, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Cory Hopper",
+   "title": "Leader, Professional (non-tech) Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/coryhopper",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Cory, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Capital One",
+   "name": "Jennifer R. Jackson",
+   "title": "Senior Executive and Business Leader | P&L Ownership, Digital Transformation, Operations",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/jennifer-r-jackson-15546810/",
+   "source": "network.json",
+   "best_prob": 80,
+   "jobs_label": "Senior Director, Process Management- Workforce Operations & Enablement (Hybrid) (80%) +3 more",
+   "job_ids": [
+    "4459034058",
+    "4462781600",
+    "4472014590",
+    "4463779469"
+   ],
+   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Katie Gonzalez",
+   "title": "Manager, Recruiting \u2013 Strategy & Operations (Mobility, Delivery, AV)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/katie-gonzalez-31262095",
+   "source": "WebSearch site:linkedin.com/in (Uber recruiter strategy operations)",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Jessica Michaels",
+   "title": "Senior Recruiter, Strategic Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jessica-michaels-544241197",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Jessica, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Matt Domzalski",
+   "title": "Senior Recruiter, Business Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/mattdomzalski",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Matt, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Laura Hahn",
+   "title": "Director, Head of Marketplace & Courier Operations, US&C Delivery",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/laura-hahn-15167265",
+   "source": "WebSearch site:linkedin.com/in (Uber Director Delivery Operations)",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Laura, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Dan Hathaway",
+   "title": "Director, US Delivery Marketplace",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/dan-hathaway",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Dan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "Uber",
+   "name": "Erica Steinberg Lock",
+   "title": "Delivery Customer Experience Operations lead, US & Canada",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/ericalock24",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of US&C Regional CX, Mobility (76%)",
+   "job_ids": [
+    "4470658781"
+   ],
+   "note": "Hi Erica, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Jennifer Kim",
+   "title": "Global Talent Acquisition Lead - Global Business Solutions",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jenniferhkim",
+   "source": "recruiters_alt_v4",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Jessie Wolfe",
+   "title": "Global Talent Acquisition Partner",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jessiewolfe",
+   "source": "recruiters_alt_v4",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Jessie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Lingzi Tang",
+   "title": "Talent Acquisition, TikTok Shop Logistics & Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/lingzi-tang-b296a9164",
+   "source": "WebSearch site:linkedin.com/in (TikTok Shop ops recruiter)",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Lingzi, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Christina Wang",
+   "title": "Talent Acquisition, TikTok Shop Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/christina-wang-71255912a",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Christina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Tony Trainor",
+   "title": "Head of Ecommerce Logistics, TikTok USDS",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/anthonytrainor",
+   "source": "WebSearch site:linkedin.com/in (TikTok Shop logistics leaders)",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Tony, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "TikTok",
+   "name": "Archis Awate",
+   "title": "Senior leader, TikTok Shop Logistics Solutions",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/archisawate",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Head of North America Product Strategy & Operations - Global Business Solutions (76%) +5 more",
+   "job_ids": [
+    "4470380777",
+    "4460047875",
+    "4465367176",
+    "4462667061",
+    "4460265018",
+    "4472068676"
+   ],
+   "note": "Hi Archis, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+  },
+  {
+   "company": "Intuit",
+   "name": "Jennifer Mullen",
+   "title": "Recruiting leader, Business Functions (Strategy, Business Ops)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jennifermariemullen",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
+   "job_ids": [
+    "4439367548"
+   ],
+   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting."
+  },
+  {
+   "company": "Intuit",
+   "name": "Joe Baker",
+   "title": "Talent Acquisition leader, Sales, Marketing & Business Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/bakerjoe",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
+   "job_ids": [
+    "4439367548"
+   ],
+   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting."
+  },
+  {
+   "company": "Salesforce",
+   "name": "Alison Hays",
+   "title": "Corporate Recruiting leader",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/alisonrouth",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 76,
+   "jobs_label": "Director, Workforce Operations, Data Solutions (76%) +1 more",
+   "job_ids": [
+    "4422183197",
+    "4469950557"
+   ],
+   "note": "Hi Alison, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting."
+  },
+  {
+   "company": "Salesforce",
+   "name": "Rahul Meena",
+   "title": "Ops & CRM Specialist | Salesforce \u00b7 SQL \u00b7 Python",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/rahul-meena-b03693183/",
+   "source": "network.json",
+   "best_prob": 76,
+   "jobs_label": "Director, Workforce Operations, Data Solutions (76%) +1 more",
+   "job_ids": [
+    "4422183197",
+    "4469950557"
+   ],
+   "note": "Hi Rahul, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting."
+  },
+  {
+   "company": "Salesforce",
+   "name": "Juston Michealson",
+   "title": "Enterprise Sales Engineering Director",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/justonmichealson/",
+   "source": "network.json",
+   "best_prob": 76,
+   "jobs_label": "Director, Workforce Operations, Data Solutions (76%) +1 more",
+   "job_ids": [
+    "4422183197",
+    "4469950557"
+   ],
+   "note": "Hi Juston, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting."
+  },
+  {
+   "company": "Salesforce",
+   "name": "Ramya Badakanda Subbaiah",
+   "title": "Data Analytics | Last Mile Delivery Operation",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/ramyasubbaiah/",
+   "source": "network.json",
+   "best_prob": 76,
+   "jobs_label": "Director, Workforce Operations, Data Solutions (76%) +1 more",
+   "job_ids": [
+    "4422183197",
+    "4469950557"
+   ],
+   "note": "Hi Ramya, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting."
+  },
+  {
+   "company": "Affirm",
+   "name": "Michelle Roberts",
+   "title": "Head of Global Business Recruiting (incl. Operations)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/mroberts22",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 74,
+   "jobs_label": "Director, Customer Operations Vendor Strategy & Execution (74%)",
+   "job_ids": [
+    "4456623366"
+   ],
+   "note": "Hi Michelle, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting."
+  },
+  {
+   "company": "Affirm",
+   "name": "Yana Prystupa",
+   "title": "SVP, Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/yana-prystupa-48b99b11",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 74,
+   "jobs_label": "Director, Customer Operations Vendor Strategy & Execution (74%)",
+   "job_ids": [
+    "4456623366"
+   ],
+   "note": "Hi Yana, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting."
+  },
+  {
+   "company": "Affirm",
+   "name": "Brian Malarkey",
+   "title": "Lead, Customer Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/brian-malarkey-581793175",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 74,
+   "jobs_label": "Director, Customer Operations Vendor Strategy & Execution (74%)",
+   "job_ids": [
+    "4456623366"
+   ],
+   "note": "Hi Brian, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting."
+  },
+  {
+   "company": "West Monroe",
+   "name": "Amy Sparling",
+   "title": "Managing Director, Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/amy-sparling-45892a2",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 73,
+   "jobs_label": "Director, Productivity & Workforce Transformation (73%)",
+   "job_ids": [
+    "4410903290"
+   ],
+   "note": "Hi Amy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting."
+  },
+  {
+   "company": "West Monroe",
+   "name": "Lindsay Maanavi",
+   "title": "Senior Manager, Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/lindsay-maanavi-b0723b25",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 73,
+   "jobs_label": "Director, Productivity & Workforce Transformation (73%)",
+   "job_ids": [
+    "4410903290"
+   ],
+   "note": "Hi Lindsay, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting."
+  },
+  {
+   "company": "Meta",
+   "name": "Natalie Newhouse",
+   "title": "Global Recruiting Manager, Leadership",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/nataliefederal",
+   "source": "recruiters_alt_v4",
+   "best_prob": 72,
+   "jobs_label": "Strategy & Operations Director, Video (72%)",
+   "job_ids": [
+    "4464707344"
+   ],
+   "note": "Hi Natalie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+  },
+  {
+   "company": "Meta",
+   "name": "Marissa Cochran",
+   "title": "Recruiter, Global Operations & Global Business Group",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/marissa-cochran-24846121",
+   "source": "WebSearch site:linkedin.com/in (Meta operations recruiter)",
+   "best_prob": 72,
+   "jobs_label": "Strategy & Operations Director, Video (72%)",
+   "job_ids": [
+    "4464707344"
+   ],
+   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+  },
+  {
+   "company": "Meta",
+   "name": "Blair Ethington",
+   "title": "Product Management Executive",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/blairethington/",
+   "source": "network.json",
+   "best_prob": 72,
+   "jobs_label": "Strategy & Operations Director, Video (72%)",
+   "job_ids": [
+    "4464707344"
+   ],
+   "note": "Hi Blair, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+  },
+  {
+   "company": "Meta",
+   "name": "Rick Ton",
+   "title": "Growth, GTM & Demand Generation Leader",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/rickton/",
+   "source": "network.json",
+   "best_prob": 72,
+   "jobs_label": "Strategy & Operations Director, Video (72%)",
+   "job_ids": [
+    "4464707344"
+   ],
+   "note": "Hi Rick, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+  },
+  {
+   "company": "Meta",
+   "name": "S\u00e9bastien Dubuisson",
+   "title": "Unlocking Cross-Border Revenue for Brands | Product \u00d7 Partnerships | ex-Meta",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/sebastiendubuisson/",
+   "source": "network.json",
+   "best_prob": 72,
+   "jobs_label": "Strategy & Operations Director, Video (72%)",
+   "job_ids": [
+    "4464707344"
+   ],
+   "note": "Hi S\u00e9bastien, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+  },
+  {
+   "company": "Alvarez & Marsal",
+   "name": "Sean Laffere",
+   "title": "Managing Director, National Supply Chain Practice Lead",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/sean-laffere-1905a5",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 72,
+   "jobs_label": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS) (72%)",
+   "job_ids": [
+    "4440999180"
+   ],
+   "note": "Hi Sean, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Alvarez & Marsal and would value connecting."
+  },
+  {
+   "company": "Alvarez & Marsal",
+   "name": "Griff Causey",
+   "title": "Managing Director, Supply Chain Performance Improvement",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/griffcausey",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 72,
+   "jobs_label": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS) (72%)",
+   "job_ids": [
+    "4440999180"
+   ],
+   "note": "Hi Griff, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Alvarez & Marsal and would value connecting."
+  },
+  {
+   "company": "Alvarez & Marsal",
+   "name": "Bryan Wyatt",
+   "title": "Managing Director, Supply Chain Consulting",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/blwyatt",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 72,
+   "jobs_label": "Senior Director, Supply Chain--Distribution & Logistics (OPEN TO ALL U.S. LOCATIONS) (72%)",
+   "job_ids": [
+    "4440999180"
+   ],
+   "note": "Hi Bryan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Alvarez & Marsal and would value connecting."
+  },
+  {
+   "company": "Northrop Grumman",
+   "name": "Elley Seifert",
+   "title": "Director of Talent Acquisition (Space Sector)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/elleyseifert",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 71,
+   "jobs_label": "Director of Business Operations 1 (71%)",
+   "job_ids": [
+    "4471838789"
+   ],
+   "note": "Hi Elley, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Northrop Grumman and would value connecting."
+  },
+  {
+   "company": "Google",
+   "name": "Sellena Pelzer",
+   "title": "Recruiting Business Partner \u2013 Global Partnerships, GTM Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/sellenapelzer",
+   "source": "WebSearch site:linkedin.com/in (Google S&O recruiter)",
+   "best_prob": 70,
+   "jobs_label": "Head Of Strategy and Operations, US Retail (70%) +4 more",
+   "job_ids": [
+    "4469689017",
+    "4467125193",
+    "4463084338",
+    "4469465258",
+    "4461904138"
+   ],
+   "note": "Hi Sellena, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+  },
+  {
+   "company": "Google",
+   "name": "Bela Patel",
+   "title": "Head of Operations, Talent Engagement & Compute Recruiting",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/bela-patel-41130619",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 70,
+   "jobs_label": "Head Of Strategy and Operations, US Retail (70%) +4 more",
+   "job_ids": [
+    "4469689017",
+    "4467125193",
+    "4463084338",
+    "4469465258",
+    "4461904138"
+   ],
+   "note": "Hi Bela, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+  },
+  {
+   "company": "Google",
+   "name": "Thomas de Noronha e Silva Tomei",
+   "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/royalsflush/",
+   "source": "network.json",
+   "best_prob": 70,
+   "jobs_label": "Head Of Strategy and Operations, US Retail (70%) +4 more",
+   "job_ids": [
+    "4469689017",
+    "4467125193",
+    "4463084338",
+    "4469465258",
+    "4461904138"
+   ],
+   "note": "Hi Thomas, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+  },
+  {
+   "company": "Google",
+   "name": "Daniel Roman",
+   "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/danielwalterroman/",
+   "source": "network.json",
+   "best_prob": 70,
+   "jobs_label": "Head Of Strategy and Operations, US Retail (70%) +4 more",
+   "job_ids": [
+    "4469689017",
+    "4467125193",
+    "4463084338",
+    "4469465258",
+    "4461904138"
+   ],
+   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+  },
+  {
+   "company": "Google",
+   "name": "Eric Pumphrey",
+   "title": "Director, GTM Strategy & Operations \u2013 Search & Shopping, Retail",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/eric-pumphrey-b9979555",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 70,
+   "jobs_label": "Head Of Strategy and Operations, US Retail (70%) +4 more",
+   "job_ids": [
+    "4469689017",
+    "4467125193",
+    "4463084338",
+    "4469465258",
+    "4461904138"
+   ],
+   "note": "Hi Eric, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+  },
+  {
+   "company": "Yahoo",
+   "seat": true,
+   "best_prob": 69,
+   "jobs_label": "Director, Technology Strategy & Operations (69%)",
+   "job_ids": [
+    "4463575441"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Yahoo%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Yahoo"
+  },
+  {
+   "company": "Merck",
+   "name": "Michele Y. Tong",
+   "title": "Executive Director, Global Talent Acquisition \u2013 Executive Search",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/michele-y-tong-jd-16a8207",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 67,
+   "jobs_label": "Executive Director, Transformation Enablement & AI Adoption (67%)",
+   "job_ids": [
+    "4467286998"
+   ],
+   "note": "Hi Michele, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Merck and would value connecting."
+  },
+  {
+   "company": "Insmed Incorporated",
+   "seat": true,
+   "best_prob": 67,
+   "jobs_label": "Executive Director, AI Transformation & Strategy (67%)",
+   "job_ids": [
+    "4426407754"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Insmed%20Incorporated%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Insmed Incorporated"
+  },
+  {
+   "company": "T. Rowe Price",
+   "name": "Christine Isteero",
+   "title": "Technology Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/christine-isteero",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 67,
+   "jobs_label": "Director, AI Enablement & Ecosystem (67%)",
+   "job_ids": [
+    "4463907600"
+   ],
+   "note": "Hi Christine, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting."
+  },
+  {
+   "company": "T. Rowe Price",
+   "name": "Katie Manthei",
+   "title": "Technology Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/katie-manthei-7631a72",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 67,
+   "jobs_label": "Director, AI Enablement & Ecosystem (67%)",
+   "job_ids": [
+    "4463907600"
+   ],
+   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting."
+  },
+  {
+   "company": "Citi",
+   "name": "Mike Penfold",
+   "title": "Global Executive Talent Acquisition Partner \u2013 Technology, Operations, Services & COO",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/mpenfold",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 66,
+   "jobs_label": "Head of Business Strategy & Operations/Chief of Staff (66%) +4 more",
+   "job_ids": [
+    "4468075714",
+    "4458313412",
+    "4446435679",
+    "4463644948",
+    "4462382023"
+   ],
+   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+  },
+  {
+   "company": "Citi",
+   "name": "Daniel Beresford",
+   "title": "Executive Search Partner \u2013 Global Functions, Operations & Technology",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/djberesford",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 66,
+   "jobs_label": "Head of Business Strategy & Operations/Chief of Staff (66%) +4 more",
+   "job_ids": [
+    "4468075714",
+    "4458313412",
+    "4446435679",
+    "4463644948",
+    "4462382023"
+   ],
+   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+  },
+  {
+   "company": "Citi",
+   "name": "Katrina Stanfield",
+   "title": "Recruiter, Citi Operations (AVP\u2013Director)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/katrina-stanfield-246a7016",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 66,
+   "jobs_label": "Head of Business Strategy & Operations/Chief of Staff (66%) +4 more",
+   "job_ids": [
+    "4468075714",
+    "4458313412",
+    "4446435679",
+    "4463644948",
+    "4462382023"
+   ],
+   "note": "Hi Katrina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+  },
+  {
+   "company": "Navan",
+   "seat": true,
+   "best_prob": 65,
+   "jobs_label": "Director, Strategy & Operations (Office of the CIO) (65%)",
+   "job_ids": [
+    "4449067806"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Navan%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Navan"
+  },
+  {
+   "company": "Retool",
+   "seat": true,
+   "best_prob": 65,
+   "jobs_label": "Director, Business Operations (65%)",
+   "job_ids": [
+    "4453485622"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Retool%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Retool"
+  },
+  {
+   "company": "Bloom Energy",
+   "seat": true,
+   "best_prob": 65,
+   "jobs_label": "Global Operations Director \u2013 Services (65%)",
+   "job_ids": [
+    "4408983444"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Bloom%20Energy%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Bloom Energy"
+  },
+  {
+   "company": "DailyPay",
+   "seat": true,
+   "best_prob": 65,
+   "jobs_label": "Director Payments, Ecosystem and Marketplace Partnerships (65%)",
+   "job_ids": [
+    "4436096834"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DailyPay%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at DailyPay"
+  },
+  {
+   "company": "Adobe",
+   "name": "Marissa Rodgers",
+   "title": "Talent Partner \u2013 Ops/Strategy hiring, Creativity & Productivity",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/marissarodgers",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Head of Business Operations & Strategy (64%)",
+   "job_ids": [
+    "4427774239"
+   ],
+   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Adobe and would value connecting."
+  },
+  {
+   "company": "Palo Alto Networks",
+   "name": "Tammy Dutremble",
+   "title": "Executive Recruiter \u2013 Strategy, Finance, GTM",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/tammydutremble",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Director/Sr. Director - Ecosystems Business Operations (64%) +2 more",
+   "job_ids": [
+    "4464242111",
+    "4450198140",
+    "4465245553"
+   ],
+   "note": "Hi Tammy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Palo Alto Networks and would value connecting."
+  },
+  {
+   "company": "Palo Alto Networks",
+   "name": "Rahul Golani",
+   "title": "Leader, Strategy & Business Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/rahulgolani",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Director/Sr. Director - Ecosystems Business Operations (64%) +2 more",
+   "job_ids": [
+    "4464242111",
+    "4450198140",
+    "4465245553"
+   ],
+   "note": "Hi Rahul, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Palo Alto Networks and would value connecting."
+  },
+  {
+   "company": "Workday",
+   "name": "Jenifer (Haynes) Innis",
+   "title": "Senior Manager, Program Management - Core HR",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/jenifer-haynes-innis-289a9559/",
+   "source": "network.json",
+   "best_prob": 64,
+   "jobs_label": "Director, Strategy and Operations - Data Cloud (Chief of Staff) (64%)",
+   "job_ids": [
+    "4440187167"
+   ],
+   "note": "Hi Jenifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Workday and would value connecting."
+  },
+  {
+   "company": "Workday",
+   "name": "Michael McClain",
+   "title": "Divisional People Partner - Supply Chain",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/michael-mcclain-17ba4150/",
+   "source": "network.json",
+   "best_prob": 64,
+   "jobs_label": "Director, Strategy and Operations - Data Cloud (Chief of Staff) (64%)",
+   "job_ids": [
+    "4440187167"
+   ],
+   "note": "Hi Michael, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Workday and would value connecting."
+  },
+  {
+   "company": "Workday",
+   "name": "Sydney DeVor",
+   "title": "Senior Manager, Total Rewards Core People",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/sydneydevor/",
+   "source": "network.json",
+   "best_prob": 64,
+   "jobs_label": "Director, Strategy and Operations - Data Cloud (Chief of Staff) (64%)",
+   "job_ids": [
+    "4440187167"
+   ],
+   "note": "Hi Sydney, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Workday and would value connecting."
+  },
+  {
+   "company": "Workday",
+   "name": "Namrata Collins",
+   "title": "Biztech leader transforming business through technology-based disruption",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/namrata-collins-66a3574/",
+   "source": "network.json",
+   "best_prob": 64,
+   "jobs_label": "Director, Strategy and Operations - Data Cloud (Chief of Staff) (64%)",
+   "job_ids": [
+    "4440187167"
+   ],
+   "note": "Hi Namrata, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Workday and would value connecting."
+  },
+  {
+   "company": "Waymo",
+   "name": "Leigha Russo",
+   "title": "Recruiter \u2013 Business Operations, Fleet Operations & Supply Chain",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/leigharusso",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Head of Logistics (64%)",
+   "job_ids": [
+    "4435028566"
+   ],
+   "note": "Hi Leigha, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+  },
+  {
+   "company": "Waymo",
+   "name": "Daniel McNatt",
+   "title": "Recruiter \u2013 Supply Chain, Manufacturing, Safety & Fleet Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/danielmcnatt",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Head of Logistics (64%)",
+   "job_ids": [
+    "4435028566"
+   ],
+   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+  },
+  {
+   "company": "Waymo",
+   "name": "Barbara Teyssandier",
+   "title": "Operations Recruiting Lead",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/barbarateyssandier",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 64,
+   "jobs_label": "Head of Logistics (64%)",
+   "job_ids": [
+    "4435028566"
+   ],
+   "note": "Hi Barbara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+  },
+  {
+   "company": "Freshworks",
+   "seat": true,
+   "best_prob": 63,
+   "jobs_label": "Senior Director, People Analytics and Workforce Planning (63%)",
+   "job_ids": [
+    "4466014370"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Freshworks%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Freshworks"
+  },
+  {
+   "company": "PwC",
+   "seat": true,
+   "best_prob": 62,
+   "jobs_label": "Supply Chain Consulting - Relex Director (62%)",
+   "job_ids": [
+    "4453661793"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=PwC%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at PwC"
+  },
+  {
+   "company": "Groupon",
+   "seat": true,
+   "best_prob": 61,
+   "jobs_label": "Director / Senior Director, Marketplace Strategy & Operations (61%)",
+   "job_ids": [
+    "4466246095"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Groupon%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Groupon"
+  },
+  {
+   "company": "WSP in the U.S.",
+   "seat": true,
+   "best_prob": 61,
+   "jobs_label": "Senior Director, Regional Business Operations Director (61%)",
+   "job_ids": [
+    "4455308414"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=WSP%20in%20the%20U.S.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at WSP in the U.S."
+  },
+  {
+   "company": "Justworks",
+   "seat": true,
+   "best_prob": 61,
+   "jobs_label": "Senior Director, Central Operations (61%)",
+   "job_ids": [
+    "4467280516"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Justworks%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Justworks"
+  },
+  {
+   "company": "Oscar Health",
+   "seat": true,
+   "best_prob": 61,
+   "jobs_label": "Senior Director, Marketplace Growth and Partnerships (61%)",
+   "job_ids": [
+    "4457297997"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Oscar%20Health%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Oscar Health"
+  },
+  {
+   "company": "Whatnot",
+   "seat": true,
+   "best_prob": 60,
+   "jobs_label": "Director, U.S. Public Policy (60%)",
+   "job_ids": [
+    "4458919334"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Whatnot%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Whatnot"
+  },
+  {
+   "company": "Mastercard",
+   "seat": true,
+   "best_prob": 59,
+   "jobs_label": "Director, Artificial Intelligence Policy (59%) +1 more",
+   "job_ids": [
+    "4452524200",
+    "4440176885"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Mastercard%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Mastercard"
+  },
+  {
+   "company": "Micron Technology",
+   "seat": true,
+   "best_prob": 59,
+   "jobs_label": "Director, Business Operations - STPG (59%)",
+   "job_ids": [
+    "4422512475"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Micron%20Technology%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Micron Technology"
+  },
+  {
+   "company": "Snorkel AI",
+   "seat": true,
+   "best_prob": 59,
+   "jobs_label": "Director, GTM Systems & AI Transformation (59%)",
+   "job_ids": [
+    "4464285201"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Snorkel%20AI%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Snorkel AI"
+  },
+  {
+   "company": "Lantheus",
+   "seat": true,
+   "best_prob": 59,
+   "jobs_label": "Customer Experience Director- Mid Atlantic (59%)",
+   "job_ids": [
+    "4451249746"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Lantheus%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Lantheus"
+  },
+  {
+   "company": "Anthropic",
+   "name": "Lindsey Gallup",
+   "title": "Recruiter, Business Operations & Strategy",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/lindsey-allen",
+   "source": "WebSearch site:linkedin.com/in (Anthropic business ops recruiter)",
+   "best_prob": 58,
+   "jobs_label": "Head of Business Operations and Analytics (58%) +1 more",
+   "job_ids": [
+    "4457544919",
+    "4468867531"
+   ],
+   "note": "Hi Lindsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting."
+  },
+  {
+   "company": "Anthropic",
+   "name": "Brian Kustera",
+   "title": "Recruiter, Strategy & Operations / Business Operations",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/bkustera",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 58,
+   "jobs_label": "Head of Business Operations and Analytics (58%) +1 more",
+   "job_ids": [
+    "4457544919",
+    "4468867531"
+   ],
+   "note": "Hi Brian, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting."
+  },
+  {
+   "company": "OpenAI",
+   "name": "Sharon O'Ryan",
+   "title": "Lead Technical Recruiter",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/sharon-o-ryan-a893101b9",
+   "source": "recruiters_alt_v4",
+   "best_prob": 58,
+   "jobs_label": "Head of Marketplace (58%) +2 more",
+   "job_ids": [
+    "4456262341",
+    "4469490201",
+    "4454936180"
+   ],
+   "note": "Hi Sharon, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+  },
+  {
+   "company": "OpenAI",
+   "name": "Sara Abdel-Wahab",
+   "title": "Recruiting Lead, Technical",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/saraabdelwahab",
+   "source": "recruiters_alt_v4",
+   "best_prob": 58,
+   "jobs_label": "Head of Marketplace (58%) +2 more",
+   "job_ids": [
+    "4456262341",
+    "4469490201",
+    "4454936180"
+   ],
+   "note": "Hi Sara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+  },
+  {
+   "company": "OpenAI",
+   "name": "Sukie Emerson",
+   "title": "Member of Recruiting Staff (Technical)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/sukieemerson",
+   "source": "recruiters_alt_v4",
+   "best_prob": 58,
+   "jobs_label": "Head of Marketplace (58%) +2 more",
+   "job_ids": [
+    "4456262341",
+    "4469490201",
+    "4454936180"
+   ],
+   "note": "Hi Sukie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+  },
+  {
+   "company": "OpenAI",
+   "name": "Sarah Friar",
+   "title": "CFO OpenAI",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/sarah-friar/",
+   "source": "network.json",
+   "best_prob": 58,
+   "jobs_label": "Head of Marketplace (58%) +2 more",
+   "job_ids": [
+    "4456262341",
+    "4469490201",
+    "4454936180"
+   ],
+   "note": "Hi Sarah, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+  },
+  {
+   "company": "Anduril",
+   "seat": true,
+   "best_prob": 58,
+   "jobs_label": "Head of Integrated Logistics Support (58%)",
+   "job_ids": [
+    "4426716584"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Anduril%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Anduril"
+  },
+  {
+   "company": "EY-Parthenon",
+   "seat": true,
+   "best_prob": 58,
+   "jobs_label": "EY-Parthenon - Strategy and Execution - Growth Platforms - Neuro-symbolic AI - Business -Sr Director (58%) +2 more",
+   "job_ids": [
+    "4452842438",
+    "4431892640",
+    "4436618651"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=EY-Parthenon%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at EY-Parthenon"
+  },
+  {
+   "company": "Baker Tilly US",
+   "seat": true,
+   "best_prob": 57,
+   "jobs_label": "Director, Strategy & Transformation (57%)",
+   "job_ids": [
+    "4441080411"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Baker%20Tilly%20US%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Baker Tilly US"
+  },
+  {
+   "company": "Appian",
+   "seat": true,
+   "best_prob": 57,
+   "jobs_label": "Director, TA Operations & Enablement (57%)",
+   "job_ids": [
+    "4467090927"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Appian%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Appian"
+  },
+  {
+   "company": "Viasat",
+   "seat": true,
+   "best_prob": 56,
+   "jobs_label": "Sr Director Space & Satellite Policy (56%)",
+   "job_ids": [
+    "4458780582"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Viasat%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Viasat"
+  },
+  {
+   "company": "Abbott",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Senior Director, Service Delivery & Business Operations (55%)",
+   "job_ids": [
+    "4461501577"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Abbott%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Abbott"
+  },
+  {
+   "company": "Two Six Technologies",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Senior Director, Business Operations (55%)",
+   "job_ids": [
+    "4446361401"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Two%20Six%20Technologies%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Two Six Technologies"
+  },
+  {
+   "company": "Dexcom",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Stelo Retail and E-Commerce Distribution Director (55%)",
+   "job_ids": [
+    "4470668480"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dexcom%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Dexcom"
+  },
+  {
+   "company": "Bristol Myers Squibb",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Senior Director, Head of Commercialization Data and AI Delivery (55%)",
+   "job_ids": [
+    "4466561373"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Bristol%20Myers%20Squibb%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Bristol Myers Squibb"
+  },
+  {
+   "company": "iRhythm Technologies, Inc.",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Director, AI Platform & Transformation (55%)",
+   "job_ids": [
+    "4466232780"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=iRhythm%20Technologies%2C%20Inc.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at iRhythm Technologies, Inc."
+  },
+  {
+   "company": "Dyne Therapeutics",
+   "seat": true,
+   "best_prob": 55,
+   "jobs_label": "Senior Director, Business Strategy & Operations - Office of the CCO (55%)",
+   "job_ids": [
+    "4453016050"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dyne%20Therapeutics%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Dyne Therapeutics"
+  },
+  {
+   "company": "The Home Depot",
+   "seat": true,
+   "best_prob": 53,
+   "jobs_label": "Senior Director Government Relations (53%)",
+   "job_ids": [
+    "4468096548"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=The%20Home%20Depot%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at The Home Depot"
+  },
+  {
+   "company": "Shield AI",
+   "seat": true,
+   "best_prob": 53,
+   "jobs_label": "Senior Director, Hivemind Operations & Sustainment (R5855) (53%) +1 more",
+   "job_ids": [
+    "4463335765",
+    "4453120190"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Shield%20AI%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Shield AI"
+  },
+  {
+   "company": "Riveron",
+   "seat": true,
+   "best_prob": 53,
+   "jobs_label": "Business Performance Improvement - Senior Director - Business System Strategy & Transformation (53%)",
+   "job_ids": [
+    "4449228175"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Riveron%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Riveron"
+  },
+  {
+   "company": "Grant Thornton (US)",
+   "name": "Melanie Mosher",
+   "title": "National Executive Recruiting Leader",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/melaniemosher",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 53,
+   "jobs_label": "Senior Director, Delivery Center Strategy & Integration (53%) +1 more",
+   "job_ids": [
+    "4465216285",
+    "4459229877"
+   ],
+   "note": "Hi Melanie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting."
+  },
+  {
+   "company": "Grant Thornton (US)",
+   "name": "Jeff Corritori",
+   "title": "Experienced Hire Recruiting Manager",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jeff-corritori-12a2b44",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 53,
+   "jobs_label": "Senior Director, Delivery Center Strategy & Integration (53%) +1 more",
+   "job_ids": [
+    "4465216285",
+    "4459229877"
+   ],
+   "note": "Hi Jeff, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting."
+  },
+  {
+   "company": "Grant Thornton (US)",
+   "name": "Audra Nichols",
+   "title": "Advisory Acceleration (Delivery) Center Operations Leader",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/audra-nichols-107ba03",
+   "source": "WebSearch site:linkedin.com/in",
+   "best_prob": 53,
+   "jobs_label": "Senior Director, Delivery Center Strategy & Integration (53%) +1 more",
+   "job_ids": [
+    "4465216285",
+    "4459229877"
+   ],
+   "note": "Hi Audra, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting."
+  },
+  {
+   "company": "Health Care Service Corporation",
+   "seat": true,
+   "best_prob": 51,
+   "jobs_label": "Executive Director, Business Transformation (51%)",
+   "job_ids": [
+    "4463331908"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Health%20Care%20Service%20Corporation%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Health Care Service Corporation"
+  },
+  {
+   "company": "Avalara",
+   "seat": true,
+   "best_prob": 51,
+   "jobs_label": "Sr. Director, Global Support Operations (51%)",
+   "job_ids": [
+    "4455309959"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Avalara%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Avalara"
+  },
+  {
+   "company": "Slalom",
+   "seat": true,
+   "best_prob": 51,
+   "jobs_label": "Managing Director, Go-To-Market \u2014 Customer Experience for North America (51%)",
+   "job_ids": [
+    "4469478704"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Slalom%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Slalom"
+  },
+  {
+   "company": "Cloudflare",
+   "name": "Andrew Kinnas",
+   "title": "Senior Technical Recruiter",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/andrewkinnas",
+   "source": "recruiters_alt_v4",
+   "best_prob": 50,
+   "jobs_label": "VP, Global Head of Trust & Safety (50%)",
+   "job_ids": [
+    "4468575915"
+   ],
+   "note": "Hi Andrew, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring trust & safety operations roles at Cloudflare and would value connecting."
+  },
+  {
+   "company": "Oracle",
+   "name": "Sriram Samu",
+   "title": "Retail and e-commerce Technology | Technology Strategy | AI, Data, Cloud",
+   "kind": "Employee \u00b7 1st",
+   "linkedin_url": "https://www.linkedin.com/in/sriramsamu/",
+   "source": "network.json",
+   "best_prob": 50,
+   "jobs_label": "Senior Director, Materials Management & Execution \u2013 Supply Chain (50%)",
+   "job_ids": [
+    "4441899669"
+   ],
+   "note": "Hi Sriram, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Oracle and would value connecting."
+  },
+  {
+   "company": "Clio",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "VP, Global Customer Support (49%)",
+   "job_ids": [
+    "4454440591"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Clio%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Clio"
+  },
+  {
+   "company": "Rambus",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "VP Global Operations (49%)",
+   "job_ids": [
+    "4417651801"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Rambus%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Rambus"
+  },
+  {
+   "company": "Docusign",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "Vice President, Technology Development and Business Operations (49%)",
+   "job_ids": [
+    "4434363982"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Docusign%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Docusign"
+  },
+  {
+   "company": "Flex",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "Chief of Staff (Executive Office) and VP of Strategy & Operations (49%) +1 more",
+   "job_ids": [
+    "4424954142",
+    "4443313681"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Flex%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Flex"
+  },
+  {
+   "company": "Maven Clinic",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "VP of Business Operations (49%)",
+   "job_ids": [
+    "4464137708"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Maven%20Clinic%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Maven Clinic"
+  },
+  {
+   "company": "BDA, LLC",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "Divisional Vice President, Global Operations (49%)",
+   "job_ids": [
+    "4465222454"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=BDA%2C%20LLC%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at BDA, LLC"
+  },
+  {
+   "company": "Snap",
+   "seat": true,
+   "best_prob": 48,
+   "jobs_label": "Director of Growth, E-commerce (Remote) (48%)",
+   "job_ids": [
+    "4411523895"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Snap%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Snap"
+  },
+  {
+   "company": "Redfin",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Chief of Staff (47%) +1 more",
+   "job_ids": [
+    "4467653045",
+    "4462553392"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Redfin%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Redfin"
+  },
+  {
+   "company": "The Wendy's Company",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Sr Director - Area Operations (47%)",
+   "job_ids": [
+    "4467893276"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=The%20Wendy%27s%20Company%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at The Wendy's Company"
+  },
+  {
+   "company": "Blue Origin",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Sr. Director, New Site Operations (47%)",
+   "job_ids": [
+    "4448726318"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Blue%20Origin%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Blue Origin"
+  },
+  {
+   "company": "Podium Automation",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Head of Operations (47%)",
+   "job_ids": [
+    "4470606642"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Podium%20Automation%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Podium Automation"
+  },
+  {
+   "company": "Cohesity",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Senior Director, Global Channel & Alliances Operations (47%)",
+   "job_ids": [
+    "4470486903"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Cohesity%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Cohesity"
+  },
+  {
+   "company": "Harvey",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Head of GTM Strategy & Operations, AMER (47%)",
+   "job_ids": [
+    "4450022227"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Harvey%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Harvey"
+  },
+  {
+   "company": "Checkr, Inc.",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Chief of Staff (47%)",
+   "job_ids": [
+    "4412966096"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Checkr%2C%20Inc.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Checkr, Inc."
+  },
+  {
+   "company": "CVS Health",
+   "seat": true,
+   "best_prob": 45,
+   "jobs_label": "Executive Director, Chief Operations Officer - Aetna Better Health of Maryland (45%)",
+   "job_ids": [
+    "4471105007"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=CVS%20Health%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at CVS Health"
+  },
+  {
+   "company": "Scale AI",
+   "seat": true,
+   "best_prob": 44,
+   "jobs_label": "Head of GTM Strategy & Operations, Enterprise (44%)",
+   "job_ids": [
+    "4372908520"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Scale%20AI%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Scale AI"
+  },
+  {
+   "company": "World Wide Technology",
+   "seat": true,
+   "best_prob": 43,
+   "jobs_label": "Vice President - Logistics Operations (43%)",
+   "job_ids": [
+    "4434354266"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=World%20Wide%20Technology%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at World Wide Technology"
+  },
+  {
+   "company": "eBay",
+   "seat": true,
+   "best_prob": 42,
+   "jobs_label": "General Manager, Ads (42%)",
+   "job_ids": [
+    "4440436496"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=eBay%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at eBay"
+  },
+  {
+   "company": "BetMGM",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "SVP, Business Transformation and AI Strategy (41%)",
+   "job_ids": [
+    "4440379343"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=BetMGM%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at BetMGM"
+  },
+  {
+   "company": "MetroStar",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "Sr. Vice President, Operations (6820) (41%) +1 more",
+   "job_ids": [
+    "4467325154",
+    "4467329064"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=MetroStar%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at MetroStar"
+  },
+  {
+   "company": "AvalonBay Communities",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "VP Development Operations (41%)",
+   "job_ids": [
+    "4468844309"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=AvalonBay%20Communities%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at AvalonBay Communities"
+  },
+  {
+   "company": "Equity Residential",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "VP Development Operations (41%)",
+   "job_ids": [
+    "4467497006"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Equity%20Residential%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Equity Residential"
+  },
+  {
+   "company": "DICK'S Sporting Goods",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "Sr. Director Distribution Center Operations (Conklin, NY) (41%)",
+   "job_ids": [
+    "4463418143"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DICK%27S%20Sporting%20Goods%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at DICK'S Sporting Goods"
+  },
+  {
+   "company": "AstraZeneca",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "Senior Director, Business Transformation and Agility (41%)",
+   "job_ids": [
+    "4467899964"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=AstraZeneca%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at AstraZeneca"
+  },
+  {
+   "company": "WelbeHealth",
+   "seat": true,
+   "best_prob": 39,
+   "jobs_label": "VP, Transportation (39%)",
+   "job_ids": [
+    "4462842677"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=WelbeHealth%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at WelbeHealth"
+  },
+  {
+   "company": "Qcells North America",
+   "seat": true,
+   "best_prob": 38,
+   "jobs_label": "Head of Government Relations (38%) +1 more",
+   "job_ids": [
+    "4468079880",
+    "4467822761"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Qcells%20North%20America%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Qcells North America"
+  },
+  {
+   "company": "Qualcomm",
+   "seat": true,
+   "best_prob": 38,
+   "jobs_label": "Senior Director, Government Affairs - Automotive, AI, and Emerging Technologies (38%)",
+   "job_ids": [
+    "4469014400"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Qualcomm%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Qualcomm"
+  },
+  {
+   "company": "Snowflake",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "Head of Global Government Affairs (35%) +1 more",
+   "job_ids": [
+    "4446548593",
+    "4444499114"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Snowflake%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Snowflake"
+  },
+  {
+   "company": "Din Tai Fung North America",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "VP of Operations (North East) (35%)",
+   "job_ids": [
+    "4466247119"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Din%20Tai%20Fung%20North%20America%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Din Tai Fung North America"
+  },
+  {
+   "company": "Apex",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "Vice President of Supply Chain (35%)",
+   "job_ids": [
+    "4445280728"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Apex%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Apex"
+  },
+  {
+   "company": "Prologis",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "VP, Operations - OnPrem Power & Mobility (35%)",
+   "job_ids": [
+    "4470649967"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Prologis%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Prologis"
+  },
+  {
+   "company": "Horizon Media",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "VP, AI (Agentic Platforms & Transformation) (35%)",
+   "job_ids": [
+    "4446699868"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Horizon%20Media%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Horizon Media"
+  },
+  {
+   "company": "Dassault Syst\u00e8mes",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "VP, Business Transformation and Operations (35%)",
+   "job_ids": [
+    "4414296531"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Syst%C3%A8mes%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Dassault Syst\u00e8mes"
+  },
+  {
+   "company": "TEGNA",
+   "seat": true,
+   "best_prob": 33,
+   "jobs_label": "Group General Manager (33%)",
+   "job_ids": [
+    "4463674759"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=TEGNA%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at TEGNA"
+  },
+  {
+   "company": "Faire",
+   "seat": true,
+   "best_prob": 33,
+   "jobs_label": "Head of Revenue Operations & AI (33%)",
+   "job_ids": [
+    "4435036131"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Faire%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Faire"
+  },
+  {
+   "company": "US Pharmacopeia",
+   "seat": true,
+   "best_prob": 33,
+   "jobs_label": "General Manager, Dietary Supplement Verification- REMOTE (33%)",
+   "job_ids": [
+    "4433507233"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=US%20Pharmacopeia%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at US Pharmacopeia"
+  },
+  {
+   "company": "Nscale",
+   "seat": true,
+   "best_prob": 31,
+   "jobs_label": "Director of GTM Strategy (31%)",
+   "job_ids": [
+    "4465834357"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Nscale%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Nscale"
+  },
+  {
+   "company": "nVent",
+   "seat": true,
+   "best_prob": 29,
+   "jobs_label": "Vice President of Integrated Supply Chain - Systems Protection (29%)",
+   "job_ids": [
+    "4414947577"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=nVent%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at nVent"
+  },
+  {
+   "company": "Commonwealth Fusion Systems",
+   "seat": true,
+   "best_prob": 29,
+   "jobs_label": "Vice President of Supply Chain (29%)",
+   "job_ids": [
+    "4432666162"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Commonwealth%20Fusion%20Systems%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Commonwealth Fusion Systems"
+  },
+  {
+   "company": "Dairy Queen",
+   "seat": true,
+   "best_prob": 29,
+   "jobs_label": "Vice President, Digital Commerce & Loyalty, US and Canada (29%)",
+   "job_ids": [
+    "4465218617"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dairy%20Queen%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Dairy Queen"
+  },
+  {
+   "company": "Sila Nanotechnologies, Inc.",
+   "seat": true,
+   "best_prob": 29,
+   "jobs_label": "VP, Foundry Operations (29%)",
+   "job_ids": [
+    "4470032685"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Sila%20Nanotechnologies%2C%20Inc.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Sila Nanotechnologies, Inc."
+  },
+  {
+   "company": "Americans for Responsible Innovation",
+   "seat": true,
+   "best_prob": 26,
+   "jobs_label": "Vice President of State Government Affairs (26%)",
+   "job_ids": [
+    "4465793263"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Americans%20for%20Responsible%20Innovation%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Americans for Responsible Innovation"
+  },
+  {
+   "company": "The AI Policy Network",
+   "seat": true,
+   "best_prob": 26,
+   "jobs_label": "Vice President of Government Affairs (26%)",
+   "job_ids": [
+    "4471679425"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=The%20AI%20Policy%20Network%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at The AI Policy Network"
+  },
+  {
+   "company": "The Nuclear Company",
+   "seat": true,
+   "best_prob": 25,
+   "jobs_label": "Senior Vice President, Operations (25%)",
+   "job_ids": [
+    "4455928393"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=The%20Nuclear%20Company%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at The Nuclear Company"
+  }
+ ]
+}
