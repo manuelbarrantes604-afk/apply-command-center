@@ -266,7 +266,7 @@
    "company": "Capital One",
    "name": "Jennifer R. Jackson",
    "title": "Senior Executive and Business Leader | P&L Ownership, Digital Transformation, Operations",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/jennifer-r-jackson-15546810/",
    "source": "network.json",
    "best_prob": 80,
@@ -282,7 +282,7 @@
   {
    "company": "Uber",
    "name": "Katie Gonzalez",
-   "title": "Manager, Recruiting \u2013 Strategy & Operations (Mobility, Delivery, AV)",
+   "title": "Manager, Recruiting – Strategy & Operations (Mobility, Delivery, AV)",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/katie-gonzalez-31262095",
    "source": "WebSearch site:linkedin.com/in (Uber recruiter strategy operations)",
@@ -404,7 +404,7 @@
     "4472068676"
    ],
    "note": "Hi Jessie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "pending-already"
   },
   {
    "company": "TikTok",
@@ -424,7 +424,7 @@
     "4472068676"
    ],
    "note": "Hi Lingzi, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "TikTok",
@@ -444,7 +444,7 @@
     "4472068676"
    ],
    "note": "Hi Christina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "TikTok",
@@ -492,12 +492,12 @@
    "linkedin_url": "https://www.linkedin.com/in/jennifermariemullen",
    "source": "WebSearch site:linkedin.com/in",
    "best_prob": 76,
-   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
+   "jobs_label": "Director, Service Delivery — Money Services & Workforce Solutions (76%)",
    "job_ids": [
     "4439367548"
    ],
    "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Intuit",
@@ -507,12 +507,12 @@
    "linkedin_url": "https://www.linkedin.com/in/bakerjoe",
    "source": "WebSearch site:linkedin.com/in",
    "best_prob": 76,
-   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
+   "jobs_label": "Director, Service Delivery — Money Services & Workforce Solutions (76%)",
    "job_ids": [
     "4439367548"
    ],
    "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Salesforce",
@@ -528,13 +528,13 @@
     "4469950557"
    ],
    "note": "Hi Alison, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Salesforce",
    "name": "Rahul Meena",
-   "title": "Ops & CRM Specialist | Salesforce \u00b7 SQL \u00b7 Python",
-   "kind": "Employee \u00b7 1st",
+   "title": "Ops & CRM Specialist | Salesforce · SQL · Python",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/rahul-meena-b03693183/",
    "source": "network.json",
    "best_prob": 76,
@@ -549,7 +549,7 @@
    "company": "Salesforce",
    "name": "Juston Michealson",
    "title": "Enterprise Sales Engineering Director",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/justonmichealson/",
    "source": "network.json",
    "best_prob": 76,
@@ -564,7 +564,7 @@
    "company": "Salesforce",
    "name": "Ramya Badakanda Subbaiah",
    "title": "Data Analytics | Last Mile Delivery Operation",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/ramyasubbaiah/",
    "source": "network.json",
    "best_prob": 76,
@@ -588,7 +588,7 @@
     "4456623366"
    ],
    "note": "Hi Michelle, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Affirm",
@@ -631,7 +631,7 @@
     "4410903290"
    ],
    "note": "Hi Amy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "West Monroe",
@@ -646,7 +646,7 @@
     "4410903290"
    ],
    "note": "Hi Lindsay, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Meta",
@@ -661,7 +661,7 @@
     "4464707344"
    ],
    "note": "Hi Natalie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "pending-already"
   },
   {
    "company": "Meta",
@@ -676,13 +676,13 @@
     "4464707344"
    ],
    "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "skipped-other"
   },
   {
    "company": "Meta",
    "name": "Blair Ethington",
    "title": "Product Management Executive",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/blairethington/",
    "source": "network.json",
    "best_prob": 72,
@@ -696,7 +696,7 @@
    "company": "Meta",
    "name": "Rick Ton",
    "title": "Growth, GTM & Demand Generation Leader",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/rickton/",
    "source": "network.json",
    "best_prob": 72,
@@ -708,9 +708,9 @@
   },
   {
    "company": "Meta",
-   "name": "S\u00e9bastien Dubuisson",
-   "title": "Unlocking Cross-Border Revenue for Brands | Product \u00d7 Partnerships | ex-Meta",
-   "kind": "Employee \u00b7 1st",
+   "name": "Sébastien Dubuisson",
+   "title": "Unlocking Cross-Border Revenue for Brands | Product × Partnerships | ex-Meta",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/sebastiendubuisson/",
    "source": "network.json",
    "best_prob": 72,
@@ -718,7 +718,7 @@
    "job_ids": [
     "4464707344"
    ],
-   "note": "Hi S\u00e9bastien, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+   "note": "Hi Sébastien, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
   },
   {
    "company": "Alvarez & Marsal",
@@ -775,12 +775,12 @@
     "4471838789"
    ],
    "note": "Hi Elley, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Northrop Grumman and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Google",
    "name": "Sellena Pelzer",
-   "title": "Recruiting Business Partner \u2013 Global Partnerships, GTM Operations",
+   "title": "Recruiting Business Partner – Global Partnerships, GTM Operations",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/sellenapelzer",
    "source": "WebSearch site:linkedin.com/in (Google S&O recruiter)",
@@ -794,7 +794,7 @@
     "4461904138"
    ],
    "note": "Hi Sellena, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Google",
@@ -813,13 +813,13 @@
     "4461904138"
    ],
    "note": "Hi Bela, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Google",
    "name": "Thomas de Noronha e Silva Tomei",
    "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/royalsflush/",
    "source": "network.json",
    "best_prob": 70,
@@ -837,7 +837,7 @@
    "company": "Google",
    "name": "Daniel Roman",
    "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/danielwalterroman/",
    "source": "network.json",
    "best_prob": 70,
@@ -854,7 +854,7 @@
   {
    "company": "Google",
    "name": "Eric Pumphrey",
-   "title": "Director, GTM Strategy & Operations \u2013 Search & Shopping, Retail",
+   "title": "Director, GTM Strategy & Operations – Search & Shopping, Retail",
    "kind": "Employee",
    "linkedin_url": "https://www.linkedin.com/in/eric-pumphrey-b9979555",
    "source": "WebSearch site:linkedin.com/in",
@@ -884,7 +884,7 @@
   {
    "company": "Merck",
    "name": "Michele Y. Tong",
-   "title": "Executive Director, Global Talent Acquisition \u2013 Executive Search",
+   "title": "Executive Director, Global Talent Acquisition – Executive Search",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/michele-y-tong-jd-16a8207",
    "source": "WebSearch site:linkedin.com/in",
@@ -894,7 +894,7 @@
     "4467286998"
    ],
    "note": "Hi Michele, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Merck and would value connecting.",
-   "invite_status": "not-yet"
+   "invite_status": "sent"
   },
   {
    "company": "Insmed Incorporated",
@@ -941,7 +941,7 @@
   {
    "company": "Citi",
    "name": "Mike Penfold",
-   "title": "Global Executive Talent Acquisition Partner \u2013 Technology, Operations, Services & COO",
+   "title": "Global Executive Talent Acquisition Partner – Technology, Operations, Services & COO",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/mpenfold",
    "source": "WebSearch site:linkedin.com/in",
@@ -960,7 +960,7 @@
   {
    "company": "Citi",
    "name": "Daniel Beresford",
-   "title": "Executive Search Partner \u2013 Global Functions, Operations & Technology",
+   "title": "Executive Search Partner – Global Functions, Operations & Technology",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/djberesford",
    "source": "WebSearch site:linkedin.com/in",
@@ -979,7 +979,7 @@
   {
    "company": "Citi",
    "name": "Katrina Stanfield",
-   "title": "Recruiter, Citi Operations (AVP\u2013Director)",
+   "title": "Recruiter, Citi Operations (AVP–Director)",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/katrina-stanfield-246a7016",
    "source": "WebSearch site:linkedin.com/in",
@@ -1023,7 +1023,7 @@
    "company": "Bloom Energy",
    "seat": true,
    "best_prob": 65,
-   "jobs_label": "Global Operations Director \u2013 Services (65%)",
+   "jobs_label": "Global Operations Director – Services (65%)",
    "job_ids": [
     "4408983444"
    ],
@@ -1046,7 +1046,7 @@
   {
    "company": "Adobe",
    "name": "Marissa Rodgers",
-   "title": "Talent Partner \u2013 Ops/Strategy hiring, Creativity & Productivity",
+   "title": "Talent Partner – Ops/Strategy hiring, Creativity & Productivity",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/marissarodgers",
    "source": "WebSearch site:linkedin.com/in",
@@ -1061,7 +1061,7 @@
   {
    "company": "Palo Alto Networks",
    "name": "Tammy Dutremble",
-   "title": "Executive Recruiter \u2013 Strategy, Finance, GTM",
+   "title": "Executive Recruiter – Strategy, Finance, GTM",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/tammydutremble",
    "source": "WebSearch site:linkedin.com/in",
@@ -1095,7 +1095,7 @@
    "company": "Workday",
    "name": "Jenifer (Haynes) Innis",
    "title": "Senior Manager, Program Management - Core HR",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/jenifer-haynes-innis-289a9559/",
    "source": "network.json",
    "best_prob": 64,
@@ -1109,7 +1109,7 @@
    "company": "Workday",
    "name": "Michael McClain",
    "title": "Divisional People Partner - Supply Chain",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/michael-mcclain-17ba4150/",
    "source": "network.json",
    "best_prob": 64,
@@ -1123,7 +1123,7 @@
    "company": "Workday",
    "name": "Sydney DeVor",
    "title": "Senior Manager, Total Rewards Core People",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/sydneydevor/",
    "source": "network.json",
    "best_prob": 64,
@@ -1137,7 +1137,7 @@
    "company": "Workday",
    "name": "Namrata Collins",
    "title": "Biztech leader transforming business through technology-based disruption",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/namrata-collins-66a3574/",
    "source": "network.json",
    "best_prob": 64,
@@ -1150,7 +1150,7 @@
   {
    "company": "Waymo",
    "name": "Leigha Russo",
-   "title": "Recruiter \u2013 Business Operations, Fleet Operations & Supply Chain",
+   "title": "Recruiter – Business Operations, Fleet Operations & Supply Chain",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/leigharusso",
    "source": "WebSearch site:linkedin.com/in",
@@ -1165,7 +1165,7 @@
   {
    "company": "Waymo",
    "name": "Daniel McNatt",
-   "title": "Recruiter \u2013 Supply Chain, Manufacturing, Safety & Fleet Operations",
+   "title": "Recruiter – Supply Chain, Manufacturing, Safety & Fleet Operations",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/danielmcnatt",
    "source": "WebSearch site:linkedin.com/in",
@@ -1457,7 +1457,7 @@
    "company": "OpenAI",
    "name": "Sarah Friar",
    "title": "CFO OpenAI",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/sarah-friar/",
    "source": "network.json",
    "best_prob": 58,
@@ -1715,7 +1715,7 @@
    "company": "Slalom",
    "seat": true,
    "best_prob": 51,
-   "jobs_label": "Managing Director, Go-To-Market \u2014 Customer Experience for North America (51%)",
+   "jobs_label": "Managing Director, Go-To-Market — Customer Experience for North America (51%)",
    "job_ids": [
     "4469478704"
    ],
@@ -1790,11 +1790,11 @@
    "company": "Oracle",
    "name": "Sriram Samu",
    "title": "Retail and e-commerce Technology | Technology Strategy | AI, Data, Cloud",
-   "kind": "Employee \u00b7 1st",
+   "kind": "Employee · 1st",
    "linkedin_url": "https://www.linkedin.com/in/sriramsamu/",
    "source": "network.json",
    "best_prob": 50,
-   "jobs_label": "Senior Director, Materials Management & Execution \u2013 Supply Chain (50%)",
+   "jobs_label": "Senior Director, Materials Management & Execution – Supply Chain (50%)",
    "job_ids": [
     "4441899669"
    ],
@@ -2238,7 +2238,7 @@
    "name": "Find a recruiter at Horizon Media"
   },
   {
-   "company": "Dassault Syst\u00e8mes",
+   "company": "Dassault Systèmes",
    "seat": true,
    "best_prob": 35,
    "jobs_label": "VP, Business Transformation and Operations (35%)",
@@ -2247,7 +2247,7 @@
    ],
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Syst%C3%A8mes%20recruiter",
    "kind": "Seat",
-   "name": "Find a recruiter at Dassault Syst\u00e8mes"
+   "name": "Find a recruiter at Dassault Systèmes"
   },
   {
    "company": "JPMorgan Chase",
