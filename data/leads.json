@@ -1,8 +1,8 @@
 {
  "meta": {
-  "named_recruiters": 48,
-  "named_employees": 30,
-  "seats": 79,
+  "named_recruiters": 51,
+  "named_employees": 33,
+  "seats": 87,
   "companies_named": [
    "Adobe",
    "Affirm",
@@ -17,10 +17,12 @@
    "Intuit",
    "Merck",
    "Meta",
+   "Microsoft",
    "Northrop Grumman",
    "OpenAI",
    "Oracle",
    "Palo Alto Networks",
+   "Ross Stores",
    "Salesforce",
    "T. Rowe Price",
    "TikTok",
@@ -29,7 +31,7 @@
    "West Monroe",
    "Workday"
   ],
-  "companies_on_board": 103
+  "companies_on_board": 113
  },
  "leads": [
   {
@@ -57,7 +59,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Annie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Annie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "pending-already"
   },
   {
    "company": "DoorDash",
@@ -72,7 +75,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Kelsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Kelsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "skipped-email"
   },
   {
    "company": "DoorDash",
@@ -87,7 +91,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Lauren, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Lauren, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "DoorDash",
@@ -102,7 +107,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "DoorDash",
@@ -117,7 +123,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Kelly, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Kelly, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "DoorDash",
@@ -132,7 +139,8 @@
     "4400477099",
     "4416838669"
    ],
-   "note": "Hi Lianna, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting."
+   "note": "Hi Lianna, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at DoorDash and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "DoorDash",
@@ -179,7 +187,8 @@
     "4472014590",
     "4463779469"
    ],
-   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Capital One",
@@ -196,7 +205,8 @@
     "4472014590",
     "4463779469"
    ],
-   "note": "Hi Megan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+   "note": "Hi Megan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Capital One",
@@ -213,7 +223,8 @@
     "4472014590",
     "4463779469"
    ],
-   "note": "Hi Lucy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+   "note": "Hi Lucy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Capital One",
@@ -230,7 +241,8 @@
     "4472014590",
     "4463779469"
    ],
-   "note": "Hi Sarah, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+   "note": "Hi Sarah, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Capital One",
@@ -247,7 +259,8 @@
     "4472014590",
     "4463779469"
    ],
-   "note": "Hi Cory, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting."
+   "note": "Hi Cory, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Capital One and would value connecting.",
+   "invite_status": "skipped-other"
   },
   {
    "company": "Capital One",
@@ -278,7 +291,8 @@
    "job_ids": [
     "4470658781"
    ],
-   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Uber",
@@ -292,7 +306,8 @@
    "job_ids": [
     "4470658781"
    ],
-   "note": "Hi Jessica, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+   "note": "Hi Jessica, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Uber",
@@ -306,7 +321,8 @@
    "job_ids": [
     "4470658781"
    ],
-   "note": "Hi Matt, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting."
+   "note": "Hi Matt, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Uber and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "Uber",
@@ -367,7 +383,8 @@
     "4460265018",
     "4472068676"
    ],
-   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
+   "invite_status": "sent"
   },
   {
    "company": "TikTok",
@@ -386,7 +403,8 @@
     "4460265018",
     "4472068676"
    ],
-   "note": "Hi Jessie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+   "note": "Hi Jessie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "TikTok",
@@ -405,7 +423,8 @@
     "4460265018",
     "4472068676"
    ],
-   "note": "Hi Lingzi, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+   "note": "Hi Lingzi, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "TikTok",
@@ -424,7 +443,8 @@
     "4460265018",
     "4472068676"
    ],
-   "note": "Hi Christina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting."
+   "note": "Hi Christina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at TikTok and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "TikTok",
@@ -476,7 +496,8 @@
    "job_ids": [
     "4439367548"
    ],
-   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting."
+   "note": "Hi Jennifer, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Intuit",
@@ -490,7 +511,8 @@
    "job_ids": [
     "4439367548"
    ],
-   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting."
+   "note": "Hi Joe, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Intuit and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Salesforce",
@@ -505,7 +527,8 @@
     "4422183197",
     "4469950557"
    ],
-   "note": "Hi Alison, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting."
+   "note": "Hi Alison, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Salesforce and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Salesforce",
@@ -564,7 +587,8 @@
    "job_ids": [
     "4456623366"
    ],
-   "note": "Hi Michelle, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting."
+   "note": "Hi Michelle, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring customer operations roles at Affirm and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Affirm",
@@ -606,7 +630,8 @@
    "job_ids": [
     "4410903290"
    ],
-   "note": "Hi Amy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting."
+   "note": "Hi Amy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "West Monroe",
@@ -620,7 +645,8 @@
    "job_ids": [
     "4410903290"
    ],
-   "note": "Hi Lindsay, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting."
+   "note": "Hi Lindsay, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at West Monroe and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Meta",
@@ -634,7 +660,8 @@
    "job_ids": [
     "4464707344"
    ],
-   "note": "Hi Natalie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+   "note": "Hi Natalie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Meta",
@@ -648,7 +675,8 @@
    "job_ids": [
     "4464707344"
    ],
-   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Meta",
@@ -746,7 +774,8 @@
    "job_ids": [
     "4471838789"
    ],
-   "note": "Hi Elley, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Northrop Grumman and would value connecting."
+   "note": "Hi Elley, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Northrop Grumman and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Google",
@@ -764,7 +793,8 @@
     "4469465258",
     "4461904138"
    ],
-   "note": "Hi Sellena, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+   "note": "Hi Sellena, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Google",
@@ -782,7 +812,8 @@
     "4469465258",
     "4461904138"
    ],
-   "note": "Hi Bela, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting."
+   "note": "Hi Bela, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Google and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Google",
@@ -862,7 +893,8 @@
    "job_ids": [
     "4467286998"
    ],
-   "note": "Hi Michele, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Merck and would value connecting."
+   "note": "Hi Michele, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Merck and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Insmed Incorporated",
@@ -888,7 +920,8 @@
    "job_ids": [
     "4463907600"
    ],
-   "note": "Hi Christine, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting."
+   "note": "Hi Christine, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "T. Rowe Price",
@@ -902,7 +935,8 @@
    "job_ids": [
     "4463907600"
    ],
-   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting."
+   "note": "Hi Katie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at T. Rowe Price and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Citi",
@@ -920,7 +954,8 @@
     "4463644948",
     "4462382023"
    ],
-   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+   "note": "Hi Mike, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Citi",
@@ -938,7 +973,8 @@
     "4463644948",
     "4462382023"
    ],
-   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Citi",
@@ -956,7 +992,8 @@
     "4463644948",
     "4462382023"
    ],
-   "note": "Hi Katrina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting."
+   "note": "Hi Katrina, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring chief of staff roles at Citi and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Navan",
@@ -1018,7 +1055,8 @@
    "job_ids": [
     "4427774239"
    ],
-   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Adobe and would value connecting."
+   "note": "Hi Marissa, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Adobe and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Palo Alto Networks",
@@ -1034,7 +1072,8 @@
     "4450198140",
     "4465245553"
    ],
-   "note": "Hi Tammy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Palo Alto Networks and would value connecting."
+   "note": "Hi Tammy, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Palo Alto Networks and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Palo Alto Networks",
@@ -1120,7 +1159,8 @@
    "job_ids": [
     "4435028566"
    ],
-   "note": "Hi Leigha, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+   "note": "Hi Leigha, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Waymo",
@@ -1134,7 +1174,8 @@
    "job_ids": [
     "4435028566"
    ],
-   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+   "note": "Hi Daniel, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Waymo",
@@ -1148,7 +1189,8 @@
    "job_ids": [
     "4435028566"
    ],
-   "note": "Hi Barbara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting."
+   "note": "Hi Barbara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Waymo and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Freshworks",
@@ -1284,6 +1326,51 @@
    "name": "Find a recruiter at Lantheus"
   },
   {
+   "company": "Ross Stores",
+   "name": "Christine Wong",
+   "title": "Director, Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/christine-daviswong",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 60,
+   "jobs_label": "Senior Director, Store Operations Planning and Admin (60%)",
+   "job_ids": [
+    "4464763435"
+   ],
+   "note": "Hi Christine, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Ross Stores and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Ross Stores",
+   "name": "Valerie Rosario",
+   "title": "Senior Recruiter (Supply Chain, Transportation & Corporate)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/valerie-rosario-8965ab43",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 60,
+   "jobs_label": "Senior Director, Store Operations Planning and Admin (60%)",
+   "job_ids": [
+    "4464763435"
+   ],
+   "note": "Hi Valerie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Ross Stores and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Ross Stores",
+   "name": "Erin Hale",
+   "title": "Senior Vice President, Store Operations",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/erin-hale-3a46319",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 60,
+   "jobs_label": "Senior Director, Store Operations Planning and Admin (60%)",
+   "job_ids": [
+    "4464763435"
+   ],
+   "note": "Hi Erin, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Ross Stores and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
    "company": "Anthropic",
    "name": "Lindsey Gallup",
    "title": "Recruiter, Business Operations & Strategy",
@@ -1296,7 +1383,8 @@
     "4457544919",
     "4468867531"
    ],
-   "note": "Hi Lindsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting."
+   "note": "Hi Lindsey, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Anthropic",
@@ -1311,7 +1399,8 @@
     "4457544919",
     "4468867531"
    ],
-   "note": "Hi Brian, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting."
+   "note": "Hi Brian, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring operations leadership roles at Anthropic and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "OpenAI",
@@ -1327,7 +1416,8 @@
     "4469490201",
     "4454936180"
    ],
-   "note": "Hi Sharon, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+   "note": "Hi Sharon, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "OpenAI",
@@ -1343,7 +1433,8 @@
     "4469490201",
     "4454936180"
    ],
-   "note": "Hi Sara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+   "note": "Hi Sara, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "OpenAI",
@@ -1359,7 +1450,8 @@
     "4469490201",
     "4454936180"
    ],
-   "note": "Hi Sukie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting."
+   "note": "Hi Sukie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring marketplace operations roles at OpenAI and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "OpenAI",
@@ -1561,7 +1653,8 @@
     "4465216285",
     "4459229877"
    ],
-   "note": "Hi Melanie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting."
+   "note": "Hi Melanie, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Grant Thornton (US)",
@@ -1576,7 +1669,8 @@
     "4465216285",
     "4459229877"
    ],
-   "note": "Hi Jeff, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting."
+   "note": "Hi Jeff, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring last-mile / delivery roles at Grant Thornton (US) and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Grant Thornton (US)",
@@ -1630,6 +1724,54 @@
    "name": "Find a recruiter at Slalom"
   },
   {
+   "company": "Microsoft",
+   "name": "Bin Hu",
+   "title": "Senior Executive Recruiter, Global Executive Talent Acquisition",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/binhuhr",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 52,
+   "jobs_label": "Senior Director, Workforce Intelligence (52%) +1 more",
+   "job_ids": [
+    "4475382790",
+    "4466482998"
+   ],
+   "note": "Hi Bin, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Microsoft and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Microsoft",
+   "name": "Nate Schultz",
+   "title": "Director, People Analytics (workforce intelligence)",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/nate-schultz",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 52,
+   "jobs_label": "Senior Director, Workforce Intelligence (52%) +1 more",
+   "job_ids": [
+    "4475382790",
+    "4466482998"
+   ],
+   "note": "Hi Nate, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Microsoft and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Microsoft",
+   "name": "Erin Lowe",
+   "title": "Chief of Staff, Workforce Acceleration",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/erinlowe",
+   "source": "WebSearch 2026-10-05 daily sweep",
+   "best_prob": 52,
+   "jobs_label": "Senior Director, Workforce Intelligence (52%) +1 more",
+   "job_ids": [
+    "4475382790",
+    "4466482998"
+   ],
+   "note": "Hi Erin, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Microsoft and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
    "company": "Cloudflare",
    "name": "Andrew Kinnas",
    "title": "Senior Technical Recruiter",
@@ -1641,7 +1783,8 @@
    "job_ids": [
     "4468575915"
    ],
-   "note": "Hi Andrew, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring trust & safety operations roles at Cloudflare and would value connecting."
+   "note": "Hi Andrew, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring trust & safety operations roles at Cloudflare and would value connecting.",
+   "invite_status": "not-yet"
   },
   {
    "company": "Oracle",
@@ -1729,6 +1872,18 @@
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=BDA%2C%20LLC%20recruiter",
    "kind": "Seat",
    "name": "Find a recruiter at BDA, LLC"
+  },
+  {
+   "company": "DigiCert",
+   "seat": true,
+   "best_prob": 49,
+   "jobs_label": "VP of Product Strategy and Operations (49%)",
+   "job_ids": [
+    "4447426219"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=DigiCert%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at DigiCert"
   },
   {
    "company": "Snap",
@@ -1826,6 +1981,18 @@
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Checkr%2C%20Inc.%20recruiter",
    "kind": "Seat",
    "name": "Find a recruiter at Checkr, Inc."
+  },
+  {
+   "company": "SoFi",
+   "seat": true,
+   "best_prob": 47,
+   "jobs_label": "Senior Director, AI Enterprise Transformation (47%)",
+   "job_ids": [
+    "4457522398"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=SoFi%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at SoFi"
   },
   {
    "company": "CVS Health",
@@ -1949,6 +2116,18 @@
    "name": "Find a recruiter at AstraZeneca"
   },
   {
+   "company": "Lila Sciences",
+   "seat": true,
+   "best_prob": 41,
+   "jobs_label": "Chief of Staff to the CEO (41%)",
+   "job_ids": [
+    "4446894822"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Lila%20Sciences%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Lila Sciences"
+  },
+  {
    "company": "WelbeHealth",
    "seat": true,
    "best_prob": 39,
@@ -1984,6 +2163,18 @@
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Qualcomm%20recruiter",
    "kind": "Seat",
    "name": "Find a recruiter at Qualcomm"
+  },
+  {
+   "company": "Coherent Corp.",
+   "seat": true,
+   "best_prob": 38,
+   "jobs_label": "Sr. Director of Business Operations (38%)",
+   "job_ids": [
+    "4417277478"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Coherent%20Corp.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Coherent Corp."
   },
   {
    "company": "Snowflake",
@@ -2059,6 +2250,42 @@
    "name": "Find a recruiter at Dassault Syst\u00e8mes"
   },
   {
+   "company": "JPMorgan Chase",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "Head of Card Customer Analytics & AI Enablement-Executive Director (35%)",
+   "job_ids": [
+    "4475338320"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=JPMorgan%20Chase%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at JPMorgan Chase"
+  },
+  {
+   "company": "FOX Direct to Consumer",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "VP, Channel & Platform Partner Operations (35%)",
+   "job_ids": [
+    "4466382092"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=FOX%20Direct%20to%20Consumer%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at FOX Direct to Consumer"
+  },
+  {
+   "company": "Red Ventures",
+   "seat": true,
+   "best_prob": 35,
+   "jobs_label": "Vice President | Growth & Transformation (35%)",
+   "job_ids": [
+    "4438280629"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Red%20Ventures%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Red Ventures"
+  },
+  {
    "company": "TEGNA",
    "seat": true,
    "best_prob": 33,
@@ -2105,6 +2332,18 @@
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Nscale%20recruiter",
    "kind": "Seat",
    "name": "Find a recruiter at Nscale"
+  },
+  {
+   "company": "International (TRATON)",
+   "seat": true,
+   "best_prob": 30,
+   "jobs_label": "VP Domain Head, AI Scaling Hub - Operational Excellence, TRATON R&D US, LLC (30%)",
+   "job_ids": [
+    "4468920932"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=TRATON%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at International (TRATON)"
   },
   {
    "company": "nVent",
