@@ -1,13 +1,14 @@
 {
  "meta": {
-  "named_recruiters": 51,
-  "named_employees": 33,
-  "seats": 87,
+  "named_recruiters": 53,
+  "named_employees": 34,
+  "seats": 96,
   "companies_named": [
    "Adobe",
    "Affirm",
    "Alvarez & Marsal",
    "Anthropic",
+   "Block",
    "Capital One",
    "Citi",
    "Cloudflare",
@@ -31,7 +32,7 @@
    "West Monroe",
    "Workday"
   ],
-  "companies_on_board": 113
+  "companies_on_board": 123
  },
  "leads": [
   {
@@ -266,7 +267,7 @@
    "company": "Capital One",
    "name": "Jennifer R. Jackson",
    "title": "Senior Executive and Business Leader | P&L Ownership, Digital Transformation, Operations",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/jennifer-r-jackson-15546810/",
    "source": "network.json",
    "best_prob": 80,
@@ -282,7 +283,7 @@
   {
    "company": "Uber",
    "name": "Katie Gonzalez",
-   "title": "Manager, Recruiting – Strategy & Operations (Mobility, Delivery, AV)",
+   "title": "Manager, Recruiting \u2013 Strategy & Operations (Mobility, Delivery, AV)",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/katie-gonzalez-31262095",
    "source": "WebSearch site:linkedin.com/in (Uber recruiter strategy operations)",
@@ -492,7 +493,7 @@
    "linkedin_url": "https://www.linkedin.com/in/jennifermariemullen",
    "source": "WebSearch site:linkedin.com/in",
    "best_prob": 76,
-   "jobs_label": "Director, Service Delivery — Money Services & Workforce Solutions (76%)",
+   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
    "job_ids": [
     "4439367548"
    ],
@@ -507,7 +508,7 @@
    "linkedin_url": "https://www.linkedin.com/in/bakerjoe",
    "source": "WebSearch site:linkedin.com/in",
    "best_prob": 76,
-   "jobs_label": "Director, Service Delivery — Money Services & Workforce Solutions (76%)",
+   "jobs_label": "Director, Service Delivery \u2014 Money Services & Workforce Solutions (76%)",
    "job_ids": [
     "4439367548"
    ],
@@ -533,8 +534,8 @@
   {
    "company": "Salesforce",
    "name": "Rahul Meena",
-   "title": "Ops & CRM Specialist | Salesforce · SQL · Python",
-   "kind": "Employee · 1st",
+   "title": "Ops & CRM Specialist | Salesforce \u00b7 SQL \u00b7 Python",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/rahul-meena-b03693183/",
    "source": "network.json",
    "best_prob": 76,
@@ -549,7 +550,7 @@
    "company": "Salesforce",
    "name": "Juston Michealson",
    "title": "Enterprise Sales Engineering Director",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/justonmichealson/",
    "source": "network.json",
    "best_prob": 76,
@@ -564,7 +565,7 @@
    "company": "Salesforce",
    "name": "Ramya Badakanda Subbaiah",
    "title": "Data Analytics | Last Mile Delivery Operation",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/ramyasubbaiah/",
    "source": "network.json",
    "best_prob": 76,
@@ -682,7 +683,7 @@
    "company": "Meta",
    "name": "Blair Ethington",
    "title": "Product Management Executive",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/blairethington/",
    "source": "network.json",
    "best_prob": 72,
@@ -696,7 +697,7 @@
    "company": "Meta",
    "name": "Rick Ton",
    "title": "Growth, GTM & Demand Generation Leader",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/rickton/",
    "source": "network.json",
    "best_prob": 72,
@@ -708,9 +709,9 @@
   },
   {
    "company": "Meta",
-   "name": "Sébastien Dubuisson",
-   "title": "Unlocking Cross-Border Revenue for Brands | Product × Partnerships | ex-Meta",
-   "kind": "Employee · 1st",
+   "name": "S\u00e9bastien Dubuisson",
+   "title": "Unlocking Cross-Border Revenue for Brands | Product \u00d7 Partnerships | ex-Meta",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/sebastiendubuisson/",
    "source": "network.json",
    "best_prob": 72,
@@ -718,7 +719,7 @@
    "job_ids": [
     "4464707344"
    ],
-   "note": "Hi Sébastien, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
+   "note": "Hi S\u00e9bastien, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring strategy & operations roles at Meta and would value connecting."
   },
   {
    "company": "Alvarez & Marsal",
@@ -763,6 +764,57 @@
    "note": "Hi Bryan, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring fulfillment & logistics roles at Alvarez & Marsal and would value connecting."
   },
   {
+   "company": "Block",
+   "name": "Ana Cornejo",
+   "title": "Senior Recruiter (Business & Customer Operations, GTM)",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/ana-cornejo-recruiting",
+   "source": "WebSearch 2026-10-06 daily sweep",
+   "best_prob": 72,
+   "jobs_label": "Head of Global External Workforce & Partner Strategy (72%) +2 more",
+   "job_ids": [
+    "4474013796",
+    "4474011916",
+    "4474016663"
+   ],
+   "note": "Hi Ana, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Block and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Block",
+   "name": "Jacob Block",
+   "title": "Head of Global Recruiting, GTM / G&A / Sales Engineering",
+   "kind": "Recruiter",
+   "linkedin_url": "https://www.linkedin.com/in/jacob-block-mba-7a951a102",
+   "source": "WebSearch 2026-10-06 daily sweep",
+   "best_prob": 72,
+   "jobs_label": "Head of Global External Workforce & Partner Strategy (72%) +2 more",
+   "job_ids": [
+    "4474013796",
+    "4474011916",
+    "4474016663"
+   ],
+   "note": "Hi Jacob, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Block and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
+   "company": "Block",
+   "name": "Ben Bullitt",
+   "title": "Head of Global Seller Onboarding, Square (hiring manager for both roles)",
+   "kind": "Employee",
+   "linkedin_url": "https://www.linkedin.com/in/ben-bullitt",
+   "source": "WebSearch 2026-10-06 daily sweep",
+   "best_prob": 72,
+   "jobs_label": "Head of Global External Workforce & Partner Strategy (72%) +2 more",
+   "job_ids": [
+    "4474013796",
+    "4474011916",
+    "4474016663"
+   ],
+   "note": "Hi Ben, I'm Manuel, a Walmart operations leader (Last Mile / Spark marketplace) and White House Fellow working on AI in the workplace at the Dept. of Labor. I'm exploring AI transformation / workforce roles at Block and would value connecting.",
+   "invite_status": "not-yet"
+  },
+  {
    "company": "Northrop Grumman",
    "name": "Elley Seifert",
    "title": "Director of Talent Acquisition (Space Sector)",
@@ -780,7 +832,7 @@
   {
    "company": "Google",
    "name": "Sellena Pelzer",
-   "title": "Recruiting Business Partner – Global Partnerships, GTM Operations",
+   "title": "Recruiting Business Partner \u2013 Global Partnerships, GTM Operations",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/sellenapelzer",
    "source": "WebSearch site:linkedin.com/in (Google S&O recruiter)",
@@ -819,7 +871,7 @@
    "company": "Google",
    "name": "Thomas de Noronha e Silva Tomei",
    "title": "Staff Software Engineer, Google Cloud Critical Systems UTL",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/royalsflush/",
    "source": "network.json",
    "best_prob": 70,
@@ -837,7 +889,7 @@
    "company": "Google",
    "name": "Daniel Roman",
    "title": "EMEA ISV Sales at Google - Nordics, CEE, DACH",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/danielwalterroman/",
    "source": "network.json",
    "best_prob": 70,
@@ -854,7 +906,7 @@
   {
    "company": "Google",
    "name": "Eric Pumphrey",
-   "title": "Director, GTM Strategy & Operations – Search & Shopping, Retail",
+   "title": "Director, GTM Strategy & Operations \u2013 Search & Shopping, Retail",
    "kind": "Employee",
    "linkedin_url": "https://www.linkedin.com/in/eric-pumphrey-b9979555",
    "source": "WebSearch site:linkedin.com/in",
@@ -884,7 +936,7 @@
   {
    "company": "Merck",
    "name": "Michele Y. Tong",
-   "title": "Executive Director, Global Talent Acquisition – Executive Search",
+   "title": "Executive Director, Global Talent Acquisition \u2013 Executive Search",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/michele-y-tong-jd-16a8207",
    "source": "WebSearch site:linkedin.com/in",
@@ -941,7 +993,7 @@
   {
    "company": "Citi",
    "name": "Mike Penfold",
-   "title": "Global Executive Talent Acquisition Partner – Technology, Operations, Services & COO",
+   "title": "Global Executive Talent Acquisition Partner \u2013 Technology, Operations, Services & COO",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/mpenfold",
    "source": "WebSearch site:linkedin.com/in",
@@ -960,7 +1012,7 @@
   {
    "company": "Citi",
    "name": "Daniel Beresford",
-   "title": "Executive Search Partner – Global Functions, Operations & Technology",
+   "title": "Executive Search Partner \u2013 Global Functions, Operations & Technology",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/djberesford",
    "source": "WebSearch site:linkedin.com/in",
@@ -979,7 +1031,7 @@
   {
    "company": "Citi",
    "name": "Katrina Stanfield",
-   "title": "Recruiter, Citi Operations (AVP–Director)",
+   "title": "Recruiter, Citi Operations (AVP\u2013Director)",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/katrina-stanfield-246a7016",
    "source": "WebSearch site:linkedin.com/in",
@@ -1023,7 +1075,7 @@
    "company": "Bloom Energy",
    "seat": true,
    "best_prob": 65,
-   "jobs_label": "Global Operations Director – Services (65%)",
+   "jobs_label": "Global Operations Director \u2013 Services (65%)",
    "job_ids": [
     "4408983444"
    ],
@@ -1046,7 +1098,7 @@
   {
    "company": "Adobe",
    "name": "Marissa Rodgers",
-   "title": "Talent Partner – Ops/Strategy hiring, Creativity & Productivity",
+   "title": "Talent Partner \u2013 Ops/Strategy hiring, Creativity & Productivity",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/marissarodgers",
    "source": "WebSearch site:linkedin.com/in",
@@ -1061,7 +1113,7 @@
   {
    "company": "Palo Alto Networks",
    "name": "Tammy Dutremble",
-   "title": "Executive Recruiter – Strategy, Finance, GTM",
+   "title": "Executive Recruiter \u2013 Strategy, Finance, GTM",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/tammydutremble",
    "source": "WebSearch site:linkedin.com/in",
@@ -1095,7 +1147,7 @@
    "company": "Workday",
    "name": "Jenifer (Haynes) Innis",
    "title": "Senior Manager, Program Management - Core HR",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/jenifer-haynes-innis-289a9559/",
    "source": "network.json",
    "best_prob": 64,
@@ -1109,7 +1161,7 @@
    "company": "Workday",
    "name": "Michael McClain",
    "title": "Divisional People Partner - Supply Chain",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/michael-mcclain-17ba4150/",
    "source": "network.json",
    "best_prob": 64,
@@ -1123,7 +1175,7 @@
    "company": "Workday",
    "name": "Sydney DeVor",
    "title": "Senior Manager, Total Rewards Core People",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/sydneydevor/",
    "source": "network.json",
    "best_prob": 64,
@@ -1137,7 +1189,7 @@
    "company": "Workday",
    "name": "Namrata Collins",
    "title": "Biztech leader transforming business through technology-based disruption",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/namrata-collins-66a3574/",
    "source": "network.json",
    "best_prob": 64,
@@ -1150,7 +1202,7 @@
   {
    "company": "Waymo",
    "name": "Leigha Russo",
-   "title": "Recruiter – Business Operations, Fleet Operations & Supply Chain",
+   "title": "Recruiter \u2013 Business Operations, Fleet Operations & Supply Chain",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/leigharusso",
    "source": "WebSearch site:linkedin.com/in",
@@ -1165,7 +1217,7 @@
   {
    "company": "Waymo",
    "name": "Daniel McNatt",
-   "title": "Recruiter – Supply Chain, Manufacturing, Safety & Fleet Operations",
+   "title": "Recruiter \u2013 Supply Chain, Manufacturing, Safety & Fleet Operations",
    "kind": "Recruiter",
    "linkedin_url": "https://www.linkedin.com/in/danielmcnatt",
    "source": "WebSearch site:linkedin.com/in",
@@ -1457,7 +1509,7 @@
    "company": "OpenAI",
    "name": "Sarah Friar",
    "title": "CFO OpenAI",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/sarah-friar/",
    "source": "network.json",
    "best_prob": 58,
@@ -1715,7 +1767,7 @@
    "company": "Slalom",
    "seat": true,
    "best_prob": 51,
-   "jobs_label": "Managing Director, Go-To-Market — Customer Experience for North America (51%)",
+   "jobs_label": "Managing Director, Go-To-Market \u2014 Customer Experience for North America (51%)",
    "job_ids": [
     "4469478704"
    ],
@@ -1790,11 +1842,11 @@
    "company": "Oracle",
    "name": "Sriram Samu",
    "title": "Retail and e-commerce Technology | Technology Strategy | AI, Data, Cloud",
-   "kind": "Employee · 1st",
+   "kind": "Employee \u00b7 1st",
    "linkedin_url": "https://www.linkedin.com/in/sriramsamu/",
    "source": "network.json",
    "best_prob": 50,
-   "jobs_label": "Senior Director, Materials Management & Execution – Supply Chain (50%)",
+   "jobs_label": "Senior Director, Materials Management & Execution \u2013 Supply Chain (50%)",
    "job_ids": [
     "4441899669"
    ],
@@ -2043,6 +2095,30 @@
    "name": "Find a recruiter at eBay"
   },
   {
+   "company": "Dow Jones",
+   "seat": true,
+   "best_prob": 42,
+   "jobs_label": "Chief of Staff to the CTO (42%)",
+   "job_ids": [
+    "4475886259"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dow%20Jones%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Dow Jones"
+  },
+  {
+   "company": "F5",
+   "seat": true,
+   "best_prob": 42,
+   "jobs_label": "VP, AI Business Enablement (42%)",
+   "job_ids": [
+    "4475823528"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=F5%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at F5"
+  },
+  {
    "company": "BetMGM",
    "seat": true,
    "best_prob": 41,
@@ -2177,6 +2253,18 @@
    "name": "Find a recruiter at Coherent Corp."
   },
   {
+   "company": "Vitalize",
+   "seat": true,
+   "best_prob": 38,
+   "jobs_label": "VP, Customer Success & Delivery (38%)",
+   "job_ids": [
+    "4476131238"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Vitalize%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Vitalize"
+  },
+  {
    "company": "Snowflake",
    "seat": true,
    "best_prob": 35,
@@ -2238,7 +2326,7 @@
    "name": "Find a recruiter at Horizon Media"
   },
   {
-   "company": "Dassault Systèmes",
+   "company": "Dassault Syst\u00e8mes",
    "seat": true,
    "best_prob": 35,
    "jobs_label": "VP, Business Transformation and Operations (35%)",
@@ -2247,7 +2335,7 @@
    ],
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Syst%C3%A8mes%20recruiter",
    "kind": "Seat",
-   "name": "Find a recruiter at Dassault Systèmes"
+   "name": "Find a recruiter at Dassault Syst\u00e8mes"
   },
   {
    "company": "JPMorgan Chase",
@@ -2346,6 +2434,54 @@
    "name": "Find a recruiter at International (TRATON)"
   },
   {
+   "company": "Pacvue",
+   "seat": true,
+   "best_prob": 30,
+   "jobs_label": "VP, AI Strategy & Delivery (30%)",
+   "job_ids": [
+    "4474298113"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Pacvue%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Pacvue"
+  },
+  {
+   "company": "NVIDIA",
+   "seat": true,
+   "best_prob": 30,
+   "jobs_label": "Senior Director, Boards and Systems Supply Planning (30%)",
+   "job_ids": [
+    "4438385089"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=NVIDIA%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at NVIDIA"
+  },
+  {
+   "company": "Entegris",
+   "seat": true,
+   "best_prob": 30,
+   "jobs_label": "Senior Director, MN Operations (30%)",
+   "job_ids": [
+    "4475856547"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Entegris%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Entegris"
+  },
+  {
+   "company": "Heidi",
+   "seat": true,
+   "best_prob": 30,
+   "jobs_label": "Head of GTM Operations (30%)",
+   "job_ids": [
+    "4475869284"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Heidi%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Heidi"
+  },
+  {
    "company": "nVent",
    "seat": true,
    "best_prob": 29,
@@ -2394,6 +2530,18 @@
    "name": "Find a recruiter at Sila Nanotechnologies, Inc."
   },
   {
+   "company": "Stanley Black & Decker, Inc.",
+   "seat": true,
+   "best_prob": 29,
+   "jobs_label": "VP, Value Creation Strategy and Assessment (29%)",
+   "job_ids": [
+    "4475825618"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Stanley%20Black%20%26%20Decker%2C%20Inc.%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Stanley Black & Decker, Inc."
+  },
+  {
    "company": "Americans for Responsible Innovation",
    "seat": true,
    "best_prob": 26,
@@ -2416,6 +2564,18 @@
    "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=The%20AI%20Policy%20Network%20recruiter",
    "kind": "Seat",
    "name": "Find a recruiter at The AI Policy Network"
+  },
+  {
+   "company": "Mobility Global",
+   "seat": true,
+   "best_prob": 26,
+   "jobs_label": "Head of Government Affairs - Mobility (26%)",
+   "job_ids": [
+    "4473688692"
+   ],
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Mobility%20Global%20recruiter",
+   "kind": "Seat",
+   "name": "Find a recruiter at Mobility Global"
   },
   {
    "company": "The Nuclear Company",
